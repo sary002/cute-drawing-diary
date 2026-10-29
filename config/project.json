@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "workflow_version": "0.2",
+  "workflow_version": "0.3",
   "workflow_mode": "learning_first",
   "photo_policy": "optional_batch_finished_only",
   "publication_policy": "on_request",
@@ -21,5 +21,14 @@
     "status": "enabled",
     "scope": "this_drawing_project_only"
   },
-  "license_status": "MIT-code_CC-BY-4.0-original-content"
+  "license_status": "MIT-code_CC-BY-4.0-original-content",
+  "lesson_format": {
+    "target_finished_drawings": 1,
+    "foundation_points": 1,
+    "foundation_minutes": 3,
+    "drawing_minutes": 15,
+    "check_minutes": 2,
+    "foundation_practice_surface": "废纸，可按实际情况省略"
+  },
+  "learning_references": "docs/learning-references.md"
 }
