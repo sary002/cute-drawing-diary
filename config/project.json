@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "workflow_version": "0.2",
+  "workflow_mode": "learning_first",
+  "photo_policy": "optional_batch_finished_only",
+  "publication_policy": "on_request",
+  "required_practice_fields": [
+    "completion_confirmation"
+  ],
+  "reflection_policy": "optional_when_helpful",
+  "series_title": "每天画点可爱的",
+  "daily_minutes": 20,
+  "style": "圆润简洁的小动物，清楚轮廓、少量平涂、纸白留白",
+  "current_stage": "beginner",
+  "current_tools": "touchmark-student-36-v1",
+  "numbering": "作品编号，不要求连续自然日",
+  "remote_repository": "https://github.com/sary002/cute-drawing-diary",
+  "git_sync": {
+    "visibility": "public",
+    "trigger": "after_assistant_project_updates",
+    "status": "enabled",
+    "scope": "this_drawing_project_only"
+  },
+  "license_status": "MIT-code_CC-BY-4.0-original-content"
+}

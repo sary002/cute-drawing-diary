@@ -1,0 +1,41 @@
+{
+  "number": 1,
+  "slug": "chick",
+  "title": "圆滚滚小鸡",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "大圆起形、单层平涂与腮红留白",
+  "marker_colors": [
+    "37",
+    "24",
+    "9"
+  ],
+  "target_minutes": 20,
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，圆润可爱小动物风格"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，按本套36色色卡和教程生成"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

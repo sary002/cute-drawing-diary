@@ -1,0 +1,120 @@
+{
+  "observed_on": "2026-10-29",
+  "timezone": "Asia/Shanghai",
+  "method": "经小红书网页版搜索及打开笔记详情核实；记录详情页累计数，未抓取非公开接口",
+  "sorting": "默认综合；非全站榜单",
+  "queries": [
+    "马克笔 简笔画 可爱",
+    "油性马克笔 小动物 教程",
+    "油性马克笔 每日一画",
+    "下班画画 14/100"
+  ],
+  "limitations": [
+    "6篇目的性样本，非随机抽样",
+    "发布时间跨度大，累计数不能用于判定近30天最火",
+    "部分页面日期不显示年份，保留原显示",
+    "检索油性仍混入丙烯；须看正文确认",
+    "没有曝光、阅读、发布后固定窗口数据，无法比较真实转化",
+    "展示1.3万等为平台约数，未还原精确数",
+    "搜索卡与详情数不一致时使用详情数",
+    "链接可能需登录或从平台搜索标题打开"
+  ],
+  "notes": [
+    {
+      "id": "cat-process",
+      "title": "好像掌握了可爱的秘诀！🐈",
+      "author": "米粒的画画日记",
+      "url": "https://www.xiaohongshu.com/explore/69146991000000000d03b288",
+      "query": "油性马克笔 小动物 教程",
+      "published_display": "2025-11-12",
+      "medium": "丙烯；笔记标签及作者评论确认",
+      "format": "过程视频",
+      "likes_display": "2.3万",
+      "collects_display": "1.3万",
+      "comments_display": "719",
+      "lesson": "小动物主题、近景上色过程、单一结果"
+    },
+    {
+      "id": "flowers",
+      "title": "丙烯马克笔|来一袋花吗",
+      "author": "小欧同学",
+      "url": "https://www.xiaohongshu.com/explore/68932ae1000000000403de58",
+      "query": "马克笔 简笔画 可爱",
+      "published_display": "2025-08-06",
+      "medium": "丙烯",
+      "format": "6张图；成品为首图，存在Live标记",
+      "likes_display": "1.3万",
+      "collects_display": "1.1万",
+      "comments_display": "677",
+      "lesson": "单主体、配色集中、成品清楚；不是油性覆盖教程"
+    },
+    {
+      "id": "dog-steps",
+      "title": "线条小狗｜0⃣️零基础简笔画｜超级简单｜教程",
+      "author": "嘎嘣脆🍎手绘教程",
+      "url": "https://www.xiaohongshu.com/explore/6714f4e20000000016022635",
+      "query": "油性马克笔 小动物 教程",
+      "published_display": "2024-10-20",
+      "medium": "上色丙烯，油性记号笔仅勾线；正文明确",
+      "format": "5张图",
+      "likes_display": "8154",
+      "collects_display": "5606",
+      "comments_display": "362",
+      "lesson": "写明纸张、画幅、工具和真实用时；学习信息组织，不复制角色"
+    },
+    {
+      "id": "number-process",
+      "title": "丙烯马克笔画（56/100）（附过程）",
+      "author": "板栗爱画画",
+      "url": "https://www.xiaohongshu.com/explore/69bb3d9e000000001d01c621",
+      "query": "马克笔 简笔画 可爱",
+      "published_display": "03-19（页面未显示年份）",
+      "medium": "丙烯",
+      "format": "10张图",
+      "likes_display": "4566",
+      "collects_display": "3346",
+      "comments_display": "967",
+      "lesson": "连续编号＋过程；不能由这一篇判断整个账号的表现"
+    },
+    {
+      "id": "oil-numbered",
+      "title": "第35幅马克笔手绘简笔画|内附线稿过程",
+      "author": "一罐葡醍🍇",
+      "url": "https://www.xiaohongshu.com/explore/62899e28000000000102fc6d",
+      "query": "油性马克笔 每日一画",
+      "published_display": "编辑于2022-05-22",
+      "medium": "晨光油性80色；正文明确",
+      "format": "7张图",
+      "likes_display": "2634",
+      "collects_display": "1376",
+      "comments_display": "26",
+      "lesson": "编号＋线稿过程＋纸笔参数；媒介更近，但80色不直接套36色"
+    },
+    {
+      "id": "simple-shapes",
+      "title": "马克笔 简笔画",
+      "author": "半熟糯米",
+      "url": "https://www.xiaohongshu.com/explore/67f0e1a5000000001c011a16",
+      "query": "油性马克笔 小动物 教程",
+      "published_display": "2025-04-05",
+      "medium": "只写马克笔，未确认油性或丙烯",
+      "format": "7张图",
+      "likes_display": "1193",
+      "collects_display": "743",
+      "comments_display": "5",
+      "lesson": "用圆形概括动物、造型简单、鼓励跟画；工具属性未知"
+    }
+  ],
+  "adjacent_diary_example": {
+    "title": "下班画画🎨先画它个100张【14/100】",
+    "author": "孟枝枝",
+    "url": "https://www.xiaohongshu.com/explore/6acf85500000000014038050",
+    "query": "下班画画 14/100",
+    "published_display": "10-14（页面未显示年份）",
+    "medium": "Procreate数字绘画；正文明确",
+    "likes_display": "309",
+    "collects_display": "185",
+    "comments_display": "23",
+    "lesson": "暂停后继续编号，写真实生活状态；作为相邻媒介日记示例，不与旧帖比较热度"
+  }
+}

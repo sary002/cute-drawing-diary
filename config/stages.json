@@ -1,0 +1,73 @@
+[
+  {
+    "id": "beginner",
+    "name": "初级·可爱小动物",
+    "status": "active",
+    "tools_profile": "touchmark-student-36-v1",
+    "focus": [
+      "基本形状组合",
+      "线条控制",
+      "单层平涂",
+      "留白"
+    ],
+    "lesson_limits": {
+      "subjects": 1,
+      "marker_colors_max": 5,
+      "background": "留白或一个小点缀"
+    },
+    "review_after_completed_entries": 7,
+    "exit_criteria": [
+      "能独立拆出主要形状",
+      "能控制大部分颜色在轮廓内",
+      "能说明一个问题和改法"
+    ],
+    "tool_changes": "不要求新增工具，先确认实物试色和针管笔耐酒精性"
+  },
+  {
+    "id": "intermediate",
+    "name": "进阶·表情、动作与体积",
+    "status": "proposed",
+    "tools_profile": "touchmark-student-36-v1",
+    "focus": [
+      "同一动物不同表情与姿势",
+      "同色叠一层阴影",
+      "两到三色协调",
+      "两个物体的位置关系"
+    ],
+    "lesson_limits": {
+      "subjects": 2,
+      "marker_colors_max": 6,
+      "background": "简单地面或道具"
+    },
+    "review_after_completed_entries": 7,
+    "exit_criteria": [
+      "表情或动作有明显区分",
+      "能交代统一受光方向",
+      "能自行选配三组颜色"
+    ],
+    "tool_changes": "先沿用36色，遇到明确缺色或覆盖需求再提出可选工具；不自动要求购买"
+  },
+  {
+    "id": "scene",
+    "name": "拓展·小场景与个人角色",
+    "status": "proposed",
+    "tools_profile": null,
+    "focus": [
+      "简单构图",
+      "角色一致性",
+      "原创小情节",
+      "系列配色"
+    ],
+    "lesson_limits": {
+      "subjects": 3,
+      "marker_colors_max": 8,
+      "background": "小场景"
+    },
+    "review_after_completed_entries": 7,
+    "exit_criteria": [
+      "能画出一组一致的角色",
+      "能让画面有一个明确焦点"
+    ],
+    "tool_changes": "进入前再记录实际拥有的纸笔并创建新版本；当前升级工具未确定"
+  }
+]
