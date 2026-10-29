@@ -40,3 +40,5 @@
 
 - [开源项目观察](../research/open-source-references-2026-10-29.md)：每日题目、作品积累与后期画廊的项目参考。
 - [历史小红书观察](../research/xiaohongshu-2026-10-29.md)：按需分享时参考，不作为每天的学习任务。
+
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)：参考其按主题分组、直接链接文章的目录组织方式。
