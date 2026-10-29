@@ -30,7 +30,8 @@ class DiaryLifecycle(unittest.TestCase):
 
     def test_resume_does_not_create_duplicate(self):
         before = (self.first / "entry.json").read_bytes()
-        self.run_cli("next")
+        resumed = self.run_cli("next")
+        self.assertIn(str(self.root / "lessons/beginner/001-chick.md"), resumed.stdout)
         self.run_cli("next")
         self.assertEqual((self.first / "entry.json").read_bytes(), before)
         self.assertEqual(len(list((self.root / "entries").glob("*/*/entry.json"))), 1)
@@ -47,6 +48,12 @@ class DiaryLifecycle(unittest.TestCase):
         self.run_cli("validate")
         self.run_cli("next")
         self.assertTrue((self.root / "entries/beginner/002-seal/entry.json").is_file())
+        second = json.loads((self.root / "entries/beginner/002-seal/entry.json").read_text())
+        self.assertEqual(second["lesson_status"], "draft")
+        self.assertEqual(second["lesson_path"], "lessons/beginner/002-seal.md")
+        self.assertTrue((self.root / second["lesson_path"]).is_file())
+        self.assertFalse((self.root / "entries/beginner/002-seal/lesson.md").exists())
+        self.run_cli("validate")
 
     def test_can_add_photo_later_without_rewriting_progress(self):
         self.complete("--minutes", "18", "--liked", "完成了")
@@ -83,6 +90,31 @@ class DiaryLifecycle(unittest.TestCase):
         self.run_cli("index")
         self.run_cli("validate")
         self.assertIn("23分钟", (self.root / "entries/INDEX.md").read_text())
+        self.assertIn("(../lessons/beginner/001-chick.md)", (self.root / "entries/INDEX.md").read_text())
+        self.assertIn("(../lessons/beginner/002-seal.md)", (self.root / "entries/INDEX.md").read_text())
+
+    def test_lesson_path_and_file_are_validated(self):
+        path = self.first / "entry.json"
+        entry = json.loads(path.read_text())
+        original = entry["lesson_path"]
+        for invalid in ("../outside.md", "entries/beginner/001-chick/lesson.md",
+                        "/tmp/001-chick.md", "lessons/beginner/999-chick.md"):
+            with self.subTest(path=invalid):
+                entry["lesson_path"] = invalid
+                path.write_text(json.dumps(entry))
+                self.run_cli("validate", ok=False)
+        entry["lesson_path"] = original
+        path.write_text(json.dumps(entry))
+        (self.root / original).unlink()
+        self.run_cli("validate", ok=False)
+
+    def test_next_does_not_overwrite_existing_lesson(self):
+        self.complete()
+        target = self.root / "lessons/beginner/002-seal.md"
+        target.write_text("已有教案，不应被覆盖。")
+        self.run_cli("next", ok=False)
+        self.assertEqual(target.read_text(), "已有教案，不应被覆盖。")
+        self.assertFalse((self.root / "entries/beginner/002-seal").exists())
 
     def test_photo_original_is_private_and_not_overwritten(self):
         photo = self.root / "entries/beginner/001-chick/reference/finished.png"

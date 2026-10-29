@@ -3,6 +3,7 @@
 import argparse
 import datetime as dt
 import json
+import os
 import re
 import shutil
 import sys
@@ -29,15 +30,23 @@ def entries(root):
 def inside(folder, relative):
     candidate = (folder / relative).resolve()
     if not candidate.is_relative_to(folder.resolve()):
-        raise ValueError("记录中的文件路径必须在作品目录内")
+        raise ValueError("记录中的文件路径必须在指定目录内")
     return candidate
+
+
+def lesson_file(root, entry):
+    relative = Path(entry["lesson_path"])
+    expected = Path("lessons") / entry["stage"] / f"{entry['number']:03d}-{entry['slug']}.md"
+    if relative != expected:
+        raise ValueError("教案路径应为lessons/阶段/编号-题目.md")
+    return inside(root / "lessons", relative.relative_to("lessons"))
 
 
 def create_next(root):
     rows = entries(root)
     pending = [(p, e) for p, e in rows if e["practice"]["status"] != "completed"]
     if pending:
-        print("继续未完成作品：" + str(pending[0][0] / "lesson.md"))
+        print("继续未完成作品：" + str(lesson_file(root, pending[0][1])))
         return
     project = read(root / "config/project.json")
     stage_id = project["current_stage"]
@@ -55,6 +64,11 @@ def create_next(root):
     if len(colors) > stage["lesson_limits"]["marker_colors_max"]:
         raise ValueError("色数超出当前阶段设置")
     number = max((e["number"] for _, e in rows), default=0) + 1
+    lesson_relative = f"lessons/{stage_id}/{number:03d}-{lesson['slug']}.md"
+    target = lesson_file(root, {"lesson_path": lesson_relative, "stage": stage_id,
+                                "number": number, "slug": lesson["slug"]})
+    if target.exists():
+        raise ValueError("教案文件已存在，不覆盖")
     folder = root / "entries" / stage_id / f"{number:03d}-{lesson['slug']}"
     folder.mkdir(parents=True, exist_ok=False)
     for sub in ("reference", "practice", "publication"):
@@ -64,18 +78,21 @@ def create_next(root):
     write(folder / "entry.json", {
         "number": number, "slug": lesson["slug"], "title": lesson["title"], "stage": stage_id,
         "tools_profile": tools["id"], "goal": lesson["goal"], "marker_colors": colors,
+        "lesson_path": lesson_relative,
         "target_minutes": project["daily_minutes"], "lesson_status": "draft", "references": [],
         "practice": {"status": "pending", "completed_on": None, "actual_minutes": None,
                      "photos": [], "liked": None, "improve": None},
         "publication": {"status": "draft", "url": None, "published_at": None, "metrics": []}
     })
-    (folder / "lesson.md").write_text(
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(
         f"# {number:03d} {lesson['title']}\n\n教案状态：待完善，尚无参考图和真实作品。\n\n"
         f"目标：{lesson['goal']}。计划{project['daily_minutes']}分钟。\n\n"
         f"候选色号：{' / '.join(colors)}，以实物试色为准。\n\n"
-        "由每日一画skill补齐：造型大小、分步画法、各色区域、用笔、留白时机、一个常见问题。\n",
+        "由每日一画skill在本页补齐：参考图、所需纸笔、造型大小、一个基础点、分步画法、"
+        "色号对应区域、留白时机、一个常见问题、检查点与来源。正文完整后再标记ready并加入阶段学习目录。\n",
         encoding="utf-8")
-    print("已建待完善教案：" + str(folder / "lesson.md"))
+    print("已建待完善教案：" + str(target))
 
 
 def find_entry(root, name):
@@ -152,7 +169,7 @@ def validate(root):
         assert not set(e["marker_colors"]) - set(tools["markers"]["colors"]), "作品色号错误"
         assert len(e["marker_colors"]) <= stage["lesson_limits"]["marker_colors_max"], "色数超限"
         assert e["lesson_status"] in {"draft", "ready"}, "未知教案状态"
-        assert (folder / "lesson.md").is_file(), "缺教案"
+        assert lesson_file(root, e).is_file(), "缺教案"
         for ref in e["references"]:
             assert inside(folder, ref["path"]).is_file(), "参考文件不存在"
             assert ref["origin"] in {"ai_generated", "user_created", "external_link"}, "缺参考来源"
@@ -175,14 +192,17 @@ def validate(root):
 
 
 def index(root):
-    lines = ["# 作品索引", "", "| 编号 | 作品 | 阶段 | 练习 | 实际用时 |", "| --- | --- | --- | --- | --- |"]
+    lines = ["# 作品索引", "", "学习入口：[入门版练习](../lessons/beginner/README.md)。这里记录教案与实际练习进度，二者分开。", "",
+             "| 编号 | 作品 | 阶段 | 教案 | 练习 | 实际用时 |", "| --- | --- | --- | --- | --- | --- |"]
     for folder, e in entries(root):
         p = e["practice"]
         label = "已完成" if p["status"] == "completed" else "待手绘"
         minutes = "未记录（可省略）" if p["actual_minutes"] is None else f"{p['actual_minutes']:g}分钟"
-        link = (folder.relative_to(root / "entries") / "lesson.md").as_posix()
+        link = Path(os.path.relpath(lesson_file(root, e), root / "entries")).as_posix()
         title = e["title"].replace("|", "\\|")
-        lines.append(f"| {e['number']:03d} | [{title}]({link}) | {e['stage']} | {label} | {minutes} |")
+        stage_label = "入门版练习" if e["stage"] == "beginner" else e["stage"]
+        lesson_label = "可跟画" if e["lesson_status"] == "ready" else "待完善"
+        lines.append(f"| {e['number']:03d} | [{title}]({link}) | {stage_label} | {lesson_label} | {label} | {minutes} |")
     target = root / "entries/INDEX.md"
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text("\n".join(lines) + "\n", encoding="utf-8")

@@ -3,7 +3,7 @@
 Copyright (c) 2026 sary002, to the extent copyright or similar rights apply.
 
 Except where an individual file states otherwise, the original learning content
-in README.md, docs/, curriculum/, research/, and entries/ is made available under
+in README.md, lessons/, docs/, curriculum/, research/, and entries/ is made available under
 the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 
 License: https://creativecommons.org/licenses/by/4.0/

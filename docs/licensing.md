@@ -5,7 +5,7 @@
 | 范围 | 授权 |
 | --- | --- |
 | scripts/、tests/、config/、skills/ 与其他原创软件文件 | [MIT](../LICENSE) |
-| README、docs/、curriculum/、research/ 中的原创说明、entries/ 中的原创学习资料 | [CC BY 4.0](../LICENSE-CONTENT.md)，以贡献者可许可的权利为限 |
+| README、lessons/、docs/、curriculum/、research/ 中的原创说明、entries/ 中的原创学习资料 | [CC BY 4.0](../LICENSE-CONTENT.md)，以贡献者可许可的权利为限 |
 | 明确标注为AI生成的参考图、步骤图与提示词 | 在贡献者有权授予的范围内采用CC BY 4.0，保留AI来源说明 |
 | 研究中链接的第三方作品、名称、标识、引用片段 | 不纳入本仓库许可，不因在此被提及而获得转授权 |
 | 将来补充的本人手绘或照片 | 作者确认愿意公开并在作品记录中明确授权后再纳入；原始私有照片默认不上传 |

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "workflow_version": "0.3",
+  "workflow_version": "0.4",
   "workflow_mode": "learning_first",
   "photo_policy": "optional_batch_finished_only",
   "publication_policy": "on_request",
@@ -23,6 +23,9 @@
   },
   "license_status": "MIT-code_CC-BY-4.0-original-content",
   "lesson_format": {
+    "layout": "one_complete_markdown_per_lesson",
+    "directory": "lessons/{stage}",
+    "beginner_guide": "lessons/beginner/README.md",
     "target_finished_drawings": 1,
     "foundation_points": 1,
     "foundation_minutes": 3,
