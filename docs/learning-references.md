@@ -4,7 +4,7 @@
 
 - 课程：九江学院，石富华，《美术（简笔画）》。
 - 平台：超星课程门户。
-- [人物简笔画画法步骤](https://mooc1.chaoxing.com/mooc-ans/nodedetailcontroller/visitnodedetail?courseId=244120000&knowledgeId=866882870&enc=&mooc2=1)。
+- [人物简笔画画法步骤（拓展）](https://mooc1.chaoxing.com/mooc-ans/nodedetailcontroller/visitnodedetail?courseId=244120000&knowledgeId=866882870&enc=&mooc2=1)。
 - 查阅日期：2026-10-29。已查看公开目录，以及预备知识、禽鸟类和上述人物章节的图文；未逐段观看全部视频。
 
 这门课可以用来查基本形、结构和造型方法。项目中的马克笔色号、上色说明与每日时间安排由本项目另行整理，不能当作课程原有的36色马克笔教案。

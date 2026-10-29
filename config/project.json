@@ -31,7 +31,8 @@
     "foundation_minutes": 3,
     "drawing_minutes": 15,
     "check_minutes": 2,
-    "foundation_practice_surface": "废纸，可按实际情况省略"
+    "foundation_practice_surface": "废纸，可按实际情况省略",
+    "catalog": "lessons/README.md"
   },
   "learning_references": "docs/learning-references.md"
 }

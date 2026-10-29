@@ -192,7 +192,7 @@ def validate(root):
 
 
 def index(root):
-    lines = ["# 作品索引", "", "学习入口：[入门版练习](../lessons/beginner/README.md)。这里记录教案与实际练习进度，二者分开。", "",
+    lines = ["# 作品索引", "", "学习入口：[每日一练总目录](../lessons/README.md)。这里记录教案与实际练习进度，二者分开。", "",
              "| 编号 | 作品 | 阶段 | 教案 | 练习 | 实际用时 |", "| --- | --- | --- | --- | --- | --- |"]
     for folder, e in entries(root):
         p = e["practice"]
