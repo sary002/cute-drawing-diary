@@ -6,24 +6,39 @@
 
 ## 风格展示
 
-以下四张为AI生成的风格示意，已各自配有完整教程；不是实际练习完成记录。图像复用作品档案，不重复保存副本。
+以下十幅均为AI生成的风格示意，各有完整教程，不是真实练习完成记录。图片复用作品档案，不重复保存副本。
 
-| 有情绪的单角色 | 两个角色的小互动 |
+| 打哈欠的邮筒 | 鳄梨和果核玩跷跷板 |
 | --- | --- |
-| ![窗边发呆的青蛙，AI示意](../entries/beginner/003-sleepy-frog/reference/finished.png) | ![猫咪送一朵花，AI示意](../entries/beginner/004-cat-flower/reference/finished.png) |
-| [003｜窗边发呆的青蛙](../lessons/beginner/003-sleepy-frog.md) | [004｜猫咪送一朵花](../lessons/beginner/004-cat-flower.md) |
+| ![打哈欠的邮筒，AI示意](../entries/beginner/003-yawning-mailbox/reference/finished.png) | ![鳄梨和果核玩跷跷板，AI示意](../entries/beginner/004-avocado-seesaw/reference/finished.png) |
+| [003｜完整教程](../lessons/beginner/003-yawning-mailbox.md) | [004｜完整教程](../lessons/beginner/004-avocado-seesaw.md) |
 
-| 几何色块风景 | 带想象力的新题材 |
+| 粉色天空下的条纹灯塔 | 接住一颗星星 |
 | --- | --- |
-| ![月夜蓝色山，AI示意](../entries/beginner/005-moon-mountains/reference/finished.png) | ![接住一颗星星，AI示意](../entries/beginner/006-catch-a-star/reference/finished.png) |
-| [005｜月夜蓝色山](../lessons/beginner/005-moon-mountains.md) | [006｜接住一颗星星](../lessons/beginner/006-catch-a-star.md) |
+| ![粉色天空下的条纹灯塔，AI示意](../entries/beginner/005-striped-lighthouse/reference/finished.png) | ![接住一颗星星，AI示意](../entries/beginner/006-catch-a-star/reference/finished.png) |
+| [005｜完整教程](../lessons/beginner/005-striped-lighthouse.md) | [006｜完整教程](../lessons/beginner/006-catch-a-star.md) |
+
+| 偷吃月亮 | 雨天的蜗牛 |
+| --- | --- |
+| ![偷吃月亮，AI示意](../entries/beginner/007-moon-snack/reference/finished.png) | ![雨天的蜗牛，AI示意](../entries/beginner/008-snail-leaf/reference/finished.png) |
+| [007｜完整教程](../lessons/beginner/007-moon-snack.md) | [008｜完整教程](../lessons/beginner/008-snail-leaf.md) |
+
+| 云朵晾衣日 | 企鹅的热可可 |
+| --- | --- |
+| ![云朵晾衣日，AI示意](../entries/beginner/009-cloud-laundry/reference/finished.png) | ![企鹅的热可可，AI示意](../entries/beginner/010-penguin-cocoa/reference/finished.png) |
+| [009｜完整教程](../lessons/beginner/009-cloud-laundry.md) | [010｜完整教程](../lessons/beginner/010-penguin-cocoa.md) |
+
+| 举着花盆的机器人 | 鲸鱼的晚安灯 |
+| --- | --- |
+| ![举着花盆的机器人，AI示意](../entries/beginner/011-robot-flowerpot/reference/finished.png) | ![鲸鱼的晚安灯，AI示意](../entries/beginner/012-whale-lantern/reference/finished.png) |
+| [011｜完整教程](../lessons/beginner/011-robot-flowerpot.md) | [012｜完整教程](../lessons/beginner/012-whale-lantern.md) |
 
 ## 视觉规则
 
 | 要素 | 可复用的特点 |
 | --- | --- |
 | 色彩 | 浓郁、对比清楚的2～5个大色块；可用黄与蓝、橙与蓝、粉与青绿等组合，具体从已有色号选择 |
-| 线条 | 角色用有分量、略有起伏的自然黑线；几何山景可直接以色块交界塑形，不强加黑轮廓 |
+| 线条 | 角色用有分量、略有起伏的自然黑线；色块风景可直接以色块交界塑形，不强加黑轮廓 |
 | 造型 | 大头、短身、简化手脚和几何大形；表情靠眼皮、瞳孔及嘴的位置，不堆细节 |
 | 构图 | 方形小画、有完整色块背景；允许偏心、局部出框、上下分区和大小对比 |
 | 内容 | 发呆、惊讶、好奇等情绪，或递花、接星星等一眼能看懂的小情节 |
@@ -34,7 +49,7 @@
 
 ## 选题与难度
 
-每次选一个新主题或小情节，变换角色、动作、道具和构图，不只把青蛙、猫、猪或山景换色再画。可画动物、原创小怪兽、拟人小物或简单自然场景。单幅只练一个基础点，约20～30分钟；画面约10×10厘米，置于16.5厘米方纸上。
+每次选一个新主题或小情节，变换角色、动作、道具和构图，不只把已有角色或风景换色再画。可画动物、原创小怪兽、拟人小物或简单自然场景。单幅只练一个基础点，约20～30分钟；画面约10×10厘米，置于16.5厘米方纸上。
 
 优先避开：默认淡色和大量空白背景、只有居中单体的图标构图、过分规整的数码线条、写实细节、复杂渐变与倒影、密集装饰、多个同时展开的基础课题。外侧纸白可以保留，不等于画面内部必须留白。
 

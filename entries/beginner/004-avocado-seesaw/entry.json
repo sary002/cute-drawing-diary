@@ -1,0 +1,45 @@
+{
+  "number": 4,
+  "slug": "avocado-seesaw",
+  "title": "鳄梨和果核玩跷跷板",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用斜线和高低位置表现跷跷板动作",
+  "marker_colors": [
+    "44",
+    "52",
+    "92",
+    "23",
+    "6"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/004-avocado-seesaw.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001"
+}

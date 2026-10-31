@@ -1,0 +1,44 @@
+{
+  "number": 12,
+  "slug": "whale-lantern",
+  "title": "鲸鱼的晚安灯",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用大曲线连接画面中的两个焦点",
+  "marker_colors": [
+    "68",
+    "35",
+    "9",
+    "75"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/012-whale-lantern.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001"
+}

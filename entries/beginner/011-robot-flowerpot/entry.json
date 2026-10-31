@@ -1,0 +1,45 @@
+{
+  "number": 11,
+  "slug": "robot-flowerpot",
+  "title": "举着花盆的机器人",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用视线和抬手方向引导注意力",
+  "marker_colors": [
+    "68",
+    "35",
+    "44",
+    "23",
+    "6"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/011-robot-flowerpot.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001"
+}

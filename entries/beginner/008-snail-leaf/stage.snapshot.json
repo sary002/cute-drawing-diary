@@ -1,0 +1,24 @@
+{
+  "id": "beginner",
+  "name": "初级·可爱小动物",
+  "status": "active",
+  "tools_profile": "touchmark-student-36-v1",
+  "focus": [
+    "基本形状组合",
+    "线条控制",
+    "单层平涂",
+    "留白"
+  ],
+  "lesson_limits": {
+    "subjects": 1,
+    "marker_colors_max": 5,
+    "background": "浓郁色块背景或简化小风景，每幅只练一个基础点"
+  },
+  "review_after_completed_entries": 7,
+  "exit_criteria": [
+    "能独立拆出主要形状",
+    "能控制大部分颜色在轮廓内",
+    "能说明一个问题和改法"
+  ],
+  "tool_changes": "不要求新增工具，先确认实物试色和针管笔耐酒精性"
+}

@@ -1,0 +1,45 @@
+{
+  "number": 10,
+  "slug": "penguin-cocoa",
+  "title": "企鹅的热可可",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用遮挡表现抱住杯子的动作",
+  "marker_colors": [
+    "120",
+    "23",
+    "75",
+    "9",
+    "92"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/010-penguin-cocoa.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001"
+}
