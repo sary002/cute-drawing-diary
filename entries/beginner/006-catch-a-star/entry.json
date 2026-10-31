@@ -1,0 +1,43 @@
+{
+  "number": 6,
+  "slug": "catch-a-star",
+  "title": "接住一颗星星",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用大小和斜向安排突出画面焦点",
+  "marker_colors": [
+    "23",
+    "68",
+    "35",
+    "75"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/006-catch-a-star.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，童趣色块手绘参考；实际配色以教案和纸上试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步图；已检查色号、留白与步骤差异"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

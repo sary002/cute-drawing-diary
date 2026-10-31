@@ -1,0 +1,43 @@
+{
+  "number": 5,
+  "slug": "moon-mountains",
+  "title": "月夜蓝色山",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用相邻的明暗色面表现山的体积",
+  "marker_colors": [
+    "75",
+    "68",
+    "63",
+    "69"
+  ],
+  "target_minutes": 25,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/005-moon-mountains.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，童趣色块手绘参考；实际配色以教案和纸上试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步图；已检查色号、留白与步骤差异"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}
