@@ -1,0 +1,43 @@
+{
+  "number": 2,
+  "slug": "lakeside-hills",
+  "title": "湖边小山丘",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "前后遮挡：树挡住山，湖岸挡住水",
+  "marker_colors": [
+    "37",
+    "44",
+    "52",
+    "67"
+  ],
+  "target_minutes": 25,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/002-lakeside-hills.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，四色马克笔风景参考；颜色近似，以纸上试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，沿用小鸡竖版两列六步版式；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}
