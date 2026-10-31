@@ -34,5 +34,7 @@
     "foundation_practice_surface": "废纸，可按实际情况省略",
     "catalog": "lessons/README.md"
   },
-  "learning_references": "docs/learning-references.md"
+  "learning_references": "docs/learning-references.md",
+  "style_catalog": "config/styles.json",
+  "default_style_id": "S001"
 }

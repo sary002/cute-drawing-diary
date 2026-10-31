@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "default_style_id": "S001",
+  "catalog_path": "styles/README.md",
+  "styles": [
+    {
+      "id": "S001",
+      "slug": "playful-color-block",
+      "name": "童趣色块手绘",
+      "profile_path": "styles/001-playful-color-block.md",
+      "directions": [
+        "有情绪的角色与小情节",
+        "几何色块风景"
+      ],
+      "example_entries": [
+        "003-sleepy-frog",
+        "004-cat-flower",
+        "005-moon-mountains",
+        "006-catch-a-star"
+      ]
+    }
+  ],
+  "extension_policy": "追加编号并保留旧风格；临时换风格不改变默认值；默认值仅在明确要求时切换"
+}

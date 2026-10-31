@@ -19,6 +19,10 @@
 
 完整教案按阶段收录在[每日一练总目录](lessons/README.md)，新内容准备好后持续更新。
 
+## 风格展示
+
+[查看绘画风格库](styles/README.md) · 当前默认：[S001 童趣色块手绘](styles/001-playful-color-block.md)。包含四幅示意及色彩、线条、构图和选题规则；后续新风格独立追加。
+
 ## 参考资料
 
 - [每天怎么学](docs/workflow.md)
