@@ -1,73 +1,110 @@
 [
   {
     "id": "beginner",
-    "name": "初级·可爱小动物",
-    "status": "active",
-    "tools_profile": "touchmark-student-36-v2",
+    "level": "D1",
+    "name": "基础大形",
     "focus": [
-      "基本形状组合",
-      "线条控制",
-      "单层平涂",
-      "留白"
+      "概括主要形状与位置",
+      "区分主要色块并控制边界",
+      "规划纸白与简单遮挡"
     ],
     "lesson_limits": {
-      "subjects": 1,
-      "marker_colors_max": 5,
-      "background": "留白或一个小点缀"
+      "marker_colors_max": 5
     },
-    "review_after_completed_entries": 7,
     "exit_criteria": [
-      "能独立拆出主要形状",
-      "能控制大部分颜色在轮廓内",
-      "能说明一个问题和改法"
+      "能独立概括主要形状并定位",
+      "主要色块和遮挡关系清楚",
+      "能保留所选风格的一项核心视觉特征"
     ],
-    "tool_changes": "不要求新增工具，先确认实物试色和针管笔耐酒精性"
+    "status": "defined",
+    "tools_profile": null,
+    "review_after_completed_entries": 7,
+    "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+    "core_lessons_per_style": 7,
+    "optional_consolidation_lessons": [
+      2,
+      3
+    ]
   },
   {
     "id": "intermediate",
-    "name": "进阶·表情、动作与体积",
-    "status": "proposed",
-    "tools_profile": "touchmark-student-36-v2",
+    "level": "D2",
+    "name": "专项控制",
     "focus": [
-      "同一动物不同表情与姿势",
-      "同色叠一层阴影",
-      "两到三色协调",
-      "两个物体的位置关系"
+      "围绕一种风格技法反复练习",
+      "控制线条、笔触、色彩或形状关系",
+      "把新技能用于不同题材"
     ],
     "lesson_limits": {
-      "subjects": 2,
-      "marker_colors_max": 6,
-      "background": "简单地面或道具"
+      "marker_colors_max": 6
     },
-    "review_after_completed_entries": 7,
     "exit_criteria": [
-      "表情或动作有明显区分",
-      "能交代统一受光方向",
-      "能自行选配三组颜色"
+      "能在两种不同题材中使用本阶段技法",
+      "关键操作不必逐笔依赖示意",
+      "画面保持该风格的视觉特点"
     ],
-    "tool_changes": "先沿用36色，遇到明确缺色或覆盖需求再提出可选工具；不自动要求购买"
+    "status": "defined",
+    "tools_profile": null,
+    "review_after_completed_entries": 7,
+    "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+    "core_lessons_per_style": 7,
+    "optional_consolidation_lessons": [
+      2,
+      3
+    ]
   },
   {
     "id": "scene",
-    "name": "拓展·小场景与个人角色",
-    "status": "proposed",
-    "tools_profile": null,
+    "level": "D3",
+    "name": "综合组织",
     "focus": [
-      "简单构图",
-      "角色一致性",
-      "原创小情节",
-      "系列配色"
+      "组织多个形状或主体的关系",
+      "建立主次、层次与疏密",
+      "综合运用已学技能并保留一个当次重点"
     ],
     "lesson_limits": {
-      "subjects": 3,
-      "marker_colors_max": 8,
-      "background": "小场景"
+      "marker_colors_max": 8
     },
-    "review_after_completed_entries": 7,
     "exit_criteria": [
-      "能画出一组一致的角色",
-      "能让画面有一个明确焦点"
+      "能安排清楚的主体与次要内容",
+      "能协调两项以上已学技能",
+      "能取舍细节并保持风格一致"
     ],
-    "tool_changes": "进入前再记录实际拥有的纸笔并创建新版本；当前升级工具未确定"
+    "status": "defined",
+    "tools_profile": null,
+    "review_after_completed_entries": 7,
+    "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+    "core_lessons_per_style": 7,
+    "optional_consolidation_lessons": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "independent",
+    "level": "D4",
+    "name": "自主创作",
+    "focus": [
+      "根据主题或观察设计原创构图",
+      "自主选择配色与操作顺序",
+      "通过系列作品稳定个人表达"
+    ],
+    "lesson_limits": {
+      "marker_colors_max": 10
+    },
+    "exit_criteria": [
+      "能从主题或观察出发设计画面",
+      "能说明关键构图与配色选择",
+      "能在不同作品中保持风格并自行调整"
+    ],
+    "status": "defined",
+    "tools_profile": null,
+    "review_after_completed_entries": 7,
+    "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+    "core_lessons_per_style": 7,
+    "optional_consolidation_lessons": [
+      2,
+      3
+    ]
   }
 ]

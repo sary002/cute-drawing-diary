@@ -1,0 +1,49 @@
+{
+  "number": 14,
+  "slug": "grumpy-alarm-clock",
+  "title": "气鼓鼓的闹钟",
+  "stage": "intermediate",
+  "style_id": "S001",
+  "material_id": "S001-014",
+  "course_slot": 14,
+  "course_role": "mainline",
+  "teaching_mode": "supported",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "用眼皮、嘴与倾斜姿态组织明确情绪",
+  "marker_colors": [
+    "25",
+    "143",
+    "24",
+    "WG1",
+    "WG3"
+  ],
+  "target_minutes": 45,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "basis": "planned palette appearances per image, not measured ink or pixel areas",
+  "before_unique": 19,
+  "after_unique": 35,
+  "excluded": {
+    "132": "not required; not opaque covering white"
+  },
+  "colors": [
+    {
+      "code": "2",
+      "name": "Old Red",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "6",
+      "name": "Vivid Pink",
+      "before_count": 18,
+      "after_count": 12
+    },
+    {
+      "code": "8",
+      "name": "Rose Pink",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "9",
+      "name": "Pale Pink",
+      "before_count": 5,
+      "after_count": 5
+    },
+    {
+      "code": "11",
+      "name": "Carmine",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "code": "23",
+      "name": "Orange",
+      "before_count": 26,
+      "after_count": 20
+    },
+    {
+      "code": "24",
+      "name": "Marigold",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "code": "25",
+      "name": "Salmon Pink",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "code": "31",
+      "name": "Dark Yellow",
+      "before_count": 2,
+      "after_count": 3
+    },
+    {
+      "code": "35",
+      "name": "Lemon Yellow",
+      "before_count": 25,
+      "after_count": 19
+    },
+    {
+      "code": "37",
+      "name": "Pastel Yellow",
+      "before_count": 2,
+      "after_count": 5
+    },
+    {
+      "code": "41",
+      "name": "Olive Green",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "code": "44",
+      "name": "Fresh Green",
+      "before_count": 12,
+      "after_count": 10
+    },
+    {
+      "code": "46",
+      "name": "Vivid Green",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "code": "52",
+      "name": "Deep Green",
+      "before_count": 3,
+      "after_count": 3
+    },
+    {
+      "code": "58",
+      "name": "Mint Green Light",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "63",
+      "name": "Cerulean Blue",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "code": "65",
+      "name": "Ice Blue",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "67",
+      "name": "Pastel Blue",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "code": "68",
+      "name": "Turquoise Blue",
+      "before_count": 25,
+      "after_count": 19
+    },
+    {
+      "code": "69",
+      "name": "Prussian Blue",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "code": "71",
+      "name": "Cobalt Blue",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "code": "75",
+      "name": "Dark Blue Light",
+      "before_count": 20,
+      "after_count": 14
+    },
+    {
+      "code": "82",
+      "name": "Light Violet",
+      "before_count": 10,
+      "after_count": 7
+    },
+    {
+      "code": "92",
+      "name": "Chocolate",
+      "before_count": 3,
+      "after_count": 5
+    },
+    {
+      "code": "95",
+      "name": "Burnt Sienna",
+      "before_count": 9,
+      "after_count": 5
+    },
+    {
+      "code": "120",
+      "name": "Black",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "code": "132",
+      "name": "Milky White",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "code": "135",
+      "name": "Pale Cherry Pink",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "143",
+      "name": "Mint Blue",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "172",
+      "name": "Spectrum Green",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "code": "WG1",
+      "name": "Warm Grey 1",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "WG3",
+      "name": "Warm Grey 3",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "WG5",
+      "name": "Warm Grey 5",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "code": "WG7",
+      "name": "Warm Grey 7",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "code": "WG9",
+      "name": "Warm Grey 9",
+      "before_count": 0,
+      "after_count": 1
+    }
+  ]
+}

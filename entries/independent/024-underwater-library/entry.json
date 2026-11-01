@@ -1,0 +1,52 @@
+{
+  "number": 24,
+  "slug": "underwater-library",
+  "title": "海底图书馆",
+  "stage": "independent",
+  "style_id": "S001",
+  "material_id": "S001-024",
+  "course_slot": 24,
+  "course_role": "mainline",
+  "teaching_mode": "independent",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "自主组织空间、角色关系与重复形状节奏",
+  "marker_colors": [
+    "143",
+    "WG9",
+    "8",
+    "24",
+    "37",
+    "135",
+    "46",
+    "WG3"
+  ],
+  "target_minutes": 95,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/independent/024-underwater-library.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/planning.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

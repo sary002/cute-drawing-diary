@@ -42,19 +42,93 @@ def lesson_file(root, entry):
     return inside(root / "lessons", relative.relative_to("lessons"))
 
 
-def create_next(root):
+TEACHING_MODES = {"guided", "supported", "independent"}
+
+
+def learning_context(root, style_id=None):
+    catalog = read(root / "config/styles.json")
+    style_id = style_id or catalog["default_style_id"]
+    style = next((s for s in catalog["styles"] if s["id"] == style_id), None)
+    if style is None:
+        raise ValueError("风格尚未正式收录，请先预览并确认收录")
+    progress = read(root / "config/learning-progress.json")
+    if style_id not in progress["styles"]:
+        raise ValueError("所选风格缺少独立学习进度，请先初始化")
+    state = progress["styles"][style_id]
+    stage = next((s for s in read(root / "config/stages.json") if s["id"] == state["current_stage"]), None)
+    if stage is None:
+        raise ValueError("所选风格的学习阶段不存在")
+    if state["teaching_mode"] not in TEACHING_MODES:
+        raise ValueError("未知教学方式")
+    return style, state, stage, progress
+
+
+def stage_completed(root, style_id, stage_id):
+    return sum(e.get("style_id") == style_id and e["stage"] == stage_id
+               and e["practice"]["status"] == "completed" for _, e in entries(root))
+
+
+def review_target(state, stage):
+    reviews = [r for r in state["reviews"] if r["stage"] == stage["id"]]
+    return reviews[-1]["next_review_at"] if reviews else stage["review_after_completed_entries"]
+
+
+def status(root, style_id=None):
+    selected = [style_id] if style_id else [s["id"] for s in read(root / "config/styles.json")["styles"]]
+    for selected_id in selected:
+        style, state, stage, _ = learning_context(root, selected_id)
+        completed = stage_completed(root, style["id"], stage["id"])
+        print(f"{style['id']} {style['name']} | {stage['level']} {stage['name']} | "
+              f"教学{state['teaching_mode']} | 当前阶段真实完成{completed}幅")
+        if completed >= review_target(state, stage):
+            print("已到复盘点：结合实际练习评估，不按张数自动晋级")
+        for folder, e in entries(root):
+            if e.get("style_id") == style["id"]:
+                print(f"{folder.name} | 阶段{e['stage']} | 教案{e['lesson_status']} | "
+                      f"练习{e['practice']['status']} | 发布{e['publication']['status']}")
+    if style_id is None:
+        for folder, e in entries(root):
+            if not e.get("style_id"):
+                print(f"{folder.name} | 历史风格未分类 | 教案{e['lesson_status']} | 练习{e['practice']['status']}")
+
+
+def review(root, args):
+    style, state, stage, progress = learning_context(root, args.style)
+    completed = stage_completed(root, style["id"], stage["id"])
+    evidence = args.evidence.strip()
+    if not evidence:
+        raise ValueError("复盘需提供简短的实际绘画依据")
+    if not completed:
+        raise ValueError("当前风格阶段尚无实际完成记录，不能据AI示意复盘晋级")
+    stages = read(root / "config/stages.json")
+    position = next(i for i, s in enumerate(stages) if s["id"] == stage["id"])
+    if args.decision == "advance" and position == len(stages) - 1:
+        raise ValueError("D4为自主创作阶段，可继续创作或巩固，无默认更高阶段")
+    state["reviews"].append({"stage": stage["id"], "completed_count": completed,
+                             "decision": args.decision, "evidence": evidence,
+                             "next_review_at": completed + 2})
+    if args.decision == "advance":
+        state["current_stage"] = stages[position + 1]["id"]
+    write(root / "config/learning-progress.json", progress)
+    print(f"已保存{style['id']}复盘：{args.decision}；当前阶段{state['current_stage']}；未改写旧作")
+
+
+def create_next(root, style_id=None, new=False, teaching_mode=None):
+    style, state, stage, _ = learning_context(root, style_id)
+    stage_id = stage["id"]
     rows = entries(root)
-    pending = [(p, e) for p, e in rows if e["practice"]["status"] != "completed"]
-    if pending:
+    pending = [(p, e) for p, e in rows if e.get("style_id") == style["id"]
+               and e["stage"] == stage_id and e["practice"]["status"] != "completed"]
+    if pending and not new:
         print("继续未完成作品：" + str(lesson_file(root, pending[0][1])))
         return
     project = read(root / "config/project.json")
-    stage_id = project["current_stage"]
-    stages = read(root / "config/stages.json")
-    stage = next(s for s in stages if s["id"] == stage_id)
     tools = read(root / "config/tools" / (project["current_tools"] + ".json"))
-    curriculum = read(root / "curriculum" / (stage_id + ".json"))
-    used = {e["slug"] for _, e in rows if e["stage"] == stage_id}
+    curriculum_path = style["curriculum_paths"].get(stage_id)
+    if not curriculum_path:
+        raise ValueError("该风格当前阶段尚无题库，请按独立风格备课，不沿用其他风格题目")
+    curriculum = read(inside(root, curriculum_path))
+    used = {e["slug"] for _, e in rows if e["stage"] == stage_id and e.get("style_id") == style["id"]}
     lesson = next((l for l in curriculum if l["slug"] not in used), None)
     if lesson is None:
         raise ValueError("当前题目已用完：先做阶段复盘，再补题；不自动升级或重复编号")
@@ -77,6 +151,7 @@ def create_next(root):
     write(folder / "stage.snapshot.json", stage)
     write(folder / "entry.json", {
         "number": number, "slug": lesson["slug"], "title": lesson["title"], "stage": stage_id,
+        "style_id": style["id"], "teaching_mode": teaching_mode or state["teaching_mode"],
         "tools_profile": tools["id"], "goal": lesson["goal"], "marker_colors": colors,
         "lesson_path": lesson_relative,
         "target_minutes": project["daily_minutes"], "lesson_status": "draft", "references": [],
@@ -87,7 +162,9 @@ def create_next(root):
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(
         f"# {number:03d} {lesson['title']}\n\n教案状态：待完善，尚无参考图和真实作品。\n\n"
-        f"目标：{lesson['goal']}。计划{project['daily_minutes']}分钟。\n\n"
+        f"风格：{style['id']} {style['name']}；等级：{stage['level']}；"
+        f"教学方式：{teaching_mode or state['teaching_mode']}。\n\n"
+        f"目标：{lesson['goal']}。单次预算{project['daily_minutes']}分钟，整幅时间待备课估计，可分次。\n\n"
         f"候选色号：{' / '.join(colors)}，以实物试色为准。\n\n"
         "由每日一画skill在本页补齐：参考图、所需纸笔、造型大小、一个基础点、分步画法、"
         "色号对应区域、留白时机、一个常见问题、检查点与来源。正文完整后再标记ready并加入阶段学习目录。\n",
@@ -146,21 +223,50 @@ def record(root, args):
 def validate(root):
     project = read(root / "config/project.json")
     stages = read(root / "config/stages.json")
-    assert project["current_stage"] in {s["id"] for s in stages}, "当前阶段不存在"
+    assert [s["level"] for s in stages] == ["D1", "D2", "D3", "D4"], "共同阶段顺序错误"
+    stage_ids = {s["id"] for s in stages}
+    catalog = read(root / "config/styles.json")
+    style_ids = [s["id"] for s in catalog["styles"]]
+    assert len(set(style_ids)) == len(style_ids), "重复风格编号"
+    assert catalog["default_style_id"] in style_ids, "默认风格不存在"
+    assert project["default_style_id"] == catalog["default_style_id"], "默认风格配置不一致"
+    progress = read(root / "config/learning-progress.json")
+    assert set(progress["styles"]) == set(style_ids), "风格与独立进度不匹配"
     current_tools = read(root / "config/tools" / (project["current_tools"] + ".json"))
     for stage in stages:
         if stage["tools_profile"]:
             assert (root / "config/tools" / (stage["tools_profile"] + ".json")).is_file(), "阶段工具不存在"
-    for path in (root / "curriculum").glob("*.json"):
-        stage = next(s for s in stages if s["id"] == path.stem)
-        tools = read(root / "config/tools" / ((stage["tools_profile"] or current_tools["id"]) + ".json"))
-        for lesson in read(path):
-            assert re.fullmatch(r"[a-z0-9-]+", lesson["slug"]), "题目slug不合法"
-            assert not set(lesson["colors"]) - set(tools["markers"]["colors"]), "课程色号错误"
+    curriculum_owners = set()
+    for style in catalog["styles"]:
+        assert re.fullmatch(r"S\d{3,}", style["id"]), "风格编号不合法"
+        assert inside(root, style["profile_path"]).is_file(), "缺风格档案"
+        _, state, _, _ = learning_context(root, style["id"])
+        for item in state["reviews"]:
+            assert item["stage"] in stage_ids, "复盘阶段不存在"
+            assert item["decision"] in {"advance", "practice", "stay"} and item["evidence"].strip(), "复盘缺依据"
+            assert 0 < item["completed_count"] <= stage_completed(root, style["id"], item["stage"]), "复盘完成数错误"
+            assert item["next_review_at"] > item["completed_count"], "复盘检查点错误"
+        for stage_id, relative in style["curriculum_paths"].items():
+            assert stage_id in stage_ids, "题库阶段不存在"
+            path = inside(root, relative)
+            assert path.is_relative_to((root / "curriculum").resolve()), "题库路径错误"
+            assert path not in curriculum_owners, "不同风格或阶段不得共享同一题库文件"
+            curriculum_owners.add(path)
+            slugs = set()
+            stage = next(s for s in stages if s["id"] == stage_id)
+            for lesson in read(path):
+                assert re.fullmatch(r"[a-z0-9-]+", lesson["slug"]), "题目slug不合法"
+                assert lesson["slug"] not in slugs, "题库内题目重复"
+                slugs.add(lesson["slug"])
+                assert not set(lesson["colors"]) - set(current_tools["markers"]["colors"]), "课程色号错误"
+                assert len(lesson["colors"]) <= stage["lesson_limits"]["marker_colors_max"], "课程色数超限"
     numbers = set()
     for folder, e in entries(root):
         assert e["number"] not in numbers, "重复编号"
         numbers.add(e["number"])
+        assert "style_id" not in e or e["style_id"] in style_ids, "作品风格不存在"
+        assert e["stage"] in stage_ids, "作品阶段不存在"
+        assert e.get("teaching_mode", "guided") in TEACHING_MODES, "作品教学方式错误"
         assert folder.name == f"{e['number']:03d}-{e['slug']}", "编号与目录不一致"
         tools = read(folder / "tools.snapshot.json")
         stage = read(folder / "stage.snapshot.json")
@@ -192,17 +298,18 @@ def validate(root):
 
 
 def index(root):
-    lines = ["# 作品索引", "", "学习入口：[每日一练总目录](../lessons/README.md)。这里记录教案与实际练习进度，二者分开。", "",
-             "| 编号 | 作品 | 阶段 | 教案 | 练习 | 实际用时 |", "| --- | --- | --- | --- | --- | --- |"]
-    for folder, e in entries(root):
+    lines = ["# 作品索引", "", "学习入口：[每日一练总目录](../lessons/README.md)。这里记录教案与实际练习进度，二者分开；素材编号用于选课，内部编号保留旧链接。", "",
+             "| 素材编号 | 内部编号 | 作品 | 风格 | 等级 | 教案 | 练习 | 实际用时 |", "| --- | --- | --- | --- | --- | --- | --- | --- |"]
+    stages = {s["id"]: s for s in read(root / "config/stages.json")}
+    for folder, e in sorted(entries(root), key=lambda row: (row[1].get("style_id", ""), row[1].get("course_slot", row[1]["number"]))):
         p = e["practice"]
         label = "已完成" if p["status"] == "completed" else "待手绘"
         minutes = "未记录（可省略）" if p["actual_minutes"] is None else f"{p['actual_minutes']:g}分钟"
         link = Path(os.path.relpath(lesson_file(root, e), root / "entries")).as_posix()
         title = e["title"].replace("|", "\\|")
-        stage_label = "入门版练习" if e["stage"] == "beginner" else e["stage"]
-        lesson_label = "可跟画" if e["lesson_status"] == "ready" else "待完善"
-        lines.append(f"| {e['number']:03d} | [{title}]({link}) | {stage_label} | {lesson_label} | {label} | {minutes} |")
+        stage_label = stages[e["stage"]]["level"]
+        lesson_label = "可学习" if e["lesson_status"] == "ready" else "待完善"
+        lines.append(f"| {e.get('material_id', '未分配')} | {e['number']:03d} | [{title}]({link}) | {e.get('style_id', '未分类')} | {stage_label} | {lesson_label} | {label} | {minutes} |")
     target = root / "entries/INDEX.md"
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -213,8 +320,18 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=DEFAULT_ROOT)
     subs = parser.add_subparsers(dest="command", required=True)
-    for command in ("status", "next", "index", "validate"):
+    for command in ("index", "validate"):
         subs.add_parser(command)
+    status_parser = subs.add_parser("status")
+    status_parser.add_argument("--style")
+    next_parser = subs.add_parser("next")
+    next_parser.add_argument("--style")
+    next_parser.add_argument("--new", action="store_true", help="明确换题，保留旧作未完成状态")
+    next_parser.add_argument("--teaching-mode", choices=sorted(TEACHING_MODES), help="仅指定本次新教案的帮助程度")
+    review_parser = subs.add_parser("review")
+    review_parser.add_argument("--style")
+    review_parser.add_argument("--decision", choices=("advance", "practice", "stay"), required=True)
+    review_parser.add_argument("--evidence", required=True, help="只写实际绘画依据，不写私人信息")
     r = subs.add_parser("record")
     r.add_argument("entry")
     r.add_argument("--date", default=None, help="可选：真实完成日期 YYYY-MM-DD；未知留空")
@@ -229,10 +346,11 @@ def main():
     root = args.root.expanduser().resolve()
     try:
         if args.command == "status":
-            for folder, e in entries(root):
-                print(f"{folder.name} | 教案{e['lesson_status']} | 练习{e['practice']['status']} | 发布{e['publication']['status']}")
+            status(root, args.style)
         elif args.command == "next":
-            create_next(root)
+            create_next(root, args.style, args.new, args.teaching_mode)
+        elif args.command == "review":
+            review(root, args)
         elif args.command == "record":
             record(root, args)
         elif args.command == "add-photo":

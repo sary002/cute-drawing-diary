@@ -1,0 +1,8 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "source_artwork": "styles/previews/S001-2026-11-01/13-windy-scarf-bird-v4-palette.png",
+  "prompt": "Create a clear SIX-panel drawing tutorial sheet for the supplied mint bird and red striped scarf image. Reference is the exact final artwork to teach, not a new composition. White portrait page, 2 columns x3 rows, roomy gutters; numbered Chinese captions: 01 大形定位, 02 围巾曲线, 03 薄荷小鸟, 04 红色围巾, 05 背景配色, 06 干透勾线. Same composition and same scale in every panel, cumulatively progressive. Panels1-2 LIGHT GRAY PENCIL only; 1 head/body ovals; 2 add two long flowing scarf ribbons, beak and feet, erase hidden neck. Panel3 fill only bird mint green58, leave all else pencil-white. Panel4 add carmine11 scarf and feet, Prussian69 stripes and pastel yellow37 beak/ground band; cheeks carmine. Panel5 add ice blue65 background. Panel6 ONLY NOW add black outlines, face and wind lines, matching reference. Never black-ink early panels. Title 风中的长围巾 · D2; top color chips 58 / 11 / 65 / 37 / 69. Footer AI教学示意｜先上色，干透后勾线. Visible marker strokes, simple S001 flat shapes, no realism, no extra objects, no ornate typography. Each panel has a small corresponding instruction line in Chinese. Keep scarf curve and overlap readable.",
+  "correction_prompt": null,
+  "teaching_mode": "supported",
+  "qa_note": "已检查阶段、图序、主要造型、留白和计划色号。实际油性笔操作以正文为准。"
+}

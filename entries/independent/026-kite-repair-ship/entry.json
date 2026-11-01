@@ -1,0 +1,52 @@
+{
+  "number": 26,
+  "slug": "kite-repair-ship",
+  "title": "风筝修理船",
+  "stage": "independent",
+  "style_id": "S001",
+  "material_id": "S001-026",
+  "course_slot": 26,
+  "course_role": "mainline",
+  "teaching_mode": "independent",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "围绕想象主题自行设计主体、动势与道具关系",
+  "marker_colors": [
+    "68",
+    "23",
+    "35",
+    "6",
+    "75",
+    "82",
+    "95",
+    "44"
+  ],
+  "target_minutes": 95,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/independent/026-kite-repair-ship.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/planning.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

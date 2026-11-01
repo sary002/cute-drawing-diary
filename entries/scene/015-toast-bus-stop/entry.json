@@ -1,0 +1,50 @@
+{
+  "number": 15,
+  "slug": "toast-bus-stop",
+  "title": "面包巴士站",
+  "stage": "scene",
+  "style_id": "S001",
+  "material_id": "S001-015",
+  "course_slot": 15,
+  "course_role": "mainline",
+  "teaching_mode": "supported",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "组织两个角色与站牌、车辆的主次关系",
+  "marker_colors": [
+    "35",
+    "95",
+    "68",
+    "23",
+    "6",
+    "75"
+  ],
+  "target_minutes": 65,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/scene/015-toast-bus-stop.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

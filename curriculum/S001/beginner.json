@@ -1,0 +1,96 @@
+[
+  {
+    "material_id": "S001-001",
+    "slug": "headphone-mushroom",
+    "title": "戴耳机的小蘑菇",
+    "goal": "用半圆、圆角长方形概括主体",
+    "colors": [
+      "23",
+      "68",
+      "9",
+      "35"
+    ],
+    "lesson_path": "lessons/beginner/001-headphone-mushroom.md"
+  },
+  {
+    "material_id": "S001-002",
+    "slug": "acorn-squirrel",
+    "title": "松鼠抱橡果",
+    "goal": "前后遮挡：橡果挡住身体，爪子在橡果前",
+    "colors": [
+      "24",
+      "37",
+      "92",
+      "41",
+      "11"
+    ],
+    "lesson_path": "lessons/beginner/002-acorn-squirrel.md"
+  },
+  {
+    "material_id": "S001-003",
+    "slug": "striped-lighthouse",
+    "title": "粉色天空下的条纹灯塔",
+    "goal": "用大形安排前后层次",
+    "colors": [
+      "9",
+      "68",
+      "35",
+      "23"
+    ],
+    "lesson_path": "lessons/beginner/005-striped-lighthouse.md"
+  },
+  {
+    "material_id": "S001-004",
+    "slug": "moon-snack",
+    "title": "偷吃月亮",
+    "goal": "用大小对比突出主体",
+    "colors": [
+      "82",
+      "35",
+      "23",
+      "68"
+    ],
+    "lesson_path": "lessons/beginner/007-moon-snack.md"
+  },
+  {
+    "material_id": "S001-005",
+    "slug": "snail-leaf",
+    "title": "雨天的蜗牛",
+    "goal": "用一大一小形状说明遮挡关系",
+    "colors": [
+      "23",
+      "68",
+      "35",
+      "75",
+      "67"
+    ],
+    "lesson_path": "lessons/beginner/008-snail-leaf.md"
+  },
+  {
+    "material_id": "S001-006",
+    "slug": "penguin-cocoa",
+    "title": "企鹅的热可可",
+    "goal": "纸白规划与抱住物件的遮挡",
+    "colors": [
+      "120",
+      "23",
+      "75",
+      "9",
+      "92"
+    ],
+    "lesson_path": "lessons/beginner/010-penguin-cocoa.md"
+  },
+  {
+    "material_id": "S001-007",
+    "slug": "whale-lantern",
+    "title": "鲸鱼的晚安灯",
+    "goal": "用大曲线连接画面",
+    "colors": [
+      "68",
+      "35",
+      "9",
+      "75"
+    ],
+    "lesson_path": "lessons/beginner/012-whale-lantern.md"
+  }
+]

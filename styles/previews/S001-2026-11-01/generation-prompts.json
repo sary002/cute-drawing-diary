@@ -1,0 +1,341 @@
+{
+  "method": "OpenAI内置imagegen",
+  "origin": "ai_generated",
+  "purpose": "S001成品预览，非完整教案或实际手绘记录",
+  "common_prompt": "Use case: illustration-story. Asset type: ONE square finished marker illustration for S001 \"playful color-block hand drawing\". This is an original course STYLE PREVIEW, not a step sheet. Medium: smooth white marker paper; saturated opaque-looking flat color shapes made with dye-marker strokes, clear visible parallel fill strokes, naturally slightly wobbly substantial BLACK fineliner contours. Preserve a narrow white paper margin. Strong simple geometry, round short-bodied original characters, expressive dot eyes and small mouths, amusing readable situations. Match the established series of bold simple orange, turquoise, hot pink, lemon yellow and blue marker illustrations; NOT realistic sunny landscape, not watercolor, not painterly foliage, no lighting gradients or detailed textures, not glossy vector or digital 3D. Whites are reserved paper. Each shape has a clear edge and is drawable with ordinary markers. No lettering, numbers, typography, logos, signatures, watermark, panels, grid, hand, desk, or photographed materials. Avoid thin fussy ornament and licensed characters. Keep flatness even in advanced scenes: difficulty comes from relationships and composition rather than realism. Draw just the scene below.",
+  "artworks": [
+    {
+      "slot": 13,
+      "stage": "intermediate",
+      "level": "D2",
+      "slug": "windy-scarf-bird",
+      "title": "风中的长围巾",
+      "goal": "用连续曲线与线条粗细表现风向和前后",
+      "colors": [
+        "68",
+        "23",
+        "6",
+        "35",
+        "75"
+      ],
+      "scene": "D2 skill control, sparse composition. A plump turquoise original small bird, no wings spread, stands near lower left facing right, both short feet planted on a narrow lemon-yellow ground strip. Its long orange scarf flows in two broad smooth S curves horizontally toward the right, with only three dark blue stripe blocks. Head tilted into wind, eyes squeezed confidently; a few simple short black wind strokes follow scarf direction. Hot pink full background. Stronger outer contour and lighter internal scarf fold lines. The bird and scarf occupy most of the square; no other objects, no feather rendering, no shadows. Clearly readable scarf wrapping once around neck with two distinct ends."
+    },
+    {
+      "slot": 14,
+      "stage": "intermediate",
+      "level": "D2",
+      "slug": "grumpy-alarm-clock",
+      "title": "气鼓鼓的闹钟",
+      "goal": "用眼皮、嘴与倾斜姿态组织明确情绪",
+      "colors": [
+        "23",
+        "68",
+        "35",
+        "6",
+        "75"
+      ],
+      "scene": "D2 expression transfer. A round orange original twin-bell alarm clock on two stubby black feet, its body leaning slightly right in a stubborn stomp; eyebrows angle inward, half-lidded eyes look sideways, tiny puffed cheek and small crooked mouth. Its white circular face uses reserved paper and only two simple black clock hands with no numerals or ticks. Turquoise bells visibly tilt asymmetrically, three bold lemon yellow ringing zigzags above the left bell. Dark blue full background and hot pink narrow ground. Strong irregular black outlines, coherent simple geometry, no metallic shine, no volume shading, no extra characters or decoration."
+    },
+    {
+      "slot": 15,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "toast-bus-stop",
+      "title": "面包巴士站",
+      "goal": "组织两个角色与站牌、车辆的主次关系",
+      "colors": [
+        "35",
+        "95",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "scene": "D3 early scene, two original characters and simple environment. At left foreground a short smiling toast-shaped passenger with sienna crust and paper-white face carries one turquoise round bag and waits beside a blank circular orange bus-stop sign on black pole. At right a small lemon-yellow rounded bus enters partly from the square edge, turquoise windows, two black wheels; one small original blue bean driver visible in front window. Hot pink sky fills upper two thirds and deep blue road lower third, with one simple white reserved road stripe. Strong size hierarchy, eye direction from toast toward bus, simple nearly side-on perspective. About a dozen large shapes, no text, no detailed street scenery."
+    },
+    {
+      "slot": 16,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "umbrella-patch-workshop",
+      "title": "雨伞补丁铺",
+      "goal": "用遮挡与视线把工具、角色和修补动作连起来",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "44"
+      ],
+      "scene": "D3 scene with work surface. A rounded turquoise button-shaped craftsperson with tiny arms, dot eyes and focused small mouth sits left of a low yellow worktable. An opened large orange umbrella lies sideways on table extending upper right; craftsperson presses a bold green triangular patch onto its one canopy section with one hand. Clearly visible simple curved black umbrella ribs and hooked handle. One oversized hot pink thread spool sits right foreground with one winding black thread leading toward umbrella. Full deep-blue background with lemon yellow ground stripe, no room clutter, no tiny sewing needle needed, very flat playful workshop, strong overlap but clean readable silhouettes."
+    },
+    {
+      "slot": 17,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "pear-mail-delivery",
+      "title": "梨子邮递员",
+      "goal": "通过朝向与高低位置形成角色间的信息传递",
+      "colors": [
+        "35",
+        "44",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "scene": "D3 exchange between TWO characters. An original short lemon-yellow pear postman in a tiny dark-blue cap stands on left holding one large white envelope toward a short green cactus in a turquoise flowerpot on right. Cactus smiles and reaches one little arm toward envelope. Pear has tiny black feet and a diagonal orange mail satchel. Three simple pink envelopes peek from satchel, each with only a V seam no writing. Full vivid pink background with deep blue ground and a short pale reserved paper step beneath pot. Envelope is the focal bridge at center, eyes aim toward it; simple closed silhouettes, ordinary cartoon cactus no prickly rendering."
+    },
+    {
+      "slot": 18,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "paper-boat-ferry",
+      "title": "纸船渡口",
+      "goal": "用前后遮挡和形状大小组织小场景空间",
+      "colors": [
+        "6",
+        "68",
+        "35",
+        "23",
+        "75",
+        "95"
+      ],
+      "scene": "D3 depth grouping. A squat original pink hippopotamus with dot eyes, tiny ears and simple snout stands at the end of a sienna wooden dock at left foreground and looks at a big paper-white folded origami boat at lower right. Boat floats on turquoise water with three broad dark-blue curved ripples; one tiny orange triangular flag on a straight mast. Lemon-yellow full sky above a low dark blue distant shore stripe, no sun. The dock is a simple tapered trapezoid with only three plank lines, and hippo overlaps dock edge. Three spatial layers clearly separate; playful geometric flat landscape, no realistic waves, reflections, fur, foliage, or texture beyond marker strokes."
+    },
+    {
+      "slot": 19,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "rooftop-tomato-garden",
+      "title": "屋顶番茄园",
+      "goal": "控制重复物件的疏密与画面重心",
+      "colors": [
+        "23",
+        "68",
+        "35",
+        "44",
+        "52",
+        "6",
+        "75"
+      ],
+      "scene": "D3 compact setting. On a flat turquoise rooftop, a squat original lemon-yellow gardener with round body and orange hat waters a row of THREE pots. One large foreground orange pot with a simple tomato vine and two round pink tomatoes is on right; two smaller pots with broad green leaves sit farther left. Watering can deep blue, just three reserved paper white drops. Behind is a bold pink sky, one simple paper-white cloud and the corner of a small deep-blue roof doorway at upper left. Clear main tomato-pot focal point, varied pot sizes and spacing, gardener gaze toward plant. No dense leaves, no realistic terrace, no detailed brickwork or gradients."
+    },
+    {
+      "slot": 20,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "cookie-observatory",
+      "title": "饼干天文台",
+      "goal": "用大斜线和留空组织观看方向与画面焦点",
+      "colors": [
+        "95",
+        "35",
+        "68",
+        "23",
+        "82",
+        "75",
+        "6"
+      ],
+      "scene": "D3 diagonally organized night observatory. An original round sienna cookie astronomer with exactly four simple dark chip spots and short legs stands at lower left on a lavender curved hill. It bends one dot eye toward an oversized orange telescope with a turquoise rim on a clear black tripod. Telescope aims diagonally upward-right toward one large lemon-yellow ringed planet. Full deep blue sky with only three tiny reserved paper star dots. One small pink triangular pennant beside the hill. Keep big quiet dark space between telescope and planet, distinct simple geometric overlaps, substantial black hand contours, no magical glow, realistic shading, or starfield clutter."
+    },
+    {
+      "slot": 21,
+      "stage": "scene",
+      "level": "D3",
+      "slug": "building-block-slide-park",
+      "title": "积木滑梯公园",
+      "goal": "综合主次、斜向动势与多个角色的遮挡关系",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82"
+      ],
+      "scene": "D3 final integrated playful park scene, maximum THREE simple characters. A large turquoise geometric slide diagonally descends from upper left toward lower right; side rail thick black, three orange steps on left, sturdy simple side-on structure. One tiny pink square monster with delighted eyes sits at top, one lemon-yellow bean monster slides down feet first with raised short arms, one small lavender round monster watches from bottom left. Green ground strip, full dark-blue background with one orange semicircular sun partly clipped at top right. One simple round tree shape far right, no patterned foliage. Clean spacing and action hierarchy, avoid extra limbs, no crowd or complex playground machinery."
+    },
+    {
+      "slot": 22,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "lost-and-found-cart",
+      "title": "失物招领车",
+      "goal": "围绕主题自主安排物件组合与故事线索",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82",
+        "95"
+      ],
+      "scene": "D4 autonomous-project EXAMPLE, distinct original arrangement. A squat turquoise wheeled lost-and-found trolley with a large blank pink canopy and two black wheels is pushed from left to right by a short orange mitten-shaped attendant. On trolley display three oversized found objects with simple expressive eyes: one yellow striped rain boot, one lavender hat, one folded green umbrella. Attendant looks back at a small brown dog at lower left excitedly pointing its nose toward the boot. Deep blue full backdrop and yellow ground, side-on travelling composition with canopy, shelf and character overlapping naturally. Theme is conveyed entirely visually, no written sign. Flat broad color shapes, no detailed market clutter or rendered lighting."
+    },
+    {
+      "slot": 23,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "snow-soup-cart",
+      "title": "雪地热汤车",
+      "goal": "自主设计冷暖配色与主题情节",
+      "colors": [
+        "23",
+        "35",
+        "68",
+        "75",
+        "6",
+        "82",
+        "95"
+      ],
+      "scene": "D4 autonomous-project example: warmth in snow. A chunky orange stove cart on two black wheels occupies center-left on a turquoise snow slope. On top sits one big yellow soup pot with lid leaning aside, reserved paper-white steam is three broad curved shapes. A small original pink oval cook in a yellow knitted-looking cap offers one simple white bowl across the counter to a small lavender round snow creature on right wearing a blue scarf. Deep blue sky, large paper-white crescent snowbank across bottom, only two white snow dots. Snow creature gaze toward bowl, cook toward customer. Story through gestures and warm/cold blocks; no glow gradients, food detail, realistic steam, dense snowflakes, text or fur."
+    },
+    {
+      "slot": 24,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "underwater-library",
+      "title": "海底图书馆",
+      "goal": "自主组织空间、角色关系与重复形状节奏",
+      "colors": [
+        "68",
+        "75",
+        "82",
+        "23",
+        "35",
+        "6",
+        "44",
+        "95"
+      ],
+      "scene": "D4 autonomous-project example, geometric underwater reading corner. One friendly lavender octopus librarian is behind a low sienna curved bookshelf across lower half, two raised arms offer a big open paper-white book to one short orange fish floating at right. Simplify octopus to round head and FOUR visible broad curved arms only, not complex anatomy. Behind left is an arch-shaped dark-blue doorway; books on shelf are just six large alternating turquoise, pink and yellow rectangles with black dividing lines, no lettering. One bright green seaweed silhouette at lower left and three large reserved paper bubbles above fish. Turquoise full underwater background. Clear three layers and focal handoff, flat playful scene with visible marker fills, no realistic coral, caustics, or lighting gradients."
+    },
+    {
+      "slot": 25,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "spring-in-a-pocket",
+      "title": "口袋里的春天",
+      "goal": "自主尝试局部出框与不寻常尺度的构图",
+      "colors": [
+        "35",
+        "68",
+        "23",
+        "6",
+        "44",
+        "52",
+        "75",
+        "82"
+      ],
+      "scene": "D4 inventive composition example. A giant lemon-yellow coat pocket fills lower two thirds of square, its outer coat cropped by all lower sides; simple thick black curved pocket opening and just a few stitch dashes. From inside pocket rises a miniature turquoise house with orange triangular roof, ONE oversized pink flower on thick green stem and one lavender round bird perched on roof. A tiny original dark-blue bean caretaker climbs a short orange ladder leaning from pocket lip to roof and carries a small white watering can. Full hot pink backdrop visible at upper third. Deliberate scale contrast and framing by pocket, readable overlaps and one coherent story, no realistic fabric, no dense garden, no decorative text or extra tiny props."
+    },
+    {
+      "slot": 26,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "kite-repair-ship",
+      "title": "风筝修理船",
+      "goal": "围绕想象主题自行设计主体、动势与道具关系",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "82",
+        "95",
+        "44"
+      ],
+      "scene": "D4 original sky workshop example. A chunky sienna wooden airship with an orange crescent-shaped hull floats across full turquoise sky and one large paper-white cloud. On its simple flat deck, TWO original small characters, a yellow triangle mechanic and pink round assistant, stretch a large green-and-lavender diamond kite between them; kite has clear black cross spars and one flowing orange ribbon tail toward bottom right. One simple blue toolbox near mechanic, two tiny white wind streaks behind hull. Kite floats above center of deck, characters' short arms visibly touch two lower corners, clean open composition. Broad color blocks, side view with just slight deck depth, substantial natural black contours, no gears, rigging clutter, aircraft realism or gradients."
+    },
+    {
+      "slot": 27,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "night-dream-gardener",
+      "title": "夜班种梦员",
+      "goal": "自主建立视觉母题与有节奏的画面组织",
+      "colors": [
+        "75",
+        "82",
+        "35",
+        "68",
+        "23",
+        "6",
+        "44",
+        "95"
+      ],
+      "scene": "D4 series-design example. In full deep-blue night, a short original turquoise square gardener in a lemon-yellow crescent hat kneels at lower right, planting a small pink five-pointed star into a long orange seed tray that curves from lower left toward center. TWO more simple yellow stars on short green stems grow in tray, different heights; all stars flat and without faces. A lavender folded blanket hangs over a simple black semicircular rack at upper left, its one crescent pattern is reserved paper white. One small sienna watering can beside gardener. Use repeated star shapes with clear varied spacing, quiet upper-right negative space, simple gestures and flattened space. No glow, glitter, complex constellations, realistic vegetation, typography or watercolor."
+    },
+    {
+      "slot": 28,
+      "stage": "independent",
+      "level": "D4",
+      "slug": "candy-wrapper-town-bus",
+      "title": "糖纸小城的早班车",
+      "goal": "综合主题设定、系列配色、主次与空间取舍",
+      "colors": [
+        "6",
+        "68",
+        "35",
+        "23",
+        "75",
+        "82",
+        "44",
+        "95"
+      ],
+      "scene": "D4 final autonomous-project example, an invented small city built from everyday forms. Three large simplified buildings form background: at left a turquoise rectangular candy-wrapper house with triangular orange folded ends, center a lavender teapot-shaped house with one circular yellow window, right a tall green striped carton tower. A lemon-yellow teacup-shaped bus with TWO visible wheels and an orange handle travels left-to-right across a dark-blue curved road in foreground; two small simple original bean passengers, pink and turquoise, look through its single broad white window. One orange traffic-light pole with exactly three simple round lights at left edge. Full hot-pink sky, compact distinct focal bus and restrained city detail. A complete cohesive whimsical world with coherent flat side-on space, natural thick black contours and visible marker fill strokes. No writing, repeated window grids, realistic perspective, or dense architecture."
+    }
+  ],
+  "revisions": {
+    "method": "OpenAI内置imagegen",
+    "origin": "ai_generated",
+    "purpose": "两幅结构与布局修订，原版保留",
+    "edits": [
+      {
+        "course_slot": 16,
+        "source": "16-umbrella-patch-workshop.png",
+        "output": "16-umbrella-patch-workshop-v2.png",
+        "prompt": "Edit this existing S001 illustration to fix the umbrella geometry and workshop layout. Preserve the same original turquoise rounded character seated on pink stool at left, green triangular patch, orange umbrella, yellow workbench, pink spool, deep blue background, strong natural black outlines, visible marker fill strokes, square format and white paper margin. Preserve the principal colors and character identity; this is a geometry/layout correction, not a recoloring. Redesign ONLY the umbrella and necessary local positioning to make physical structure readable. The opened orange canopy must be a convincingly DOMED umbrella in an oblique three-quarter side view, NOT an overhead radial disc, NOT a flat fan or flower. Its apex is toward upper middle-right, a rounded convex outer silhouette arches upward; three broad curved fabric panels wrap from apex toward a clearly scalloped lower rim. Show a narrow darker orange underside at the near rim, far panels compressed by perspective, and one modest flat burnt-orange shadow panel to communicate curvature; no smooth gradients. The pole joins the underside at the apex and is hidden behind the FRONT fabric, visible only below the rim, extending down-right toward a black curved handle that rests fully ON the table. Do not draw a central hub on the visible exterior canopy or a pole crossing on top of its outer fabric. Make umbrella smaller than in original so it occupies upper-right roughly 55% of image width, with a comfortable blue margin above. Left lower canopy edge sits close enough to the character for TWO short hands to attach the green triangular patch to the forward panel, believable contact. Table is a stable three-quarter rectangular plane below, a lemon-yellow top and darker ochre front apron separated by a clean edge, legs touch yellow floor. Spool stays lower right but reduce it slightly and place it ON the right side of workbench, clear of the umbrella handle; black thread travels briefly ON table toward patch, not a large loop on floor. A small crisp contact shadow under supported objects is allowed. Keep total readable colors limited, broad flat shapes, no tiny stitches except a few black patch dashes, no realistic materials or metallic shine. No text, labels, diagrams, watermarks, panels, or extra props. All essential objects fit inside the square."
+      },
+      {
+        "course_slot": 25,
+        "source": "25-spring-in-a-pocket.png",
+        "output": "25-spring-in-a-pocket-v2.png",
+        "prompt": "Edit this existing S001 fantasy illustration to make the giant YELLOW CLOTHING POCKET unmistakable and spatially readable. The yellow shape is NOT a bowl, flowerpot or container. Preserve the original turquoise tiny house with orange roof, lavender bird on roof, green flower stem and pink flower, small blue caretaker on orange ladder holding white watering can, hot pink backdrop, original simple smiling faces, black hand-drawn outlines and marker-stroke color-block style. Keep principal hues; the user requested structure clarity, not a new palette. Reframe the lower half to show a real fabric PATCH POCKET sewn ONTO the FRONT of a cropped yellow shirt/jacket: clearly visible outer garment fabric behind the patch, a short vertical button placket down the LEFT side with TWO large simple dark buttons and one simple garment seam, enough context to identify clothing. The pocket itself is a broad rounded-bottom rectangular patch in front of the jacket, with left, bottom and right U-shaped stitch lines actually attaching it to the garment; its bottom edge is fully visible before the image border, not cropped like a bowl. Pocket opening is a shallow curved NARROW SLOT across its upper edge: a slightly darker ochre INTERIOR crescent behind a folded yellow top hem, a thin pale-yellow rim on the near lip, and two short side folds. Tiny house, flower and ladder emerge from INSIDE this slot: back opening sits behind them; near pocket lip visibly overlaps the bottom of the house, flower stem and ladder. Show a modest flat darker yellow patch directly underneath the front lip and at one side fold to communicate fabric thickness and curvature; use only two or three discrete yellow values, no photorealistic shading or gradient. Slightly reduce the empty yellow area, keeping miniature scene upper half prominent. The front pocket should be about 70% image width, detached from the garment outer edges, so it cannot be mistaken for a bowl filling the whole lower frame. Everything rests or overlaps coherently: ladder feet disappear INTO the pocket, ladder top meets roof, caretaker touches watering can. Keep square finished illustration with clean white paper margin, substantial natural black contour and broad flat marker fills; no cloth microtexture, detailed tailoring, lettering, labels, logos, panels or watermark."
+      }
+    ]
+  },
+  "revisions_v3": {
+    "method": "OpenAI内置imagegen",
+    "origin": "ai_generated",
+    "purpose": "第02幅替换与第16幅修伞布局修订",
+    "artworks": [
+      {
+        "course_slot": 2,
+        "title": "松鼠抱橡果",
+        "output": "entries/beginner/002-acorn-squirrel/reference/finished.png",
+        "prompt": "Use case: illustration-story. Generate ONE original square S001 playful color-block marker illustration, D1 beginner level, titled conceptually \"squirrel hugging an acorn\" but with NO written text in image. Strong slightly wobbly BLACK hand-drawn outlines, visible continuous marker fill strokes on smooth white marker paper, saturated broad FLAT shapes, very simple round original character with cute slightly puzzled dot eyes, tiny curved mouth, short limbs and a small amusing action. White narrow paper margin around a fully colored square scene. Scene: a chubby MARIGOLD-GOLD squirrel standing slightly right of center leans forward hugging ONE oversized acorn in left foreground. Acorn is a simple pale-warm-yellow rounded egg with a broad chocolate-brown cap on top and short stem, no crosshatching. Acorn overlaps the squirrel's front belly; two small golden paws overlap acorn sides, with the hidden belly contour correctly interrupted. Large smooth chocolate-brown comma-shaped fluffy tail curls up on the far right behind the squirrel; describe fluff via ONE simple rounded silhouette, no hair strokes. Head has two little round ears and one simple pale-yellow muzzle; short golden feet touch the olive-green ground strip occupying bottom 18 percent. Background is a solid saturated deep CARMINE RED (not hot pink or blue). EXACT palette approximation from owned markers: 24 Marigold for squirrel, 37 Pastel Yellow for acorn body and muzzle, 92 Chocolate for acorn cap and tail, 41 Olive Green ground, 11 Carmine background; black fineliner for outlines and tiny features. Five marker colors maximum plus paper white and fineliner. No blue, turquoise, bright pink, extra plants, fallen leaves, furniture, scenery, speech bubbles or decorative dots. Asymmetric readable composition, main shapes large enough to copy in 10 cm square. No realistic fur or volumetric rendering, no smooth gradients, no glossy vector polish, no thin delicate watercolor lines, no photographic scene, no numbers or watermark. Difficulty is ONLY basic shape grouping and simple overlap. Keep squirrel original and not similar to any licensed cartoon."
+      },
+      {
+        "course_slot": 16,
+        "title": "雨伞补丁铺",
+        "input": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v2.png",
+        "output": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v3.png",
+        "prompt": "Edit the supplied S001 marker illustration by REDESIGNING the physical setup from scratch, keeping the same simple turquoise round original repair character, orange umbrella, green patch, yellow worktable, small pink thread spool, saturated deep-blue background and natural BLACK marker outlines. The central problem is an unsupported floating umbrella: solve this through a believable CHARACTER HOLDING THE UMBRELLA. Use a very clear near-side view and broad simplified geometry. Character now STANDS at lower left on two short feet, looking up-right. Its LOWER hand clearly grips the STRAIGHT VERTICAL umbrella shaft directly below canopy; its UPPER hand touches a small green patch on the lower left canopy panel. TWO arms only, visible continuous connections, clear grasp. Umbrella is centered above and to right of character, size moderate, the shaft at center-right is visibly held, never balanced on its J-handle. The ORANGE CANOPY is the conventional shallow, WIDE umbrella silhouette: width about 1.7 times dome height, tiny central tip, rounded convex roof arch flowing down to left and right tips at same height, THREE clearly scalloped concave arcs along lower edge, matching perspective and broad panels. Only two curved front fabric seams from top to scallop points. No enormous tall mushroom-shaped dome, no outer radial wheel, no hub in the middle of visible orange fabric, no dark skeleton drawn on top. A narrow darker orange inner-rim sliver and one restrained flat shadow panel are enough. Straight shaft is physically connected to canopy apex behind front fabric and visible from middle of lower rim down to the character's LOWER hand, continuing to a J-handle below hand near character's hip; all one continuous vertical pole. Do NOT lean pole diagonally across visible canopy. The yellow worktable is smaller and placed at lower RIGHT, separated from the character; top holds ONLY pink spool and a small folded fabric patch, no umbrella or umbrella handle resting on it. Thread stays on table, no loose loop attached to umbrella tip. Simple stable table with front apron and two grounded legs, about bottom quarter of image. Orange umbrella is comfortably clear of tabletop. Show the whole held umbrella and both character feet within white paper border, no clipped essentials. Keep marker hand-drawn flat color blocks, slightly wobbly substantial black contour, clear contact and support; avoid realistic gradients, extra limbs, sewing microdetails, text, labels, logos, collage. This is a complete revised illustration of a readable repair action, not a diagram."
+      }
+    ]
+  },
+  "replacement_002_prompt_record": "entries/beginner/002-acorn-squirrel/reference/generation-prompts.json",
+  "axis_refinement_v3": {
+    "method": "OpenAI内置imagegen",
+    "purpose": "同一修伞布局的伞杆中轴校准",
+    "source": "16-umbrella-patch-workshop-v3.png",
+    "output": "16-umbrella-patch-workshop-v3-axis.png",
+    "prompt": "Make ONE precise structural correction to the supplied illustration, preserving its entire composition, all colors, character, raised patch-touching arm, canopy shape, green patch, table, spool, black marker style and paper border. Correct the UMBRELLA SHAFT AXIS: the top finial of the orange canopy is at approximately 55 percent of the image width. The straight vertical metal shaft must sit DIRECTLY BELOW THAT TOP FINIAL, on the SAME vertical centerline, physically connecting to it behind the canopy. Currently the shaft emerges too far left. Move the entire straight shaft and J-handle a little RIGHT, to align beneath the canopy's top tip; extend the character's lower forearm a little to keep a clear natural grip around the corrected pole. The vertical shaft must emerge from the center of the lower canopy edge and continue straight down through the gripping hand into the J-handle. It must not bend, lean or begin from an unrelated off-center panel. Do not redraw or enlarge the umbrella or shift its apex. Do not change the character's upper hand that touches the patch. Only move the pole and adapt the lower gripping hand. Keep all other elements unchanged. No text or watermark."
+  }
+}

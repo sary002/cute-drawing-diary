@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "format": "{style_id}-{number:03d}",
+  "scope": "one continuous sequence per style across all stages",
+  "revision_policy": "same material_id; version increases",
+  "retirement_policy": "never reuse an assigned number",
+  "styles": {
+    "S001": {
+      "last_assigned_number": 28,
+      "initial_mainline_count": 28,
+      "assigned_material_manifest": "styles/previews/S001-2026-11-01/manifest.json",
+      "retired_numbers": []
+    }
+  }
+}

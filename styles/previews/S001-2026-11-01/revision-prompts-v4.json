@@ -1,0 +1,48 @@
+{
+  "version": 4,
+  "tool": "built-in image_gen",
+  "revisions": [
+    {
+      "slot": 16,
+      "source_image": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v3-axis.png",
+      "image": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v4-straight.png",
+      "prompt": "Edit target: supplied umbrella repair illustration. Keep its cute flat marker style, thick slightly imperfect black outlines, visible marker texture, white border, turquoise character at left, green patch, yellow worktable at right, pink spool, blue background. Correct the umbrella GEOMETRY. Draw the umbrella in a perfectly frontal view with a bilaterally symmetric orange canopy: tip at 55% image width, left and right canopy edges equidistant from that axis and same height. Central lower rim is centered directly beneath tip. The single straight vertical shaft emerges from the exact CENTER of that rim and continues downward at the EXACT SAME x coordinate as the top tip. Replace J-shaped hook entirely with a STRAIGHT short cylindrical dark gray grip centered on the same shaft axis. Tip, canopy center, exposed shaft, and straight grip form one vertical line. NO hook, NO tilt, NO off-center shaft, NO oblique underside perspective. Use symmetric curved panel seams and small darker orange flat edge panels to show dome volume. Character's lower hand wraps around shaft while leaving shaft above and below visibly aligned; upper hand touches green patch. Simplify any conflicting seam structure. Do not draw construction guides, lettering, or labels. Preserve original subject and colors."
+    },
+    {
+      "slot": 13,
+      "source_image": "styles/previews/S001-2026-11-01/13-windy-scarf-bird.png",
+      "image": "styles/previews/S001-2026-11-01/13-windy-scarf-bird-v4-palette.png",
+      "prompt": "Edit target supplied windy scarf bird illustration. Preserve subject, pose, expression, ALL outlines, shape layout, picture border and visible hand-colored marker strokes. Change COLORS only, using this full replacement palette: pink background becomes light ICE BLUE (65); turquoise bird becomes light MINT GREEN (58); orange scarf and feet become rich CARMINE RED (11); dark blue scarf stripes become PRUSSIAN BLUE (69); tiny yellow accents become PASTEL YELLOW (37). Cheeks may use same carmine red as scarf, no extra pink. Preserve black contours and reserve-paper-white areas. Flat crisp color blocks, strong colored scarf against pale sky; no gradients or photorealism. Do not add detail, lettering or objects."
+    },
+    {
+      "slot": 14,
+      "source_image": "styles/previews/S001-2026-11-01/14-grumpy-alarm-clock.png",
+      "image": "styles/previews/S001-2026-11-01/14-grumpy-alarm-clock-v4-palette.png",
+      "prompt": "Edit target supplied grumpy alarm clock. Preserve every shape, pose, face, black contour, white dial, marker texture and square white border. Recolor only. Full blue background becomes LIGHT WARM GREY (WG3). Orange clock body and top button become SALMON PINK (25). Turquoise bells become MINT BLUE (143). Yellow sound marks become MARIGOLD golden yellow (24). Pink floor becomes very pale WARM GREY (WG1), visibly lighter than wall. Keep black legs/contours. Use these five fill colors plus black and reserved-paper-white only. Large salmon clock should remain vivid against light grey wall. Maintain simple hand-colored flat shapes. No new detail, text, gradients or scenery."
+    },
+    {
+      "slot": 18,
+      "source_image": "styles/previews/S001-2026-11-01/18-paper-boat-ferry.png",
+      "image": "styles/previews/S001-2026-11-01/18-paper-boat-ferry-v4-palette.png",
+      "prompt": "Edit target supplied hippo and paper boat scene. Preserve every shape, pose, expression, black outline, paper-white boat, white margin and visible marker fill. Recolor only, full mapping: yellow sky becomes PALE CHERRY PINK (135) very pale pink; turquoise water becomes CERULEAN BLUE (63); dark blue far hills and ripples become COBALT BLUE (71); pink hippo becomes ROSE PINK (8), a richer rose against pale sky; orange flag becomes OLD RED (2) warm dark red; brown pier becomes MEDIUM WARM GREY (WG5). Preserve crisp flat color regions without gradients. Do not add any new objects or colors. Keep paper boat white, no lettering."
+    },
+    {
+      "slot": 23,
+      "source_image": "styles/previews/S001-2026-11-01/23-snow-soup-cart.png",
+      "image": "styles/previews/S001-2026-11-01/23-snow-soup-cart-v4-palette.png",
+      "prompt": "Edit target supplied snow soup cart illustration. Preserve all geometry, story, expressions, outlines, white steam/white apron/white bowl/white snow foreground, square paper border and marker texture. Recolor only by replacing all original colored regions: royal blue night sky and scarf -> deep PRUSSIAN BLUE (69); turquoise snow middle ground -> ICE BLUE (65); orange cart body and soup -> warm OLD RED (2); yellow pot and hat -> DARK YELLOW ochre (31); hot pink vendor and cheeks -> SALMON PINK (25); violet customer -> very light WARM GREY (WG1); brown countertop and handles -> CHOCOLATE (92). Black wheels and contours unchanged. Flat simple filled regions, no gradients, no new shapes or colors, no lettering. Strong warm food cart against a cool dark winter scene."
+    },
+    {
+      "slot": 24,
+      "source_image": "styles/previews/S001-2026-11-01/24-underwater-library.png",
+      "image": "styles/previews/S001-2026-11-01/24-underwater-library-v4-palette.png",
+      "prompt": "Edit target supplied underwater library scene. Preserve all shapes, character faces, reading pose, shelf, books, white page regions, bubbles, outlines, paper margin and marker stroke texture. ONLY change palette by full mapping: turquoise water background and turquoise book covers -> light MINT BLUE (143); dark blue alcove and stone -> very dark WARM GREY (WG9); violet octopus -> ROSE PINK (8); orange clownfish -> golden MARIGOLD (24); yellow books -> PASTEL YELLOW (37); hot pink book covers -> PALE CHERRY PINK (135); green seaweed -> VIVID GREEN (46); brown shelf -> WARM GREY (WG3). Keep fish white stripes and book pages reserve-paper-white, contours black. Eight fill colors only. Playful flat hand-colored marker art, no gradients, no lighting effects, no new objects or lettering."
+    },
+    {
+      "slot": 27,
+      "source_image": "styles/previews/S001-2026-11-01/27-night-dream-gardener.png",
+      "image": "styles/previews/S001-2026-11-01/27-night-dream-gardener-v4-palette.png",
+      "prompt": "Edit target supplied night dream gardener illustration. Keep EXACT subject, layout, gestures, outlines, paper white accents, square margin and marker-fill texture. Recolor all colored areas using these replacements: blue sky -> deep PRUSSIAN BLUE (69); violet hanging cloth -> medium WARM GREY (WG5); yellow hat and star blossoms -> PASTEL YELLOW (37); turquoise gardener -> light MINT GREEN (58); orange planter -> SALMON PINK (25); hot pink flower -> CARMINE RED (11); green leaves and stems -> SPECTRUM GREEN (172), a clear rich green; brown soil and watering can -> CHOCOLATE (92). Use eight fill colors plus black contours and paper-white. Simple flat marker blocks, no gradients, no extra objects, no lettering, no glowing effects. Retain recognizable cheerful S001 style."
+    }
+  ]
+}

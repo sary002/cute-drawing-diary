@@ -1,0 +1,96 @@
+[
+  {
+    "material_id": "S001-008",
+    "slug": "yawning-mailbox",
+    "title": "打哈欠的邮筒",
+    "goal": "用眼皮与嘴型把情绪表现清楚",
+    "colors": [
+      "23",
+      "35",
+      "68"
+    ],
+    "lesson_path": "lessons/intermediate/003-yawning-mailbox.md"
+  },
+  {
+    "material_id": "S001-009",
+    "slug": "avocado-seesaw",
+    "title": "鳄梨和果核玩跷跷板",
+    "goal": "用倾斜、高低与重心组织动作",
+    "colors": [
+      "44",
+      "52",
+      "92",
+      "23",
+      "6"
+    ],
+    "lesson_path": "lessons/intermediate/004-avocado-seesaw.md"
+  },
+  {
+    "material_id": "S001-010",
+    "slug": "catch-a-star",
+    "title": "接住一颗星星",
+    "goal": "在新情境中控制斜向与焦点",
+    "colors": [
+      "23",
+      "68",
+      "35",
+      "75"
+    ],
+    "lesson_path": "lessons/intermediate/006-catch-a-star.md"
+  },
+  {
+    "material_id": "S001-011",
+    "slug": "cloud-laundry",
+    "title": "云朵晾衣日",
+    "goal": "控制重复形状的疏密与节奏",
+    "colors": [
+      "68",
+      "35",
+      "23",
+      "9"
+    ],
+    "lesson_path": "lessons/intermediate/009-cloud-laundry.md"
+  },
+  {
+    "material_id": "S001-012",
+    "slug": "robot-flowerpot",
+    "title": "举着花盆的机器人",
+    "goal": "用视线与手臂方向引导注意力",
+    "colors": [
+      "68",
+      "35",
+      "44",
+      "23",
+      "6"
+    ],
+    "lesson_path": "lessons/intermediate/011-robot-flowerpot.md"
+  },
+  {
+    "material_id": "S001-013",
+    "slug": "windy-scarf-bird",
+    "title": "风中的长围巾",
+    "goal": "用连续曲线与线条粗细表现风向和前后",
+    "colors": [
+      "58",
+      "11",
+      "65",
+      "37",
+      "69"
+    ],
+    "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md"
+  },
+  {
+    "material_id": "S001-014",
+    "slug": "grumpy-alarm-clock",
+    "title": "气鼓鼓的闹钟",
+    "goal": "用眼皮、嘴与倾斜姿态组织明确情绪",
+    "colors": [
+      "25",
+      "143",
+      "24",
+      "WG1",
+      "WG3"
+    ],
+    "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md"
+  }
+]

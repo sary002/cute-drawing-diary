@@ -1,0 +1,27 @@
+{
+  "id": "scene",
+  "level": "D3",
+  "name": "综合组织",
+  "focus": [
+    "组织多个形状或主体的关系",
+    "建立主次、层次与疏密",
+    "综合运用已学技能并保留一个当次重点"
+  ],
+  "lesson_limits": {
+    "marker_colors_max": 8
+  },
+  "exit_criteria": [
+    "能安排清楚的主体与次要内容",
+    "能协调两项以上已学技能",
+    "能取舍细节并保持风格一致"
+  ],
+  "status": "defined",
+  "tools_profile": null,
+  "review_after_completed_entries": 7,
+  "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+  "core_lessons_per_style": 7,
+  "optional_consolidation_lessons": [
+    2,
+    3
+  ]
+}

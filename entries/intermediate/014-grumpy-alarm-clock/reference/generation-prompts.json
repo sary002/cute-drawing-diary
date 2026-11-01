@@ -1,0 +1,8 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "source_artwork": "styles/previews/S001-2026-11-01/14-grumpy-alarm-clock-v4-palette.png",
+  "prompt": "Create SIX-panel progressive tutorial for exact supplied salmon-pink grumpy alarm clock composition. White portrait page 2 columns x3 rows, same framing across panels, spacious legible. Title 气鼓鼓的闹钟 · D2. Top color chips 25 / 143 / 24 / WG1 / WG3. Captions exactly: 01 圆形定位, 02 表情与钟铃, 03 珊瑚粉钟身, 04 薄荷蓝钟铃, 05 暖灰背景, 06 干透勾线. Panels1-2 only faint gray pencil (first circles/tilt, second bells/feet/face placement). Panel3 salmon25 body but dial stays reserved paper white. Panel4 mint blue143 bells and marigold24 sound marks. Panel5 medium-light warm grayWG3 wall and palerWG1 floor, leave dial white. Panel6 add black contours, feet, frowning mouth, brows, hands matching reference, only after color dry. No black lines before panel6. Each panel small corresponding Chinese operation hint. Footer AI教学示意｜先上色，干透后勾线. Preserve hand-colored marker texture and playful flat style. No new colors, objects, shading or photorealism. All six steps must visibly advance.",
+  "correction_prompt": null,
+  "teaching_mode": "supported",
+  "qa_note": "已检查阶段、图序、主要造型、留白和计划色号。实际油性笔操作以正文为准。"
+}

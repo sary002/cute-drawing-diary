@@ -41,5 +41,9 @@
     "published_at": null,
     "metrics": []
   },
-  "style_id": "S001"
+  "style_id": "S001",
+  "material_id": "S001-005",
+  "course_slot": 5,
+  "course_role": "mainline",
+  "teaching_mode": "guided"
 }

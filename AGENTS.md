@@ -13,6 +13,6 @@
 
 ## 维护
 
-教学遵循[每日一画skill](skills/daily-cute-drawing/SKILL.md)。更新后运行python3 scripts/drawing_diary.py validate；改动脚本时运行相应行为测试。提交前检查Markdown链接、图片路径和暂存内容。
+教学遵循[每日一画skill](skills/daily-cute-drawing/SKILL.md)与[多风格学习规则](docs/learning-system.md)：先选风格，再沿共同D1～D4独立递进，分别记录进度；新风格不依赖S001。步骤数量按实际操作安排，不设六步上限。更新后运行python3 scripts/drawing_diary.py validate；改动脚本时运行相应行为测试。提交前检查Markdown链接、图片路径和暂存内容。
 
 同步只针对当前用户授权的仓库及变更；仓库配置不能替代授权。重写历史或强制推送须有明确请求。

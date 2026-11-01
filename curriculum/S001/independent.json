@@ -1,0 +1,122 @@
+[
+  {
+    "material_id": "S001-022",
+    "slug": "lost-and-found-cart",
+    "title": "失物招领车",
+    "goal": "围绕主题自主安排物件组合与故事线索",
+    "colors": [
+      "68",
+      "23",
+      "35",
+      "6",
+      "44",
+      "75",
+      "82",
+      "95"
+    ],
+    "lesson_path": "lessons/independent/022-lost-and-found-cart.md"
+  },
+  {
+    "material_id": "S001-023",
+    "slug": "snow-soup-cart",
+    "title": "雪地热汤车",
+    "goal": "自主设计冷暖配色与主题情节",
+    "colors": [
+      "2",
+      "31",
+      "65",
+      "69",
+      "25",
+      "WG1",
+      "92"
+    ],
+    "lesson_path": "lessons/independent/023-snow-soup-cart.md"
+  },
+  {
+    "material_id": "S001-024",
+    "slug": "underwater-library",
+    "title": "海底图书馆",
+    "goal": "自主组织空间、角色关系与重复形状节奏",
+    "colors": [
+      "143",
+      "WG9",
+      "8",
+      "24",
+      "37",
+      "135",
+      "46",
+      "WG3"
+    ],
+    "lesson_path": "lessons/independent/024-underwater-library.md"
+  },
+  {
+    "material_id": "S001-025",
+    "slug": "spring-in-a-pocket",
+    "title": "口袋里的春天",
+    "goal": "自主组织尺度、布料开口与前后遮挡",
+    "colors": [
+      "35",
+      "68",
+      "23",
+      "6",
+      "44",
+      "52",
+      "75",
+      "82",
+      "31",
+      "37"
+    ],
+    "lesson_path": "lessons/independent/025-spring-in-a-pocket.md"
+  },
+  {
+    "material_id": "S001-026",
+    "slug": "kite-repair-ship",
+    "title": "风筝修理船",
+    "goal": "围绕想象主题自行设计主体、动势与道具关系",
+    "colors": [
+      "68",
+      "23",
+      "35",
+      "6",
+      "75",
+      "82",
+      "95",
+      "44"
+    ],
+    "lesson_path": "lessons/independent/026-kite-repair-ship.md"
+  },
+  {
+    "material_id": "S001-027",
+    "slug": "night-dream-gardener",
+    "title": "夜班种梦员",
+    "goal": "自主建立视觉母题与有节奏的画面组织",
+    "colors": [
+      "69",
+      "WG5",
+      "37",
+      "58",
+      "25",
+      "11",
+      "172",
+      "92"
+    ],
+    "lesson_path": "lessons/independent/027-night-dream-gardener.md"
+  },
+  {
+    "material_id": "S001-028",
+    "slug": "candy-wrapper-town-bus",
+    "title": "糖纸小城的早班车",
+    "goal": "综合主题设定、系列配色、主次与空间取舍",
+    "colors": [
+      "6",
+      "68",
+      "35",
+      "23",
+      "75",
+      "82",
+      "44",
+      "95"
+    ],
+    "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md"
+  }
+]

@@ -1,0 +1,959 @@
+{
+  "schema_version": 1,
+  "style_id": "S001",
+  "status": "course_ready",
+  "course_slots_are_not_entry_numbers": true,
+  "total": 28,
+  "reused": 11,
+  "new": 17,
+  "note": "课程预览顺序与历史作品编号分别管理。D2复用图需按新重点调整教案；新图均为AI成品预览，尚无配套完整教案。D4为自主创作示例，不要求照抄。实际完成记录和历史快照未迁移。",
+  "artworks": [
+    {
+      "course_slot": 1,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "戴耳机的小蘑菇",
+      "goal": "用半圆、圆角长方形概括主体",
+      "colors": [
+        "23",
+        "68",
+        "9",
+        "35"
+      ],
+      "image": "entries/beginner/001-headphone-mushroom/reference/finished.png",
+      "source_entry": "entries/beginner/001-headphone-mushroom/entry.json",
+      "original_lesson": "lessons/beginner/001-headphone-mushroom.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-001",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/001-headphone-mushroom/entry.json",
+      "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
+      "teaching_mode": "guided",
+      "target_minutes": 25
+    },
+    {
+      "course_slot": 2,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "松鼠抱橡果",
+      "goal": "前后遮挡：橡果挡住身体，爪子在橡果前",
+      "colors": [
+        "24",
+        "37",
+        "92",
+        "41",
+        "11"
+      ],
+      "image": "entries/beginner/002-acorn-squirrel/reference/finished.png",
+      "source_entry": "entries/beginner/002-acorn-squirrel/entry.json",
+      "original_lesson": "lessons/beginner/002-acorn-squirrel.md",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "previous_image": "entries/beginner/002-lakeside-hills/reference/finished.png",
+      "replacement": true,
+      "version": 1,
+      "material_id": "S001-002",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/002-acorn-squirrel/entry.json",
+      "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 3,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "粉色天空下的条纹灯塔",
+      "goal": "用大形安排前后层次",
+      "colors": [
+        "9",
+        "68",
+        "35",
+        "23"
+      ],
+      "image": "entries/beginner/005-striped-lighthouse/reference/finished.png",
+      "source_entry": "entries/beginner/005-striped-lighthouse/entry.json",
+      "original_lesson": "lessons/beginner/005-striped-lighthouse.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-003",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/005-striped-lighthouse/entry.json",
+      "lesson_path": "lessons/beginner/005-striped-lighthouse.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 4,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "偷吃月亮",
+      "goal": "用大小对比突出主体",
+      "colors": [
+        "82",
+        "35",
+        "23",
+        "68"
+      ],
+      "image": "entries/beginner/007-moon-snack/reference/finished.png",
+      "source_entry": "entries/beginner/007-moon-snack/entry.json",
+      "original_lesson": "lessons/beginner/007-moon-snack.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-004",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/007-moon-snack/entry.json",
+      "lesson_path": "lessons/beginner/007-moon-snack.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 5,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "雨天的蜗牛",
+      "goal": "用一大一小形状说明遮挡关系",
+      "colors": [
+        "23",
+        "68",
+        "35",
+        "75",
+        "67"
+      ],
+      "image": "entries/beginner/008-snail-leaf/reference/finished.png",
+      "source_entry": "entries/beginner/008-snail-leaf/entry.json",
+      "original_lesson": "lessons/beginner/008-snail-leaf.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-005",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/008-snail-leaf/entry.json",
+      "lesson_path": "lessons/beginner/008-snail-leaf.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 6,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "企鹅的热可可",
+      "goal": "纸白规划与抱住物件的遮挡",
+      "colors": [
+        "120",
+        "23",
+        "75",
+        "9",
+        "92"
+      ],
+      "image": "entries/beginner/010-penguin-cocoa/reference/finished.png",
+      "source_entry": "entries/beginner/010-penguin-cocoa/entry.json",
+      "original_lesson": "lessons/beginner/010-penguin-cocoa.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-006",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/010-penguin-cocoa/entry.json",
+      "lesson_path": "lessons/beginner/010-penguin-cocoa.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 7,
+      "stage": "beginner",
+      "level": "D1",
+      "title": "鲸鱼的晚安灯",
+      "goal": "用大曲线连接画面",
+      "colors": [
+        "68",
+        "35",
+        "9",
+        "75"
+      ],
+      "image": "entries/beginner/012-whale-lantern/reference/finished.png",
+      "source_entry": "entries/beginner/012-whale-lantern/entry.json",
+      "original_lesson": "lessons/beginner/012-whale-lantern.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-007",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "完整跟画·已备课",
+      "entry_path": "entries/beginner/012-whale-lantern/entry.json",
+      "lesson_path": "lessons/beginner/012-whale-lantern.md",
+      "teaching_mode": "guided",
+      "target_minutes": 30
+    },
+    {
+      "course_slot": 8,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "打哈欠的邮筒",
+      "goal": "用眼皮与嘴型把情绪表现清楚",
+      "colors": [
+        "23",
+        "35",
+        "68"
+      ],
+      "image": "entries/intermediate/003-yawning-mailbox/reference/finished.png",
+      "source_entry": "entries/beginner/003-yawning-mailbox/entry.json",
+      "original_lesson": "lessons/beginner/003-yawning-mailbox.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-008",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/003-yawning-mailbox/entry.json",
+      "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 9,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "鳄梨和果核玩跷跷板",
+      "goal": "用倾斜、高低与重心组织动作",
+      "colors": [
+        "44",
+        "52",
+        "92",
+        "23",
+        "6"
+      ],
+      "image": "entries/intermediate/004-avocado-seesaw/reference/finished.png",
+      "source_entry": "entries/beginner/004-avocado-seesaw/entry.json",
+      "original_lesson": "lessons/beginner/004-avocado-seesaw.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-009",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/004-avocado-seesaw/entry.json",
+      "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 10,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "接住一颗星星",
+      "goal": "在新情境中控制斜向与焦点",
+      "colors": [
+        "23",
+        "68",
+        "35",
+        "75"
+      ],
+      "image": "entries/intermediate/006-catch-a-star/reference/finished.png",
+      "source_entry": "entries/beginner/006-catch-a-star/entry.json",
+      "original_lesson": "lessons/beginner/006-catch-a-star.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-010",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/006-catch-a-star/entry.json",
+      "lesson_path": "lessons/intermediate/006-catch-a-star.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 11,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "云朵晾衣日",
+      "goal": "控制重复形状的疏密与节奏",
+      "colors": [
+        "68",
+        "35",
+        "23",
+        "9"
+      ],
+      "image": "entries/intermediate/009-cloud-laundry/reference/finished.png",
+      "source_entry": "entries/beginner/009-cloud-laundry/entry.json",
+      "original_lesson": "lessons/beginner/009-cloud-laundry.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-011",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/009-cloud-laundry/entry.json",
+      "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 12,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "举着花盆的机器人",
+      "goal": "用视线与手臂方向引导注意力",
+      "colors": [
+        "68",
+        "35",
+        "44",
+        "23",
+        "6"
+      ],
+      "image": "entries/intermediate/011-robot-flowerpot/reference/finished.png",
+      "source_entry": "entries/beginner/011-robot-flowerpot/entry.json",
+      "original_lesson": "lessons/beginner/011-robot-flowerpot.md",
+      "newly_generated": false,
+      "teaching_status": "ready",
+      "material_id": "S001-012",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/011-robot-flowerpot/entry.json",
+      "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 13,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "风中的长围巾",
+      "goal": "用连续曲线与线条粗细表现风向和前后",
+      "colors": [
+        "58",
+        "11",
+        "65",
+        "37",
+        "69"
+      ],
+      "image": "entries/intermediate/013-windy-scarf-bird/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-013",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/13-windy-scarf-bird.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/13-windy-scarf-bird.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "68",
+        "23",
+        "6",
+        "35",
+        "75"
+      ],
+      "palette_roles": {
+        "background": {
+          "65": "大片天空",
+          "37": "底部窄地面"
+        },
+        "main": {
+          "58": "小鸟",
+          "11": "围巾与脚"
+        },
+        "accent": {
+          "69": "围巾条纹"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/013-windy-scarf-bird/entry.json",
+      "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 14,
+      "stage": "intermediate",
+      "level": "D2",
+      "title": "气鼓鼓的闹钟",
+      "goal": "用眼皮、嘴与倾斜姿态组织明确情绪",
+      "colors": [
+        "25",
+        "143",
+        "24",
+        "WG1",
+        "WG3"
+      ],
+      "image": "entries/intermediate/014-grumpy-alarm-clock/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-014",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/14-grumpy-alarm-clock.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/14-grumpy-alarm-clock.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "23",
+        "68",
+        "35",
+        "6",
+        "75"
+      ],
+      "palette_roles": {
+        "background": {
+          "WG3": "背景墙",
+          "WG1": "窄地面"
+        },
+        "main": {
+          "25": "钟身",
+          "143": "钟铃"
+        },
+        "accent": {
+          "24": "响声符号"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/intermediate/014-grumpy-alarm-clock/entry.json",
+      "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
+      "teaching_mode": "supported",
+      "target_minutes": 45
+    },
+    {
+      "course_slot": 15,
+      "stage": "scene",
+      "level": "D3",
+      "title": "面包巴士站",
+      "goal": "组织两个角色与站牌、车辆的主次关系",
+      "colors": [
+        "35",
+        "95",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "image": "entries/scene/015-toast-bus-stop/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-015",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/015-toast-bus-stop/entry.json",
+      "lesson_path": "lessons/scene/015-toast-bus-stop.md",
+      "teaching_mode": "supported",
+      "target_minutes": 65
+    },
+    {
+      "course_slot": 16,
+      "stage": "scene",
+      "level": "D3",
+      "title": "雨伞补丁铺",
+      "goal": "用明确握持与支撑关系组织修伞动作",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "44",
+        "31",
+        "WG7"
+      ],
+      "image": "entries/scene/016-umbrella-patch-workshop/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "previous_image": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v3-axis.png",
+      "version": 4,
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop.png",
+        "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v2.png",
+        "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v3-axis.png"
+      ],
+      "material_id": "S001-016",
+      "course_role": "mainline",
+      "revision_kind": "structure",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/016-umbrella-patch-workshop/entry.json",
+      "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
+      "teaching_mode": "supported",
+      "target_minutes": 75
+    },
+    {
+      "course_slot": 17,
+      "stage": "scene",
+      "level": "D3",
+      "title": "梨子邮递员",
+      "goal": "通过朝向与高低位置形成角色间的信息传递",
+      "colors": [
+        "35",
+        "44",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "image": "entries/scene/017-pear-mail-delivery/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-017",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/017-pear-mail-delivery/entry.json",
+      "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
+      "teaching_mode": "supported",
+      "target_minutes": 65
+    },
+    {
+      "course_slot": 18,
+      "stage": "scene",
+      "level": "D3",
+      "title": "纸船渡口",
+      "goal": "用前后遮挡和形状大小组织小场景空间",
+      "colors": [
+        "8",
+        "63",
+        "135",
+        "2",
+        "71",
+        "WG5"
+      ],
+      "image": "entries/scene/018-paper-boat-ferry/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-018",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/18-paper-boat-ferry.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/18-paper-boat-ferry.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "6",
+        "68",
+        "35",
+        "23",
+        "75",
+        "95"
+      ],
+      "palette_roles": {
+        "background": {
+          "135": "天空",
+          "63": "大片水面"
+        },
+        "main": {
+          "8": "河马",
+          "WG5": "码头"
+        },
+        "accent": {
+          "71": "远山与水纹",
+          "2": "旗帜"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/018-paper-boat-ferry/entry.json",
+      "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
+      "teaching_mode": "supported",
+      "target_minutes": 70
+    },
+    {
+      "course_slot": 19,
+      "stage": "scene",
+      "level": "D3",
+      "title": "屋顶番茄园",
+      "goal": "控制重复物件的疏密与画面重心",
+      "colors": [
+        "23",
+        "68",
+        "35",
+        "44",
+        "52",
+        "6",
+        "75"
+      ],
+      "image": "entries/scene/019-rooftop-tomato-garden/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-019",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/019-rooftop-tomato-garden/entry.json",
+      "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md",
+      "teaching_mode": "supported",
+      "target_minutes": 70
+    },
+    {
+      "course_slot": 20,
+      "stage": "scene",
+      "level": "D3",
+      "title": "饼干天文台",
+      "goal": "用大斜线和留空组织观看方向与画面焦点",
+      "colors": [
+        "95",
+        "35",
+        "68",
+        "23",
+        "82",
+        "75",
+        "6"
+      ],
+      "image": "entries/scene/020-cookie-observatory/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-020",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/020-cookie-observatory/entry.json",
+      "lesson_path": "lessons/scene/020-cookie-observatory.md",
+      "teaching_mode": "supported",
+      "target_minutes": 70
+    },
+    {
+      "course_slot": 21,
+      "stage": "scene",
+      "level": "D3",
+      "title": "积木滑梯公园",
+      "goal": "综合主次、斜向动势与多个角色的遮挡关系",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82"
+      ],
+      "image": "entries/scene/021-building-block-slide-park/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-021",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "提示练习·已备课",
+      "entry_path": "entries/scene/021-building-block-slide-park/entry.json",
+      "lesson_path": "lessons/scene/021-building-block-slide-park.md",
+      "teaching_mode": "supported",
+      "target_minutes": 75
+    },
+    {
+      "course_slot": 22,
+      "stage": "independent",
+      "level": "D4",
+      "title": "失物招领车",
+      "goal": "围绕主题自主安排物件组合与故事线索",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82",
+        "95"
+      ],
+      "image": "entries/independent/022-lost-and-found-cart/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-022",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/022-lost-and-found-cart/entry.json",
+      "lesson_path": "lessons/independent/022-lost-and-found-cart.md",
+      "teaching_mode": "independent",
+      "target_minutes": 90
+    },
+    {
+      "course_slot": 23,
+      "stage": "independent",
+      "level": "D4",
+      "title": "雪地热汤车",
+      "goal": "自主设计冷暖配色与主题情节",
+      "colors": [
+        "2",
+        "31",
+        "65",
+        "69",
+        "25",
+        "WG1",
+        "92"
+      ],
+      "image": "entries/independent/023-snow-soup-cart/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-023",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/23-snow-soup-cart.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/23-snow-soup-cart.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "23",
+        "35",
+        "68",
+        "75",
+        "6",
+        "82",
+        "95"
+      ],
+      "palette_roles": {
+        "background": {
+          "69": "夜空",
+          "65": "中景雪地"
+        },
+        "main": {
+          "2": "汤车与汤",
+          "31": "锅与帽",
+          "25": "摊主",
+          "WG1": "顾客"
+        },
+        "accent": {
+          "92": "台面与把手"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/023-snow-soup-cart/entry.json",
+      "lesson_path": "lessons/independent/023-snow-soup-cart.md",
+      "teaching_mode": "independent",
+      "target_minutes": 90
+    },
+    {
+      "course_slot": 24,
+      "stage": "independent",
+      "level": "D4",
+      "title": "海底图书馆",
+      "goal": "自主组织空间、角色关系与重复形状节奏",
+      "colors": [
+        "143",
+        "WG9",
+        "8",
+        "24",
+        "37",
+        "135",
+        "46",
+        "WG3"
+      ],
+      "image": "entries/independent/024-underwater-library/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-024",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/24-underwater-library.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/24-underwater-library.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "68",
+        "75",
+        "82",
+        "23",
+        "35",
+        "6",
+        "44",
+        "95"
+      ],
+      "palette_roles": {
+        "background": {
+          "143": "海水",
+          "WG9": "壁龛与石头"
+        },
+        "main": {
+          "8": "章鱼",
+          "WG3": "书架"
+        },
+        "accent": {
+          "24": "鱼",
+          "37": "书脊",
+          "135": "书脊",
+          "46": "水草"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/024-underwater-library/entry.json",
+      "lesson_path": "lessons/independent/024-underwater-library.md",
+      "teaching_mode": "independent",
+      "target_minutes": 95
+    },
+    {
+      "course_slot": 25,
+      "stage": "independent",
+      "level": "D4",
+      "title": "口袋里的春天",
+      "goal": "自主组织尺度、布料开口与前后遮挡",
+      "colors": [
+        "35",
+        "68",
+        "23",
+        "6",
+        "44",
+        "52",
+        "75",
+        "82",
+        "31",
+        "37"
+      ],
+      "image": "entries/independent/025-spring-in-a-pocket/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "previous_image": "styles/previews/S001-2026-11-01/25-spring-in-a-pocket.png",
+      "version": 2,
+      "material_id": "S001-025",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/025-spring-in-a-pocket/entry.json",
+      "lesson_path": "lessons/independent/025-spring-in-a-pocket.md",
+      "teaching_mode": "independent",
+      "target_minutes": 100
+    },
+    {
+      "course_slot": 26,
+      "stage": "independent",
+      "level": "D4",
+      "title": "风筝修理船",
+      "goal": "围绕想象主题自行设计主体、动势与道具关系",
+      "colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "82",
+        "95",
+        "44"
+      ],
+      "image": "entries/independent/026-kite-repair-ship/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-026",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/026-kite-repair-ship/entry.json",
+      "lesson_path": "lessons/independent/026-kite-repair-ship.md",
+      "teaching_mode": "independent",
+      "target_minutes": 95
+    },
+    {
+      "course_slot": 27,
+      "stage": "independent",
+      "level": "D4",
+      "title": "夜班种梦员",
+      "goal": "自主建立视觉母题与有节奏的画面组织",
+      "colors": [
+        "69",
+        "WG5",
+        "37",
+        "58",
+        "25",
+        "11",
+        "172",
+        "92"
+      ],
+      "image": "entries/independent/027-night-dream-gardener/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-027",
+      "course_role": "mainline",
+      "previous_images": [
+        "styles/previews/S001-2026-11-01/27-night-dream-gardener.png"
+      ],
+      "previous_image": "styles/previews/S001-2026-11-01/27-night-dream-gardener.png",
+      "version": 4,
+      "revision_kind": "palette",
+      "previous_colors": [
+        "75",
+        "82",
+        "35",
+        "68",
+        "23",
+        "6",
+        "44",
+        "95"
+      ],
+      "palette_roles": {
+        "background": {
+          "69": "夜空"
+        },
+        "main": {
+          "58": "角色",
+          "25": "花槽",
+          "WG5": "挂布"
+        },
+        "accent": {
+          "37": "帽子与星花",
+          "11": "红花",
+          "172": "叶与茎",
+          "92": "泥土与水壶"
+        }
+      },
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/027-night-dream-gardener/entry.json",
+      "lesson_path": "lessons/independent/027-night-dream-gardener.md",
+      "teaching_mode": "independent",
+      "target_minutes": 90
+    },
+    {
+      "course_slot": 28,
+      "stage": "independent",
+      "level": "D4",
+      "title": "糖纸小城的早班车",
+      "goal": "综合主题设定、系列配色、主次与空间取舍",
+      "colors": [
+        "6",
+        "68",
+        "35",
+        "23",
+        "75",
+        "82",
+        "44",
+        "95"
+      ],
+      "image": "entries/independent/028-candy-wrapper-town-bus/reference/finished.png",
+      "newly_generated": true,
+      "teaching_status": "ready",
+      "material_id": "S001-028",
+      "course_role": "mainline",
+      "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
+      "display_status": "自主创作·已备课",
+      "entry_path": "entries/independent/028-candy-wrapper-town-bus/entry.json",
+      "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md",
+      "teaching_mode": "independent",
+      "target_minutes": 105
+    }
+  ],
+  "revision_note": "v4：第16幅改为正面对称直柄伞；第13、14、18、23、24、27幅换配色，其余21幅图片保留；28幅补上S001连续素材号。",
+  "material_numbering_registry": "config/material-sequences.json",
+  "teaching_summary": {
+    "ready": 28,
+    "per_stage": 7,
+    "guided": 7,
+    "supported": 14,
+    "independent": 7,
+    "actual_completion_not_changed": true
+  }
+}

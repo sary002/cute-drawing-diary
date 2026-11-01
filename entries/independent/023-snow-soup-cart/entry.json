@@ -1,0 +1,51 @@
+{
+  "number": 23,
+  "slug": "snow-soup-cart",
+  "title": "雪地热汤车",
+  "stage": "independent",
+  "style_id": "S001",
+  "material_id": "S001-023",
+  "course_slot": 23,
+  "course_role": "mainline",
+  "teaching_mode": "independent",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "自主设计冷暖配色与主题情节",
+  "marker_colors": [
+    "2",
+    "31",
+    "65",
+    "69",
+    "25",
+    "WG1",
+    "92"
+  ],
+  "target_minutes": 90,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/independent/023-snow-soup-cart.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/planning.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

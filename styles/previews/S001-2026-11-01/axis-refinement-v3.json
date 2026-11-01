@@ -1,0 +1,7 @@
+{
+  "method": "OpenAI内置imagegen",
+  "purpose": "同一修伞布局的伞杆中轴校准",
+  "source": "16-umbrella-patch-workshop-v3.png",
+  "output": "16-umbrella-patch-workshop-v3-axis.png",
+  "prompt": "Make ONE precise structural correction to the supplied illustration, preserving its entire composition, all colors, character, raised patch-touching arm, canopy shape, green patch, table, spool, black marker style and paper border. Correct the UMBRELLA SHAFT AXIS: the top finial of the orange canopy is at approximately 55 percent of the image width. The straight vertical metal shaft must sit DIRECTLY BELOW THAT TOP FINIAL, on the SAME vertical centerline, physically connecting to it behind the canopy. Currently the shaft emerges too far left. Move the entire straight shaft and J-handle a little RIGHT, to align beneath the canopy's top tip; extend the character's lower forearm a little to keep a clear natural grip around the corrected pole. The vertical shaft must emerge from the center of the lower canopy edge and continue straight down through the gripping hand into the J-handle. It must not bend, lean or begin from an unrelated off-center panel. Do not redraw or enlarge the umbrella or shift its apex. Do not change the character's upper hand that touches the patch. Only move the pole and adapt the lower gripping hand. Keep all other elements unchanged. No text or watermark."
+}

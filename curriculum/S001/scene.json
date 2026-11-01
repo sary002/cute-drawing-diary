@@ -1,0 +1,112 @@
+[
+  {
+    "material_id": "S001-015",
+    "slug": "toast-bus-stop",
+    "title": "面包巴士站",
+    "goal": "组织两个角色与站牌、车辆的主次关系",
+    "colors": [
+      "35",
+      "95",
+      "68",
+      "23",
+      "6",
+      "75"
+    ],
+    "lesson_path": "lessons/scene/015-toast-bus-stop.md"
+  },
+  {
+    "material_id": "S001-016",
+    "slug": "umbrella-patch-workshop",
+    "title": "雨伞补丁铺",
+    "goal": "用明确握持与支撑关系组织修伞动作",
+    "colors": [
+      "68",
+      "23",
+      "35",
+      "6",
+      "75",
+      "44",
+      "31",
+      "WG7"
+    ],
+    "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md"
+  },
+  {
+    "material_id": "S001-017",
+    "slug": "pear-mail-delivery",
+    "title": "梨子邮递员",
+    "goal": "通过朝向与高低位置形成角色间的信息传递",
+    "colors": [
+      "35",
+      "44",
+      "68",
+      "23",
+      "6",
+      "75"
+    ],
+    "lesson_path": "lessons/scene/017-pear-mail-delivery.md"
+  },
+  {
+    "material_id": "S001-018",
+    "slug": "paper-boat-ferry",
+    "title": "纸船渡口",
+    "goal": "用前后遮挡和形状大小组织小场景空间",
+    "colors": [
+      "8",
+      "63",
+      "135",
+      "2",
+      "71",
+      "WG5"
+    ],
+    "lesson_path": "lessons/scene/018-paper-boat-ferry.md"
+  },
+  {
+    "material_id": "S001-019",
+    "slug": "rooftop-tomato-garden",
+    "title": "屋顶番茄园",
+    "goal": "控制重复物件的疏密与画面重心",
+    "colors": [
+      "23",
+      "68",
+      "35",
+      "44",
+      "52",
+      "6",
+      "75"
+    ],
+    "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md"
+  },
+  {
+    "material_id": "S001-020",
+    "slug": "cookie-observatory",
+    "title": "饼干天文台",
+    "goal": "用大斜线和留空组织观看方向与画面焦点",
+    "colors": [
+      "95",
+      "35",
+      "68",
+      "23",
+      "82",
+      "75",
+      "6"
+    ],
+    "lesson_path": "lessons/scene/020-cookie-observatory.md"
+  },
+  {
+    "material_id": "S001-021",
+    "slug": "building-block-slide-park",
+    "title": "积木滑梯公园",
+    "goal": "综合主次、斜向动势与多个角色的遮挡关系",
+    "colors": [
+      "68",
+      "23",
+      "35",
+      "6",
+      "44",
+      "75",
+      "82"
+    ],
+    "lesson_path": "lessons/scene/021-building-block-slide-park.md"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "number": 28,
+  "slug": "candy-wrapper-town-bus",
+  "title": "糖纸小城的早班车",
+  "stage": "independent",
+  "style_id": "S001",
+  "material_id": "S001-028",
+  "course_slot": 28,
+  "course_role": "mainline",
+  "teaching_mode": "independent",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "综合主题设定、系列配色、主次与空间取舍",
+  "marker_colors": [
+    "6",
+    "68",
+    "35",
+    "23",
+    "75",
+    "82",
+    "44",
+    "95"
+  ],
+  "target_minutes": 105,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/planning.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

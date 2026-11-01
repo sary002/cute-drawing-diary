@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "default_style_id": "S001",
   "catalog_path": "styles/README.md",
   "styles": [
@@ -14,6 +14,7 @@
       ],
       "example_entries": [
         "001-headphone-mushroom",
+        "002-acorn-squirrel",
         "003-yawning-mailbox",
         "004-avocado-seesaw",
         "005-striped-lighthouse",
@@ -24,8 +25,25 @@
         "010-penguin-cocoa",
         "011-robot-flowerpot",
         "012-whale-lantern"
-      ]
+      ],
+      "curriculum_paths": {
+        "beginner": "curriculum/S001/beginner.json",
+        "intermediate": "curriculum/S001/intermediate.json",
+        "scene": "curriculum/S001/scene.json",
+        "independent": "curriculum/S001/independent.json"
+      },
+      "preview_path": "styles/previews/S001-2026-11-01/README.md",
+      "course_preview_manifest": "styles/previews/S001-2026-11-01/manifest.json",
+      "course_preview_counts": {
+        "total": 28,
+        "reused": 11,
+        "new": 17,
+        "per_stage": 7
+      },
+      "historical_topic_pool": "curriculum/beginner.json",
+      "course_status": "all_28_ready"
     }
   ],
-  "extension_policy": "追加编号并保留旧风格；临时换风格不改变默认值；默认值仅在明确要求时切换"
+  "extension_policy": "追加编号并保留旧风格；临时换风格不改变默认值；默认值仅在明确要求时切换",
+  "learning_rules_path": "docs/learning-system.md"
 }

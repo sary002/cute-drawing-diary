@@ -1,0 +1,52 @@
+{
+  "number": 16,
+  "slug": "umbrella-patch-workshop",
+  "title": "雨伞补丁铺",
+  "stage": "scene",
+  "style_id": "S001",
+  "material_id": "S001-016",
+  "course_slot": 16,
+  "course_role": "mainline",
+  "teaching_mode": "supported",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "用明确握持与支撑关系组织修伞动作",
+  "marker_colors": [
+    "68",
+    "23",
+    "35",
+    "6",
+    "75",
+    "44",
+    "31",
+    "WG7"
+  ],
+  "target_minutes": 75,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

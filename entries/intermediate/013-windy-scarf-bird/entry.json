@@ -1,0 +1,49 @@
+{
+  "number": 13,
+  "slug": "windy-scarf-bird",
+  "title": "风中的长围巾",
+  "stage": "intermediate",
+  "style_id": "S001",
+  "material_id": "S001-013",
+  "course_slot": 13,
+  "course_role": "mainline",
+  "teaching_mode": "supported",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "用连续曲线与线条粗细表现风向和前后",
+  "marker_colors": [
+    "58",
+    "11",
+    "65",
+    "37",
+    "69"
+  ],
+  "target_minutes": 45,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

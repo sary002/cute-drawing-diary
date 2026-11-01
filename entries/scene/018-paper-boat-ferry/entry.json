@@ -1,0 +1,50 @@
+{
+  "number": 18,
+  "slug": "paper-boat-ferry",
+  "title": "纸船渡口",
+  "stage": "scene",
+  "style_id": "S001",
+  "material_id": "S001-018",
+  "course_slot": 18,
+  "course_role": "mainline",
+  "teaching_mode": "supported",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "用前后遮挡和形状大小组织小场景空间",
+  "marker_colors": [
+    "8",
+    "63",
+    "135",
+    "2",
+    "71",
+    "WG5"
+  ],
+  "target_minutes": 70,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  }
+}

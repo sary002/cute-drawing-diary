@@ -1,0 +1,49 @@
+{
+  "number": 2,
+  "slug": "acorn-squirrel",
+  "title": "松鼠抱橡果",
+  "stage": "beginner",
+  "tools_profile": "touchmark-student-36-v2",
+  "goal": "前后遮挡：橡果挡住身体，爪子搭在橡果前",
+  "marker_colors": [
+    "24",
+    "37",
+    "92",
+    "41",
+    "11"
+  ],
+  "target_minutes": 30,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001五色童趣色块；颜色以实际试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，六步连续示意；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001",
+  "teaching_mode": "guided",
+  "material_id": "S001-002",
+  "course_slot": 2,
+  "course_role": "mainline"
+}

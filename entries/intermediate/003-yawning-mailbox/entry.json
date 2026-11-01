@@ -1,0 +1,47 @@
+{
+  "number": 3,
+  "slug": "yawning-mailbox",
+  "title": "打哈欠的邮筒",
+  "stage": "intermediate",
+  "tools_profile": "touchmark-student-36-v1",
+  "goal": "用眼皮与嘴型把情绪表现清楚",
+  "marker_colors": [
+    "23",
+    "35",
+    "68"
+  ],
+  "target_minutes": 45,
+  "lesson_status": "ready",
+  "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
+  "references": [
+    {
+      "path": "reference/finished.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+    },
+    {
+      "path": "reference/steps.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "style_id": "S001",
+  "teaching_mode": "supported",
+  "material_id": "S001-008",
+  "course_slot": 8,
+  "course_role": "mainline"
+}
