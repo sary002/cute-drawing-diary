@@ -67,4 +67,4 @@
 
 ## 来源
 
-成品与六步图由OpenAI内置imagegen生成；步骤图沿用[小鸡教程](001-chick.md)的版式。详见[提示词及检查说明](../../entries/beginner/006-catch-a-star/reference/generation-prompt.txt)，基础学习参考见[课程来源](../../docs/learning-references.md)。照片、用时和反馈可选，不要求拍过程；确认实际画完后再记录完成。
+成品与六步图由OpenAI内置imagegen生成；步骤图采用[第一课](001-headphone-mushroom.md)的版式。详见[提示词及检查说明](../../entries/beginner/006-catch-a-star/reference/generation-prompt.txt)，基础学习参考见[课程来源](../../docs/learning-references.md)。照片、用时和反馈可选，不要求拍过程；确认实际画完后再记录完成。

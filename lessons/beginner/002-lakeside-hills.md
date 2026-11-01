@@ -67,4 +67,4 @@
 
 ## 来源
 
-成品与六步图由OpenAI内置imagegen生成，版式沿用本系列[圆滚滚小鸡](001-chick.md)；[生成提示词与检查说明](../../entries/beginner/002-lakeside-hills/reference/generation-prompt.txt)。基础学习来源见[课程参考资料](../../docs/learning-references.md)。AI参考不登记为真实练习完成，不要求边画边拍照。
+成品与六步图由OpenAI内置imagegen生成，版式采用本系列[第一课](001-headphone-mushroom.md)；[生成提示词与检查说明](../../entries/beginner/002-lakeside-hills/reference/generation-prompt.txt)。基础学习来源见[课程参考资料](../../docs/learning-references.md)。AI参考不登记为真实练习完成，不要求边画边拍照。

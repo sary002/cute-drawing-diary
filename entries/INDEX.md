@@ -4,7 +4,7 @@
 
 | 编号 | 作品 | 阶段 | 教案 | 练习 | 实际用时 |
 | --- | --- | --- | --- | --- | --- |
-| 001 | [圆滚滚小鸡](../lessons/beginner/001-chick.md) | 入门版练习 | 可跟画 | 待手绘 | 未记录（可省略） |
+| 001 | [戴耳机的小蘑菇](../lessons/beginner/001-headphone-mushroom.md) | 入门版练习 | 可跟画 | 待手绘 | 未记录（可省略） |
 | 002 | [湖边小山丘](../lessons/beginner/002-lakeside-hills.md) | 入门版练习 | 可跟画 | 待手绘 | 未记录（可省略） |
 | 003 | [打哈欠的邮筒](../lessons/beginner/003-yawning-mailbox.md) | 入门版练习 | 可跟画 | 待手绘 | 未记录（可省略） |
 | 004 | [鳄梨和果核玩跷跷板](../lessons/beginner/004-avocado-seesaw.md) | 入门版练习 | 可跟画 | 待手绘 | 未记录（可省略） |

@@ -9,7 +9,7 @@
 ### 入门版练习
 
 - [入门指南：工具、试笔与练习方法](lessons/beginner/README.md)
-- [001｜圆滚滚小鸡](lessons/beginner/001-chick.md)：基本形概括：用圆胖轮廓和小三角形搭出小鸡。
+- [001｜戴耳机的小蘑菇](lessons/beginner/001-headphone-mushroom.md)：基本形概括：半圆、圆角长方形和弧线。
 - [002｜湖边小山丘](lessons/beginner/002-lakeside-hills.md)：前后遮挡：树挡住山，湖岸挡住水。
 - [003｜打哈欠的邮筒](lessons/beginner/003-yawning-mailbox.md)：用圆口与低眼皮表现打哈欠。
 - [004｜鳄梨和果核玩跷跷板](lessons/beginner/004-avocado-seesaw.md)：用斜线和高低位置表现跷跷板动作。
@@ -26,7 +26,7 @@
 
 ## 风格展示
 
-[查看绘画风格库](styles/README.md) · 当前默认：[S001 童趣色块手绘](styles/001-playful-color-block.md)。包含十幅示意及色彩、线条、构图和选题规则；后续新风格独立追加。
+[查看绘画风格库](styles/README.md) · 当前默认：[S001 童趣色块手绘](styles/001-playful-color-block.md)。包含十一幅示意及色彩、线条、构图和选题规则；后续新风格独立追加。
 
 ## 参考资料
 
@@ -51,7 +51,7 @@ cute-drawing-diary/
 │   ├── README.md                     每日一练总导航
 │   └── beginner/
 │       ├── README.md                 入门工具与练习方法
-│       └── 001-chick.md               小鸡完整画法与上色
+│       └── 001-headphone-mushroom.md               蘑菇完整画法与上色
 ├── entries/                          图片、工具快照与练习记录
 ├── config/                           阶段与工具配置
 ├── curriculum/                       选题规划

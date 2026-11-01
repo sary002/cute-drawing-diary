@@ -68,4 +68,4 @@
 
 ## 来源
 
-成品参考和六步图由OpenAI内置imagegen生成，六步教学版式沿用本系列[圆滚滚小鸡](001-chick.md)。[生成提示词及检查说明](../../entries/beginner/004-avocado-seesaw/reference/generation-prompt.txt)；基础学习来源见[课程参考资料](../../docs/learning-references.md)。不要求过程拍照，实际完成后再登记，照片与用时可省略。
+成品参考和六步图由OpenAI内置imagegen生成，六步教学版式采用本系列[第一课](001-headphone-mushroom.md)。[生成提示词及检查说明](../../entries/beginner/004-avocado-seesaw/reference/generation-prompt.txt)；基础学习来源见[课程参考资料](../../docs/learning-references.md)。不要求过程拍照，实际完成后再登记，照片与用时可省略。

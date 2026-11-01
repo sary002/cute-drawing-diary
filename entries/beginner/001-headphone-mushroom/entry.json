@@ -1,28 +1,29 @@
 {
   "number": 1,
-  "slug": "chick",
-  "title": "圆滚滚小鸡",
+  "slug": "headphone-mushroom",
+  "title": "戴耳机的小蘑菇",
   "stage": "beginner",
   "tools_profile": "touchmark-student-36-v1",
-  "goal": "基本形概括：用圆胖轮廓和小三角形搭出小鸡",
+  "goal": "基本形概括：半圆、圆角长方形和弧线",
   "marker_colors": [
-    "37",
-    "24",
-    "9"
+    "23",
+    "68",
+    "9",
+    "35"
   ],
-  "target_minutes": 20,
+  "target_minutes": 25,
   "lesson_status": "ready",
-  "lesson_path": "lessons/beginner/001-chick.md",
+  "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
   "references": [
     {
       "path": "reference/finished.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，圆润可爱小动物风格"
+      "method": "OpenAI内置imagegen，S001风格成品参考；纸白短柄和四色平涂"
     },
     {
       "path": "reference/steps.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，按本套36色色卡和教程生成"
+      "method": "OpenAI内置imagegen，竖版两列六步；上色干透后勾线"
     }
   ],
   "practice": {
@@ -38,5 +39,6 @@
     "url": null,
     "published_at": null,
     "metrics": []
-  }
+  },
+  "style_id": "S001"
 }

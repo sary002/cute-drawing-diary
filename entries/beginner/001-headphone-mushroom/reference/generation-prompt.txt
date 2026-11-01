@@ -1,0 +1,14 @@
+来源：OpenAI内置imagegen；AI教学示意，不是真实手绘完成记录。
+生成日期：2026-11-01。
+成品内容规格：方形马克笔小插画，半圆橙色蘑菇伞盖、纸白短圆角柄、青绿大耳机和黑色头带，小点眼与微笑，右侧两组音符，粉色背景、黄色窄地面；S001童趣色块、自然黑线与适度排笔痕迹。只用23、68、9、35与黑色针管笔，白色留纸，无渐变、复杂细节或水印。
+六步图完整提示词：
+Create a portrait Chinese beginner marker drawing tutorial poster for the attached mushroom illustration. 2 columns x3 rows, white paper background gray rounded panel borders pale yellow rounded title tabs. Large heading 每日一画 · 戴耳机的小蘑菇. Subtitle 约25分钟｜16.5×16.5厘米纸｜画面约10×10厘米. Top legend EXACTLY 23橙色、68青绿、9淡粉、35柠檬黄 and a black pen sample labeled 针管笔 (no black marker number). Same fixed geometry in every panel: orange semicircle mushroom cap, paperwhite short rounded rectangular stalk, turquoise two rounded rectangular headphone earcups with black curved headband, two black musical notes on right, pink upper background yellow floor. Simple natural thick slightly wobbly pen contours, flat marker fills, no shading gradients or detailed texture.
+Six cumulative panels, exact headings and captions:
+01 铅笔找大形 / 半圆伞盖，圆角短柄
+02 添加耳机 / 两个圆角耳罩，一条大弧线
+03 23号涂伞盖 / 蘑菇短柄一直留纸白
+04 68号涂耳罩 / 耳罩同色，不加阴影
+05 9背景·35地面 / 绕开白色短柄，连续排笔
+06 干透后勾线 / 头带、眼嘴和音符最后画黑
+Panel1 ONLY faint pencil semicircular cap and rounded stalk, no details. Panel2 adds faint pencil earcups headband eyes mouth groundline music notes. Panel3 ONLY orange cap fill with rest white pencil outlines. Panel4 adds turquoise earcups. Panel5 adds pink background and yellow floor, headband and music notes remain thin graphite positioning, don't need thick white reserved shape. Panel6 adds black outlines headband eyes mouth and two notes over fully dry marker colors. Headband can be blackened after color, no black ink until panel6. Maintain identical cap/stalk/earcup size positions across six panels. White stalk and thin outer paper margin reserved from first step, no white paint. Background9 should be moderate pink approx not neon. Footer 今日基础：基本形概括——半圆、圆角长方形和弧线. Small footer 先上色，干透后勾线；白色留纸，不用132覆盖. Legible accurate Chinese no watermark.
+检查：色号、形状连续性、纸白短柄与先上色后勾线顺序。图中第5格头带为浅色定位，第6格画黑即可。9号真实试色可能比AI背景更淡，勿反复补涂追色；伞盖下缘小折线可以省略。

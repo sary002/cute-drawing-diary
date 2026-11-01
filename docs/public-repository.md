@@ -24,8 +24,8 @@ Python 3.10+，无需第三方依赖。以下命令均在项目根目录执行�
 python3 scripts/drawing_diary.py status
 python3 scripts/drawing_diary.py next
 # 实际画完后可登记；日期、照片、用时与反馈均可省略
-python3 scripts/drawing_diary.py record 001-chick
-python3 scripts/drawing_diary.py add-photo 001-chick --photo .local/my-chick.jpg
+python3 scripts/drawing_diary.py record 001-headphone-mushroom
+python3 scripts/drawing_diary.py add-photo 001-headphone-mushroom --photo .local/my-mushroom.jpg
 python3 scripts/drawing_diary.py index
 python3 scripts/drawing_diary.py validate
 python3 -m unittest discover -s tests -v
