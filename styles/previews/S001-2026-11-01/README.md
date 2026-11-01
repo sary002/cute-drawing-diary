@@ -4,17 +4,19 @@
 
 [风格档案](../../001-playful-color-block.md) · [通用学习规则](../../../docs/learning-system.md)
 
-![28幅当前总览，AI示意](overview-v5.png)
+![28幅当前总览，AI示意](overview-v6.png)
 
 四阶段各7幅，共28幅；按S001-001～S001-028选择。后续新增从S001-029起，跨阶段连续编号，同一画面的修订不占新号。当前复用11幅、新生成17幅（含第02幅换题）。
 
-v5：全部28幅成品与教学示意按实涂色卡相对色相配套修订，当前采用上方v5总览与下方版本化图片。
+v6：S001-009果核改为95号赭棕，成品、步骤图、色号与正文同步，改善黑色五官辨识。
+
+v5：全部28幅成品与教学示意按实涂色卡相对色相配套修订，当前采用上方总览与下方版本化图片。
 
 历史v4：第16幅改为正面对称直柄伞；第13、14、18、23、24、27幅换配色，其余21幅图片保留；28幅补上S001连续素材号。
 
 28课成品、教学图与正文已配套修订：[打开完整课程](../../../lessons/README.md)。D1完整跟画、D2专项提示、D3八步综合组织、D4十环节自主创作与四格规划图。实际练习状态不变，AI图不计手绘完成；旧教案内部编号保留，按S001素材编号选择。
 
-[当前配色修订](../../../docs/color-repair-2026-11-01.md) · [当前配色统计](palette-report-v5.json) · [旧版配色计划](palette-plan-v4.md) · [原提示词](generation-prompts.json) · [v2修订](revision-prompts-v2.json) · [v3修订](revision-prompts-v3.json) · [v4修订提示词](revision-prompts-v4.json) · [素材清单](manifest.json)
+[当前配色修订](../../../docs/color-repair-2026-11-01.md) · [当前配色统计](palette-report-v6.json) · [旧版配色计划](palette-plan-v4.md) · [原提示词](generation-prompts.json) · [v2修订](revision-prompts-v2.json) · [v3修订](revision-prompts-v3.json) · [v4修订提示词](revision-prompts-v4.json) · [素材清单](manifest.json)
 
 ## D1 基础大形
 
@@ -33,7 +35,7 @@ v5：全部28幅成品与教学示意按实涂色卡相对色相配套修订，�
 | 素材编号 | 图片与题目 | 主要目标 | 状态 |
 | --- | --- | --- | --- |
 | S001-008 | ![打哈欠的邮筒，AI示意](../../../entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png)<br>[打哈欠的邮筒教程](../../../lessons/intermediate/003-yawning-mailbox.md) | 用眼皮与嘴型把情绪表现清楚 | 可练习 |
-| S001-009 | ![鳄梨和果核玩跷跷板，AI示意](../../../entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png)<br>[鳄梨和果核玩跷跷板教程](../../../lessons/intermediate/004-avocado-seesaw.md) | 用倾斜、高低与重心组织动作 | 可练习 |
+| S001-009 | ![鳄梨和果核玩跷跷板，AI示意](../../../entries/intermediate/004-avocado-seesaw/reference/finished-v6-pit95.png)<br>[鳄梨和果核玩跷跷板教程](../../../lessons/intermediate/004-avocado-seesaw.md) | 用倾斜、高低与重心组织动作 | 可练习 |
 | S001-010 | ![接住一颗星星，AI示意](../../../entries/intermediate/006-catch-a-star/reference/finished-v5-physical.png)<br>[接住一颗星星教程](../../../lessons/intermediate/006-catch-a-star.md) | 在新情境中控制斜向与焦点 | 可练习 |
 | S001-011 | ![云朵晾衣日，AI示意](../../../entries/intermediate/009-cloud-laundry/reference/finished-v5-physical.png)<br>[云朵晾衣日教程](../../../lessons/intermediate/009-cloud-laundry.md) | 控制重复形状的疏密与节奏 | 可练习 |
 | S001-012 | ![举着花盆的机器人，AI示意](../../../entries/intermediate/011-robot-flowerpot/reference/finished-v5-physical.png)<br>[举着花盆的机器人教程](../../../lessons/intermediate/011-robot-flowerpot.md) | 用视线与手臂方向引导注意力 | 可练习 |

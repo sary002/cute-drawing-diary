@@ -8,7 +8,7 @@
   "marker_colors": [
     "44",
     "52",
-    "92",
+    "95",
     "23",
     "6"
   ],
@@ -17,14 +17,14 @@
   "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
   "references": [
     {
-      "path": "reference/finished-v5-physical.png",
+      "path": "reference/finished-v6-pit95.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
+      "method": "OpenAI内置imagegen；果核改95赭棕单层平涂，黑色五官保持可辨认"
     },
     {
-      "path": "reference/steps-v5-physical.png",
+      "path": "reference/steps-v6-pit95.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
+      "method": "OpenAI内置imagegen；果核改95赭棕单层平涂，黑色五官保持可辨认"
     }
   ],
   "practice": {
@@ -53,6 +53,8 @@
     "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
     "colorimetric_calibrated": false,
     "audit_path": "docs/color-repair-2026-11-01.md",
-    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证",
+    "revision": "v6-pit95",
+    "contrast_check": "95号果核单层试色，干透后确认黑色五官可辨认；不反复刷深。"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "method": "OpenAI内置imagegen",
+  "material_id": "S001-009",
+  "palette": [
+    "44",
+    "52",
+    "95",
+    "23",
+    "6"
+  ],
+  "change": "果核由92深棕改95赭棕，改善黑色五官对比；旧版保留。",
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png",
+      "output": "entries/intermediate/004-avocado-seesaw/reference/finished-v6-pit95.png",
+      "prompt": "Use case: precise-object-edit. SINGLE INPUT is the edit target finished marker illustration. Change ONLY the small round avocado PIT on the RIGHT from dark brown92 to distinctly LIGHTER OCHRE/YELLOW-BROWN95 (approximate visual anchor #B78040, not calibrated measurement). Flat SINGLE LAYER warm ochre brown, absolutely not dark chocolate. Preserve visible black dot eyes and black surprised O-mouth with strong contrast. Do not add white paint, highlights, shading or gradients. Keep avocado44olive flesh,52darkteal skin, orange23seesaw and triangularsupport, magenta6background, all geometry, composition, texture and paperwhite center unchanged. No new text or labels.",
+      "sha256": "e970fcb1a85b6c84aa6521d37f724d8b4029ae1b6b47848d741a775b9f441494"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/004-avocado-seesaw/reference/steps-v5-physical.png",
+      "output": "entries/intermediate/004-avocado-seesaw/reference/steps-v6-pit95.png",
+      "prompt": "Use case: precise-object-edit. SINGLE INPUT is the edit target Chinese six-panel drawing tutorial. Change ONLY the small round avocado PIT on the RIGHT from dark brown92 to distinctly LIGHTER OCHRE/YELLOW-BROWN95 (approximate visual anchor #B78040, not calibrated measurement). Flat SINGLE LAYER warm ochre brown, absolutely not dark chocolate. Preserve visible black dot eyes and black surprised O-mouth with strong contrast. Do not add white paint, highlights, shading or gradients. Keep avocado44olive flesh,52darkteal skin, orange23seesaw and triangularsupport, magenta6background, all geometry, composition, texture and paperwhite center unchanged. Change EVERY colored pit in panels04,05,06 and its top palette chip to lighter95ochrebrown. Top chip exact label「95 赭棕」. Panel04 heading EXACT「04 95果核·23木板」; caption EXACT「果核赭棕，木板和支点橙色。」Remove all92 labels on this sheet. Keep panels01-03 pencil/partial-fill progression unchanged and black eyes/mouth ONLY in final06. All other text/layout unchanged.",
+      "sha256": "0dc3fdb49f05216e21eaa59030a1828a8b9d72967e9628b3d18e32f8c883adb9"
+    }
+  ],
+  "review": {
+    "status": "reviewed",
+    "checks": [
+      "成品果核浅于92版，黑色眼嘴可读",
+      "教学04～06格与顶部95色卡一致",
+      "01～03起稿进度保留",
+      "题材、构图、其他色块和素材编号保留"
+    ],
+    "colorimetric_calibrated": false
+  }
+}

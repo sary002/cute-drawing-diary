@@ -22,7 +22,7 @@
 
 | 打哈欠的邮筒 | 鳄梨和果核玩跷跷板 |
 | --- | --- |
-| ![打哈欠的邮筒，AI示意](../entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png) | ![鳄梨和果核玩跷跷板，AI示意](../entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png) |
+| ![打哈欠的邮筒，AI示意](../entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png) | ![鳄梨和果核玩跷跷板，AI示意](../entries/intermediate/004-avocado-seesaw/reference/finished-v6-pit95.png) |
 | [003｜完整教程](../lessons/beginner/003-yawning-mailbox.md) | [004｜完整教程](../lessons/beginner/004-avocado-seesaw.md) |
 
 | 粉色天空下的条纹灯塔 | 接住一颗星星 |

@@ -318,11 +318,11 @@
       "colors": [
         "44",
         "52",
-        "92",
+        "95",
         "23",
         "6"
       ],
-      "image": "entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png",
+      "image": "entries/intermediate/004-avocado-seesaw/reference/finished-v6-pit95.png",
       "source_entry": "entries/beginner/004-avocado-seesaw/entry.json",
       "original_lesson": "lessons/beginner/004-avocado-seesaw.md",
       "newly_generated": false,
@@ -342,10 +342,12 @@
         "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
         "colorimetric_calibrated": false,
         "audit_path": "docs/color-repair-2026-11-01.md",
-        "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
+        "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证",
+        "revision": "v6-pit95",
+        "contrast_check": "95号果核单层试色，干透后确认黑色五官可辨认；不反复刷深。"
       },
-      "previous_color_image": "entries/intermediate/004-avocado-seesaw/reference/finished.png",
-      "color_version": 5
+      "previous_color_image": "entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png",
+      "color_version": 6
     },
     {
       "course_slot": 10,
