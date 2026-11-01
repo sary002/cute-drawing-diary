@@ -1,0 +1,73 @@
+{
+  "id": "touchmark-student-36-v1",
+  "confirmed_on": "2026-10-29",
+  "source": "学生36色套装色卡；实际颜色需纸上试色",
+  "paper": {
+    "type": "马克笔专用纸",
+    "width_cm": 16.5,
+    "height_cm": 16.5
+  },
+  "pencil": true,
+  "fineliners_mm": [
+    0.15,
+    0.5,
+    1
+  ],
+  "coarse_outliner": true,
+  "markers": {
+    "brand": "Touchmark",
+    "set": "学生36色",
+    "medium": "油性马克笔，非丙烯马克笔",
+    "tip_type": null,
+    "colors": {
+      "2": "Old Red",
+      "6": "Vivid Pink",
+      "8": "Rose Pink",
+      "9": "Pale Pink",
+      "11": "Carmine",
+      "23": "Orange",
+      "24": "Marigold",
+      "25": "Salmon Pink",
+      "31": "Dark Yellow",
+      "35": "Lemon Yellow",
+      "37": "Pastel Yellow",
+      "41": "Olive Green",
+      "44": "Fresh Green",
+      "46": "Vivid Green",
+      "52": "Deep Green",
+      "58": "Mint Green Light",
+      "63": "Cerulean Blue",
+      "65": "Ice Blue",
+      "67": "Pastel Blue",
+      "68": "Turquoise Blue",
+      "69": "Prussian Blue",
+      "71": "Cobalt Blue",
+      "75": "Dark Blue Light",
+      "82": "Light Violet",
+      "92": "Chocolate",
+      "95": "Burnt Sienna",
+      "120": "Black",
+      "132": "Milky White",
+      "135": "Pale Cherry Pink",
+      "143": "Mint Blue",
+      "172": "Spectrum Green",
+      "WG1": "Warm Grey 1",
+      "WG3": "Warm Grey 3",
+      "WG5": "Warm Grey 5",
+      "WG7": "Warm Grey 7",
+      "WG9": "Warm Grey 9"
+    }
+  },
+  "unverified": [
+    "笔头形状",
+    "针管笔与粗勾线笔耐酒精性",
+    "实物色卡",
+    "132的覆盖能力"
+  ],
+  "lesson_rules": [
+    "色号只能从本套选择，跨品牌不能直接套号",
+    "先小块试色；针管笔干后刷马克笔测试，晕染则先上色后勾线",
+    "高光优先留纸白，不把132当不透明白色或无色混色笔",
+    "深色不能靠浅色覆盖回去，不照搬丙烯笔的深底浅色覆盖步骤"
+  ]
+}

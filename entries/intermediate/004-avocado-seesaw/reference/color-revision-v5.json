@@ -1,0 +1,37 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-009",
+  "palette": [
+    "44",
+    "52",
+    "92",
+    "23",
+    "6"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/004-avocado-seesaw/reference/finished.png",
+      "output": "entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n44 = 偏黄的橄榄绿（照片观察）\n52 = 深蓝绿色（照片观察）\n92 = 深棕（照片观察）\n23 = 橙色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 44 Fresh Green | 鳄梨果肉 |\n| 52 Deep Green | 鳄梨外皮 |\n| 92 Chocolate | 果核 |\n| 23 Orange | 木板和三角支点 |\n| 6 Vivid Pink | 背景与可选的小腮红 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [],
+      "sha256": "7fb11ad29b1fbf6874b03a2d162f3c3224d5aee9f656558a14c83bb861992236"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/004-avocado-seesaw/reference/steps.png",
+      "output": "entries/intermediate/004-avocado-seesaw/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n44 = 偏黄的橄榄绿（照片观察）\n52 = 深蓝绿色（照片观察）\n92 = 深棕（照片观察）\n23 = 橙色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 44 Fresh Green | 鳄梨果肉 |\n| 52 Deep Green | 鳄梨外皮 |\n| 92 Chocolate | 果核 |\n| 23 Orange | 木板和三角支点 |\n| 6 Vivid Pink | 背景与可选的小腮红 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [],
+      "sha256": "96936de6977caf19cc5619d60564109fcf0623efe0a7340ae838654049d08e17"
+    }
+  ],
+  "review": {
+    "slot": 9,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "44橄榄绿果肉、52深蓝绿果皮、6洋红背景。",
+    "colorimetric_calibrated": false
+  }
+}

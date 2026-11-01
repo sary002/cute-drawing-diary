@@ -1,6 +1,6 @@
 # S001-001｜戴耳机的小蘑菇 · D1基础大形
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 先修：能用铅笔轻画圆与方形；无需绘画经验。 本课为完整跟画，完成时间以正文为准；可分成起稿与上色两次。
 
@@ -10,9 +10,9 @@
 
 ## 成品参考
 
-![戴耳机的小蘑菇，AI生成参考](../../entries/beginner/001-headphone-mushroom/reference/finished.png)
+![戴耳机的小蘑菇，AI生成参考](../../entries/beginner/001-headphone-mushroom/reference/finished-v5-physical.png)
 
-成品参考和六步图都是AI教学示意，不是实际练习完成记录。构图与细节略有简化，跟画以六步图和正文为准。颜色仅近似，以自己的纸上试色为准；9号实际较淡也可以，不必反复刷成图里的鲜粉。
+成品参考和六步图都是AI教学示意，不是实际练习完成记录。构图与细节略有简化，跟画以六步图和正文为准。9号只单层涂浅粉，不反复叠涂追求鲜粉；其余颜色也先同纸试色。
 
 ## 纸笔与色号
 
@@ -20,10 +20,10 @@
 
 | Touchmark学生36色色号 | 用在哪里 |
 | --- | --- |
-| 23 Orange／橙色 | 蘑菇伞盖 |
-| 68 Turquoise Blue／青绿 | 两边耳罩 |
-| 9 Pale Pink／淡粉 | 背景 |
-| 35 Lemon Yellow／柠檬黄 | 底部地面 |
+| 23 橙色 | 蘑菇伞盖 |
+| 68 中等青蓝 | 两边耳罩 |
+| 9 浅粉红 | 背景 |
+| 35 偏黄绿的黄色 | 底部地面 |
 
 短柄始终保留纸白，不用132覆盖。针管笔耐酒精性未知，统一铅笔起稿 → 上色 → 完全干透后勾线。耳机头带、眼嘴与音符最后用针管笔画黑，不需要120黑色马克笔。
 
@@ -33,7 +33,7 @@
 
 ## 六步跟画｜约20分钟
 
-![戴耳机的小蘑菇六步图，AI生成教学示意](../../entries/beginner/001-headphone-mushroom/reference/steps.png)
+![戴耳机的小蘑菇六步图，AI生成教学示意](../../entries/beginner/001-headphone-mushroom/reference/steps-v5-physical.png)
 
 按从左到右、从上到下阅读。前两步铅笔轻画，第三至五步上色，第六步干透后才用针管笔。图中的浅灰眼嘴和音符只是铅笔定位。
 
@@ -82,3 +82,5 @@
 ## 来源
 
 成品与六步图由OpenAI内置imagegen生成，采用本系列竖版两列三行教学格式。[生成提示词及检查说明](../../entries/beginner/001-headphone-mushroom/reference/generation-prompt.txt)；基础学习来源见[课程参考资料](../../docs/learning-references.md)。
+
+[本次配色修订提示词与核对](../../entries/beginner/001-headphone-mushroom/reference/color-revision-v5.json)

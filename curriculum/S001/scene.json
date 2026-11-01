@@ -13,7 +13,7 @@
       "75"
     ],
     "lesson_path": "lessons/scene/015-toast-bus-stop.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-016",
@@ -31,7 +31,7 @@
       "WG7"
     ],
     "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-017",
@@ -47,7 +47,7 @@
       "75"
     ],
     "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-018",
@@ -63,7 +63,7 @@
       "WG5"
     ],
     "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-019",
@@ -80,7 +80,7 @@
       "75"
     ],
     "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-020",
@@ -97,7 +97,7 @@
       "6"
     ],
     "lesson_path": "lessons/scene/020-cookie-observatory.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-021",
@@ -114,6 +114,6 @@
       "82"
     ],
     "lesson_path": "lessons/scene/021-building-block-slide-park.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   }
 ]

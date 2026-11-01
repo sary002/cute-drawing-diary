@@ -3,7 +3,7 @@
   "slug": "moon-snack",
   "title": "偷吃月亮",
   "stage": "beginner",
-  "tools_profile": "touchmark-student-36-v1",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "用夸张的大小对比突出道具",
   "marker_colors": [
     "82",
@@ -12,18 +12,18 @@
     "68"
   ],
   "target_minutes": 30,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/beginner/007-moon-snack.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/steps.png",
+      "path": "reference/steps-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -46,11 +46,12 @@
   "course_role": "mainline",
   "teaching_mode": "guided",
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "82号怪兽画成浅紫，但实笔82为较深紫；浅紫方向应先比较75，月亮35也需调色。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

@@ -1,0 +1,51 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-012",
+  "palette": [
+    "68",
+    "35",
+    "44",
+    "23",
+    "6"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/011-robot-flowerpot/reference/finished.png",
+      "output": "entries/intermediate/011-robot-flowerpot/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n23 = 橙色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 68 Turquoise Blue | 机器人身体、手臂和短腿 |\n| 35 Lemon Yellow | 大花瓣 |\n| 44 Fresh Green | 花心、茎和叶片 |\n| 23 Orange | 花盆 |\n| 6 Vivid Pink | 背景 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 target, image2 physical swatches only. Code35 all assigned regions and top palette chips must be muted yellow-green yellow #C3C21B, NOT pure yellow or lemon. Label35偏黄绿的黄. Keep other colors, all shapes, layout, codes and instruction unchanged. Apply consistently to EVERY progression panel if present; early pencil stays pencil. No other changes."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. Restore robot holding flowerpot exactly. Background6 magenta #D82D9C, robot68 cyanblue, flower35 muted yellow-green #C3C21B, leaves/stem44 olive #8A9D41, pot23orange. No swatch cards or photo. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        }
+      ],
+      "sha256": "5382380a20417cf0a1cdc273ecb47f9502b4dea8ff55620eadcef0ff0793647f"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/011-robot-flowerpot/reference/steps.png",
+      "output": "entries/intermediate/011-robot-flowerpot/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n23 = 橙色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 68 Turquoise Blue | 机器人身体、手臂和短腿 |\n| 35 Lemon Yellow | 大花瓣 |\n| 44 Fresh Green | 花心、茎和叶片 |\n| 23 Orange | 花盆 |\n| 6 Vivid Pink | 背景 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 target, image2 physical swatches only. Code35 all assigned regions and top palette chips must be muted yellow-green yellow #C3C21B, NOT pure yellow or lemon. Label35偏黄绿的黄. Keep other colors, all shapes, layout, codes and instruction unchanged. Apply consistently to EVERY progression panel if present; early pencil stays pencil. No other changes."
+        }
+      ],
+      "sha256": "f229c4120a47a9cc7a94f71c150f95363dea4931567968291df282a567ffe2ac"
+    }
+  ],
+  "review": {
+    "slot": 12,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "35花瓣改黄绿，44橄榄绿叶；排除错误色卡输出。",
+    "colorimetric_calibrated": false
+  }
+}

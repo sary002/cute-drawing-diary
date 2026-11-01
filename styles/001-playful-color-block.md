@@ -1,6 +1,6 @@
 # S001｜童趣色块手绘
 
-> **配色核对更新：** 28课的旧图与实笔色卡存在错配，暂标“配色待校正”。造型与步骤保留，当前图内色号不能直接照用。[查看逐课审查](../docs/color-audit-2026-11-01.md)。
+> **配色修订：** 28课成品、教学图和正文已按实涂色卡的相对色相重新配套；图像不作精确色值，以同纸试色为准。
 
 [风格库](README.md) · 当前默认 · 建档：2026-10-31
 
@@ -10,7 +10,7 @@
 
 ### 第一课展示
 
-![戴耳机的小蘑菇，AI示意](../entries/beginner/001-headphone-mushroom/reference/finished.png)
+![戴耳机的小蘑菇，AI示意](../entries/beginner/001-headphone-mushroom/reference/finished-v5-physical.png)
 
 [001｜戴耳机的小蘑菇完整教程](../lessons/beginner/001-headphone-mushroom.md)
 
@@ -22,27 +22,27 @@
 
 | 打哈欠的邮筒 | 鳄梨和果核玩跷跷板 |
 | --- | --- |
-| ![打哈欠的邮筒，AI示意](../entries/intermediate/003-yawning-mailbox/reference/finished.png) | ![鳄梨和果核玩跷跷板，AI示意](../entries/intermediate/004-avocado-seesaw/reference/finished.png) |
+| ![打哈欠的邮筒，AI示意](../entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png) | ![鳄梨和果核玩跷跷板，AI示意](../entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png) |
 | [003｜完整教程](../lessons/beginner/003-yawning-mailbox.md) | [004｜完整教程](../lessons/beginner/004-avocado-seesaw.md) |
 
 | 粉色天空下的条纹灯塔 | 接住一颗星星 |
 | --- | --- |
-| ![粉色天空下的条纹灯塔，AI示意](../entries/beginner/005-striped-lighthouse/reference/finished.png) | ![接住一颗星星，AI示意](../entries/intermediate/006-catch-a-star/reference/finished.png) |
+| ![粉色天空下的条纹灯塔，AI示意](../entries/beginner/005-striped-lighthouse/reference/finished-v5-physical.png) | ![接住一颗星星，AI示意](../entries/intermediate/006-catch-a-star/reference/finished-v5-physical.png) |
 | [005｜完整教程](../lessons/beginner/005-striped-lighthouse.md) | [006｜完整教程](../lessons/beginner/006-catch-a-star.md) |
 
 | 偷吃月亮 | 雨天的蜗牛 |
 | --- | --- |
-| ![偷吃月亮，AI示意](../entries/beginner/007-moon-snack/reference/finished.png) | ![雨天的蜗牛，AI示意](../entries/beginner/008-snail-leaf/reference/finished.png) |
+| ![偷吃月亮，AI示意](../entries/beginner/007-moon-snack/reference/finished-v5-physical.png) | ![雨天的蜗牛，AI示意](../entries/beginner/008-snail-leaf/reference/finished-v5-physical.png) |
 | [007｜完整教程](../lessons/beginner/007-moon-snack.md) | [008｜完整教程](../lessons/beginner/008-snail-leaf.md) |
 
 | 云朵晾衣日 | 企鹅的热可可 |
 | --- | --- |
-| ![云朵晾衣日，AI示意](../entries/intermediate/009-cloud-laundry/reference/finished.png) | ![企鹅的热可可，AI示意](../entries/beginner/010-penguin-cocoa/reference/finished.png) |
+| ![云朵晾衣日，AI示意](../entries/intermediate/009-cloud-laundry/reference/finished-v5-physical.png) | ![企鹅的热可可，AI示意](../entries/beginner/010-penguin-cocoa/reference/finished-v5-physical.png) |
 | [009｜完整教程](../lessons/beginner/009-cloud-laundry.md) | [010｜完整教程](../lessons/beginner/010-penguin-cocoa.md) |
 
 | 举着花盆的机器人 | 鲸鱼的晚安灯 |
 | --- | --- |
-| ![举着花盆的机器人，AI示意](../entries/intermediate/011-robot-flowerpot/reference/finished.png) | ![鲸鱼的晚安灯，AI示意](../entries/beginner/012-whale-lantern/reference/finished.png) |
+| ![举着花盆的机器人，AI示意](../entries/intermediate/011-robot-flowerpot/reference/finished-v5-physical.png) | ![鲸鱼的晚安灯，AI示意](../entries/beginner/012-whale-lantern/reference/finished-v5-physical.png) |
 | [011｜完整教程](../lessons/beginner/011-robot-flowerpot.md) | [012｜完整教程](../lessons/beginner/012-whale-lantern.md) |
 
 ## 视觉规则
@@ -88,8 +88,8 @@
 | 等级 | 本风格的训练方式 | 课程状态 |
 | --- | --- | --- |
 | D1 基础大形 | 角色与几何风景的大形、平涂、留白与简单遮挡 | 主线7幅：6幅复用，1幅替换为松鼠抱橡果，均有入门教案 |
-| D2 专项控制 | 表情与动作变化、自然线条控制、色块疏密节奏；不强制加入写实体积 | 7课结构已备，配色待校正：专项试练、操作提示与换题迁移 |
-| D3 综合组织 | 多个角色或物件的关系、主次与环境色块组织，保持简化造型 | 7课结构已备，配色待校正：每课8环节、递进图与结构检查 |
-| D4 自主创作 | 自行设计题材、角色关系、构图与系列配色，稳定童趣表达 | 7课结构已备，配色待校正：每课10环节、两版小构图与结构提示 |
+| D2 专项控制 | 表情与动作变化、自然线条控制、色块疏密节奏；不强制加入写实体积 | 7课已配套修订：专项试练、操作提示与换题迁移 |
+| D3 综合组织 | 多个角色或物件的关系、主次与环境色块组织，保持简化造型 | 7课已配套修订：每课8环节、递进图与结构检查 |
+| D4 自主创作 | 自行设计题材、角色关系、构图与系列配色，稳定童趣表达 | 7课已配套修订：每课10环节、两版小构图与结构提示 |
 
 素材编号S001-001～028对应当前28课，旧教案内部编号保留。D2复用的5幅已按专项补入试练、检查与换题迁移，原步骤仍可作造型提示，原D1阶段快照另存保留；旧教案链接引向唯一的新正文。全部AI教案已备齐，不代表实际画完。

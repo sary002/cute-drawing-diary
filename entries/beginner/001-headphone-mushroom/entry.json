@@ -3,7 +3,7 @@
   "slug": "headphone-mushroom",
   "title": "戴耳机的小蘑菇",
   "stage": "beginner",
-  "tools_profile": "touchmark-student-36-v1",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "基本形概括：半圆、圆角长方形和弧线",
   "marker_colors": [
     "23",
@@ -12,18 +12,18 @@
     "35"
   ],
   "target_minutes": 25,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，S001风格成品参考；纸白短柄和四色平涂"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/steps.png",
+      "path": "reference/steps-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，竖版两列六步；上色干透后勾线"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -46,11 +46,12 @@
   "course_role": "mainline",
   "teaching_mode": "guided",
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

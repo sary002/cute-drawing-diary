@@ -1,0 +1,50 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-001",
+  "palette": [
+    "23",
+    "68",
+    "9",
+    "35"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/beginner/001-headphone-mushroom/reference/finished.png",
+      "output": "entries/beginner/001-headphone-mushroom/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n23 = 橙色（照片观察）\n68 = 中等青蓝（照片观察）\n9 = 浅粉红（照片观察）\n35 = 偏黄绿的黄色（照片观察）\nColor-to-region assignment from lesson:\n| Touchmark学生36色色号 | 用在哪里 |\n| 23 Orange／橙色 | 蘑菇伞盖 |\n| 68 Turquoise Blue／青绿 | 两边耳罩 |\n| 9 Pale Pink／淡粉 | 背景 |\n| 35 Lemon Yellow／柠檬黄 | 底部地面 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Background9 must become VERY PALE muted blush pink, like #E7C2C6, matching the very pale9 on swatch. Do not leave vivid bubblegum pink. Ground35 chartreuse yellow-green around #C3C11A."
+        }
+      ],
+      "sha256": "9e634545030a0ee8bbaf902be20d682660eb4fa306a462d7fa516c7a4a89c0a0"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/beginner/001-headphone-mushroom/reference/steps.png",
+      "output": "entries/beginner/001-headphone-mushroom/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n23 = 橙色（照片观察）\n68 = 中等青蓝（照片观察）\n9 = 浅粉红（照片观察）\n35 = 偏黄绿的黄色（照片观察）\nColor-to-region assignment from lesson:\n| Touchmark学生36色色号 | 用在哪里 |\n| 23 Orange／橙色 | 蘑菇伞盖 |\n| 68 Turquoise Blue／青绿 | 两边耳罩 |\n| 9 Pale Pink／淡粉 | 背景 |\n| 35 Lemon Yellow／柠檬黄 | 底部地面 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Top palette EXACT LABELS: \"23橙色\", \"68青蓝\", \"9浅粉\", \"35黄绿黄\". Remove the words 柠檬黄. Background9 extremely light dusty blush pink, NOT saturated bubblegum pink. Ground35 muted yellow-green chartreuse, not neon yellow."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. Only top palette9 chip must be VERY PALE dusty blush #E5C0C4, matching pale9background in panels05and06. Top35label「35偏黄绿」. Keep allothercolorsandtext. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        }
+      ],
+      "sha256": "129fe0af5175320e481f244f2e68911df6d1b6b61f64dc2eeaa0f2306ce4afb7"
+    }
+  ],
+  "review": {
+    "slot": 1,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "9浅粉与35偏黄绿分开，68青蓝耳罩；白短柄保留。",
+    "colorimetric_calibrated": false
+  }
+}

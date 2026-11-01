@@ -8,7 +8,7 @@
   "course_slot": 26,
   "course_role": "mainline",
   "teaching_mode": "independent",
-  "tools_profile": "touchmark-student-36-v2",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "围绕想象主题自行设计主体、动势与道具关系",
   "marker_colors": [
     "68",
@@ -21,18 +21,18 @@
     "44"
   ],
   "target_minutes": 95,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/independent/026-kite-repair-ship.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/planning.png",
+      "path": "reference/planning-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -50,11 +50,12 @@
     "metrics": []
   },
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "75号蓝工具箱、82号浅紫风筝面错误；44号绿面、35号角色、6号另一角色的色相与饱和度需匹配。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

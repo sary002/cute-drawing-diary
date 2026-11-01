@@ -1,6 +1,6 @@
 # S001-021｜积木滑梯公园
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,13 +22,13 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 68 | Turquoise Blue | 滑梯 |
-| 23 | Orange | 梯子、太阳与树干 |
-| 35 | Lemon Yellow | 滑行主角 |
-| 6 | Vivid Pink | 顶部角色 |
-| 44 | Fresh Green | 地面与树冠 |
-| 75 | Dark Blue Light | 天空 |
-| 82 | Light Violet | 低处角色 |
+| 68 | 中等青蓝 | 滑梯 |
+| 23 | 橙色 | 梯子、太阳与树干 |
+| 35 | 偏黄绿的黄色 | 滑行主角 |
+| 6 | 洋红、偏紫的亮粉 | 顶部角色 |
+| 44 | 偏黄的橄榄绿 | 地面与树冠 |
+| 75 | 浅薰衣草紫 | 天空 |
+| 82 | 较深紫色 | 低处角色 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。更换配色时仍从本套已有色号中选择，保持主次关系，并更新本课色号记录。
 
@@ -42,11 +42,11 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 成品与递进示意
 
-![积木滑梯公园递进步骤，AI示意](../../entries/scene/021-building-block-slide-park/reference/steps.png)
+![积木滑梯公园递进步骤，AI示意](../../entries/scene/021-building-block-slide-park/reference/steps-v5-physical.png)
 
 从左到右、从上到下阅读。灰线表示铅笔，黑轮廓等颜色完全干透后再画；示意若提前出现少量五官，按正文延后。
 
-图文检查说明：顶部35与6的色卡已校正：35柠檬黄，6亮粉。树干用23，不照成品的棕色另加一支笔；图04树干与脸颊的示色可延后到第05步。
+图文检查说明：顶部35与6的色卡已校正：35偏黄绿的黄色，6洋红。树干用23，不照成品的棕色另加一支笔；图04树干与脸颊的示色可延后到第05步。
 
 ## 8个操作环节
 
@@ -101,7 +101,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![积木滑梯公园成品示例，AI生成](../../entries/scene/021-building-block-slide-park/reference/finished.png)
+![积木滑梯公园成品示例，AI生成](../../entries/scene/021-building-block-slide-park/reference/finished-v5-physical.png)
 
 </details>
 
@@ -110,3 +110,5 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/scene/021-building-block-slide-park/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/scene/021-building-block-slide-park/reference/color-revision-v5.json)

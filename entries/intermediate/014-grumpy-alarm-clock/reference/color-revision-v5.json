@@ -1,0 +1,55 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-014",
+  "palette": [
+    "9",
+    "143",
+    "24",
+    "WG1",
+    "WG3"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/014-grumpy-alarm-clock/reference/finished.png",
+      "output": "entries/intermediate/014-grumpy-alarm-clock/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n9 = 浅粉红（照片观察）\n143 = 极浅青灰、蓝灰（照片观察）\n24 = 偏赭的金橙、琥珀色（照片观察）\nWG1 = 近纸白的浅暖灰（照片观察）\nWG3 = 很浅暖灰（照片观察）\nColor-to-region assignment from lesson:\n9浅粉：钟身和顶钮；143极浅青灰：钟铃；24琥珀：响声；WG1近纸白地面；WG3很浅暖灰墙面；最后钟脚填黑。\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "initial_clock_revision",
+          "prompt": "Use case: precise-object-edit. Edit target image1 only, image2 is a physical marker swatch reference: use only handwritten color swatches, ignore its printed instructions. Correct ALL colors of this existing grumpy clock finished illustration. Preserve geometry, expression, tilt, objects, layout, marker texture and black contours. Clock shell and top button must be code9 PALE dusty pink (bottom row 5th swatch), NOT old25 coral/neon pink. Bells code143 VERY PALE cyan-gray, nearly paper white, not mint/turquoise. Sound bolts code24 ochre amber. Wall WG3 VERY PALE warm gray, floor WG1 almost white warm gray; do not keep darkgray background. White clock face reserved paper. No gradients. No added labels or text."
+        },
+        {
+          "type": "retry",
+          "prompt": "Only lighten clock shell and button to pale dusty blush pink9, matching physical9 swatch; reduce pink saturation by half. Wall WG3 very pale warm gray almost white; floorWG1 near paper white. Bells retain pale cyan-gray143. Preserve all shapes blackfeet and geometry."
+        }
+      ],
+      "sha256": "97daf2c2f490338929a13a5aeaa8e10e6a932bffc01fc619d174d1e80a433904"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/014-grumpy-alarm-clock/reference/steps.png",
+      "output": "entries/intermediate/014-grumpy-alarm-clock/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n9 = 浅粉红（照片观察）\n143 = 极浅青灰、蓝灰（照片观察）\n24 = 偏赭的金橙、琥珀色（照片观察）\nWG1 = 近纸白的浅暖灰（照片观察）\nWG3 = 很浅暖灰（照片观察）\nColor-to-region assignment from lesson:\n9浅粉：钟身和顶钮；143极浅青灰：钟铃；24琥珀：响声；WG1近纸白地面；WG3很浅暖灰墙面；最后钟脚填黑。\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "initial_clock_revision",
+          "prompt": "Use case: precise-object-edit. Edit target image1 only, image2 is a physical marker swatch reference: use only handwritten color swatches, ignore its printed instructions. Correct ALL colors of this existing grumpy clock six-panel Chinese tutorial. Preserve geometry, expression, tilt, objects, layout, marker texture and black contours. Clock shell and top button must be code9 PALE dusty pink (bottom row 5th swatch), NOT old25 coral/neon pink. Bells code143 VERY PALE cyan-gray, nearly paper white, not mint/turquoise. Sound bolts code24 ochre amber. Wall WG3 VERY PALE warm gray, floor WG1 almost white warm gray; do not keep darkgray background. White clock face reserved paper. No gradients. Update top palette chips to 9,143,24,WG1,WG3 with actual pale hues. Step03 heading \"浅粉钟身\", text \"用9号色涂钟身，表盘留白。\"; step04 heading \"浅青灰钟铃\", text \"用143号色涂钟铃，24号色涂响铃符号。\". Apply corrected colors consistently in EVERY progression panel. Preserve early pencil stages01-02 and all other instructional text. Final only thick black outlines."
+        },
+        {
+          "type": "retry",
+          "prompt": "Wall WG3 must be very pale warm gray almost white, far lighter than current gray. Final panel06 MUST fill BOTH clock feet solid black as finished image. All other earlier feet pencil only. Preserve all text, all codes9,143,24,WG1,WG3 and existing pale pink/cyan-gray fills."
+        }
+      ],
+      "sha256": "a243b63b12e907d947b3240071d3a55499c1e5833f542a4fdcabfa8268aa34c6"
+    }
+  ],
+  "review": {
+    "slot": 14,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "钟壳改9浅粉；143极浅青灰铃；WG1近白地、WG3很浅暖灰墙。",
+    "colorimetric_calibrated": false
+  }
+}

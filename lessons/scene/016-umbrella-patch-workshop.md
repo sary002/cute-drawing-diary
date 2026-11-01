@@ -1,6 +1,6 @@
 # S001-016｜雨伞补丁铺
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,14 +22,14 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 68 | Turquoise Blue | 修伞角色 |
-| 23 | Orange | 对称伞面 |
-| 35 | Lemon Yellow | 地面与桌面 |
-| 6 | Vivid Pink | 线轴 |
-| 75 | Dark Blue Light | 墙面 |
-| 44 | Fresh Green | 补丁 |
-| 31 | Dark Yellow | 桌侧与轻暗面 |
-| WG7 | Warm Grey 7 | 伞杆与直握柄 |
+| 68 | 中等青蓝 | 修伞角色 |
+| 23 | 橙色 | 对称伞面 |
+| 35 | 偏黄绿的黄色 | 地面与桌面 |
+| 6 | 洋红、偏紫的亮粉 | 线轴 |
+| 75 | 浅薰衣草紫 | 墙面 |
+| 44 | 偏黄的橄榄绿 | 补丁 |
+| 31 | 偏芥末的黄色 | 桌侧与轻暗面 |
+| WG7 | 深暖灰、略偏棕 | 伞杆与直握柄 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。更换配色时仍从本套已有色号中选择，保持主次关系，并更新本课色号记录。
 
@@ -43,7 +43,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 成品与递进示意
 
-![雨伞补丁铺递进步骤，AI示意](../../entries/scene/016-umbrella-patch-workshop/reference/steps.png)
+![雨伞补丁铺递进步骤，AI示意](../../entries/scene/016-umbrella-patch-workshop/reference/steps-v5-physical.png)
 
 从左到右、从上到下阅读。灰线表示铅笔，黑轮廓等颜色完全干透后再画；示意若提前出现少量五官，按正文延后。
 
@@ -102,7 +102,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![雨伞补丁铺成品示例，AI生成](../../entries/scene/016-umbrella-patch-workshop/reference/finished.png)
+![雨伞补丁铺成品示例，AI生成](../../entries/scene/016-umbrella-patch-workshop/reference/finished-v5-physical.png)
 
 </details>
 
@@ -111,3 +111,5 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/scene/016-umbrella-patch-workshop/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/scene/016-umbrella-patch-workshop/reference/color-revision-v5.json)

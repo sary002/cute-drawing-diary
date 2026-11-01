@@ -1,6 +1,6 @@
 # S001-002｜松鼠抱橡果 · D1基础大形
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 先修：能用铅笔轻画圆与方形；无需绘画经验。 本课为完整跟画，完成时间以正文为准；可分成起稿与上色两次。
 
@@ -10,7 +10,7 @@
 
 ## 成品参考
 
-![松鼠抱橡果，AI生成参考](../../entries/beginner/002-acorn-squirrel/reference/finished.png)
+![松鼠抱橡果，AI生成参考](../../entries/beginner/002-acorn-squirrel/reference/finished-v5-physical.png)
 
 成品和步骤图均为AI示意，不计为实际手绘完成。颜色近似，以实物试色为准；图中眼睛白点可省略，最后直接画黑点眼，不依赖白笔覆盖。
 
@@ -20,11 +20,11 @@
 
 | 已有Touchmark学生36色色号 | 区域 |
 | --- | --- |
-| 24 Marigold | 松鼠头、身体、两只爪子和脚 |
-| 37 Pastel Yellow | 橡果身体、口鼻与耳内小块 |
-| 92 Chocolate | 橡果帽、短柄与大尾巴 |
-| 41 Olive Green | 下方地面 |
-| 11 Carmine | 背景 |
+| 24 偏赭的金橙、琥珀色 | 松鼠头、身体、两只爪子和脚 |
+| 37 黄绿色，非奶油浅黄 | 橡果身体、口鼻与耳内小块 |
+| 92 深棕 | 橡果帽、短柄与大尾巴 |
+| 41 较深橄榄绿 | 下方地面 |
+| 11 红色 | 背景 |
 
 共5支彩色马克笔，黑色五官与轮廓用针管笔。图上色名为近似标注，以本套色号为准。132不作不透明白色或混色笔。
 
@@ -34,7 +34,7 @@
 
 ## 六步跟画
 
-![松鼠抱橡果六步教学图，AI示意](../../entries/beginner/002-acorn-squirrel/reference/steps.png)
+![松鼠抱橡果六步教学图，AI示意](../../entries/beginner/002-acorn-squirrel/reference/steps-v5-physical.png)
 
 按从左到右、从上到下阅读，前五格的灰线为铅笔定位。第三格远侧小爪在图中稍晚着色，实际第三步与身体一起涂24即可；操作顺序以正文为准。
 
@@ -73,3 +73,5 @@
 ## 来源
 
 成品与步骤图使用OpenAI内置imagegen生成，详见[完整提示词与检查记录](../../entries/beginner/002-acorn-squirrel/reference/generation-prompts.json)。基础学习来源见[课程参考资料](../../docs/learning-references.md)。原第002练链接保留入口；旧图片退出当前S001主线展示。
+
+[本次配色修订提示词与核对](../../entries/beginner/002-acorn-squirrel/reference/color-revision-v5.json)

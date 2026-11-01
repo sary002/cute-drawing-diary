@@ -3,7 +3,7 @@
   "slug": "robot-flowerpot",
   "title": "举着花盆的机器人",
   "stage": "intermediate",
-  "tools_profile": "touchmark-student-36-v1",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "用视线与手臂方向引导注意力",
   "marker_colors": [
     "68",
@@ -13,18 +13,18 @@
     "6"
   ],
   "target_minutes": 45,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/steps.png",
+      "path": "reference/steps-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -47,11 +47,12 @@
   "course_slot": 12,
   "course_role": "mainline",
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

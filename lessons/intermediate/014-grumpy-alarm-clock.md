@@ -1,6 +1,6 @@
 # S001-014｜气鼓鼓的闹钟
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,11 +22,11 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 25 | Salmon Pink | 钟身与顶钮 |
-| 143 | Mint Blue | 钟铃 |
-| 24 | Marigold | 响声符号 |
-| WG1 | Warm Grey 1 | 地面 |
-| WG3 | Warm Grey 3 | 背景墙 |
+| 9 | 浅粉红 | 钟身与顶钮 |
+| 143 | 极浅青灰、蓝灰 | 钟铃 |
+| 24 | 偏赭的金橙、琥珀色 | 响声符号 |
+| WG1 | 近纸白的浅暖灰 | 地面 |
+| WG3 | 很浅暖灰 | 背景墙 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。更换配色时仍从本套已有色号中选择，保持主次关系，并更新本课色号记录。
 
@@ -40,7 +40,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 成品与递进示意
 
-![气鼓鼓的闹钟递进步骤，AI示意](../../entries/intermediate/014-grumpy-alarm-clock/reference/steps.png)
+![气鼓鼓的闹钟递进步骤，AI示意](../../entries/intermediate/014-grumpy-alarm-clock/reference/steps-v5-physical.png)
 
 从左到右、从上到下阅读。灰线表示铅笔，黑轮廓等颜色完全干透后再画；示意若提前出现少量五官，按正文延后。
 
@@ -54,11 +54,11 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 两只钟铃随钟身一起倾斜；下方两脚支住钟体。先标眼皮倾角与嘴的位置，再安排指针，避免针尖戳到眼睛。
 
-### 03 珊瑚粉钟身
+### 03 浅粉钟身
 
-25涂钟壳和顶钮，绕开表盘。先试色再连续排笔，保留自然笔痕。
+9涂钟壳和顶钮，绕开表盘。先试色再连续排笔，保留自然笔痕。
 
-### 04 薄荷蓝钟铃
+### 04 浅青灰钟铃
 
 143涂钟铃，24涂左上响声符号。响声形状集中在一侧，不围满一圈。
 
@@ -89,7 +89,7 @@ WG3涂墙，WG1涂窄地面，表盘不涂。先试灰阶是否能区分，接�
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![气鼓鼓的闹钟成品示例，AI生成](../../entries/intermediate/014-grumpy-alarm-clock/reference/finished.png)
+![气鼓鼓的闹钟成品示例，AI生成](../../entries/intermediate/014-grumpy-alarm-clock/reference/finished-v5-physical.png)
 
 </details>
 
@@ -98,3 +98,5 @@ WG3涂墙，WG1涂窄地面，表盘不涂。先试灰阶是否能区分，接�
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/intermediate/014-grumpy-alarm-clock/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/intermediate/014-grumpy-alarm-clock/reference/color-revision-v5.json)

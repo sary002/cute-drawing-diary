@@ -1,6 +1,6 @@
 # S001-022｜失物招领车
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,14 +22,14 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 68 | Turquoise Blue | 车身 |
-| 23 | Orange | 管理者与小暖色 |
-| 35 | Lemon Yellow | 标签和物品 |
-| 6 | Vivid Pink | 雨棚与小物 |
-| 44 | Fresh Green | 植物 |
-| 75 | Dark Blue Light | 背景 |
-| 82 | Light Violet | 帽子或失物 |
-| 95 | Burnt Sienna | 宠物暖色 |
+| 68 | 中等青蓝 | 车身 |
+| 23 | 橙色 | 管理者与小暖色 |
+| 35 | 偏黄绿的黄色 | 标签和物品 |
+| 6 | 洋红、偏紫的亮粉 | 雨棚与小物 |
+| 44 | 偏黄的橄榄绿 | 植物 |
+| 75 | 浅薰衣草紫 | 背景 |
+| 82 | 较深紫色 | 帽子或失物 |
+| 95 | 赭棕、黄棕 | 宠物暖色 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。D4可自行替换为本套已有色号并记录，保持主次和冷暖关系，单幅不超过10色。
 
@@ -53,7 +53,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 构图与结构提示
 
-![失物招领车自主创作提示，AI示意](../../entries/independent/022-lost-and-found-cart/reference/planning.png)
+![失物招领车自主创作提示，AI示意](../../entries/independent/022-lost-and-found-cart/reference/planning-v5-physical.png)
 
 四格分别为两版构图、正式铅笔稿、配色留白与局部结构检查；它们对应下方多个操作环节，不代表整幅只需四步。
 
@@ -120,7 +120,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![失物招领车成品示例，AI生成](../../entries/independent/022-lost-and-found-cart/reference/finished.png)
+![失物招领车成品示例，AI生成](../../entries/independent/022-lost-and-found-cart/reference/finished-v5-physical.png)
 
 </details>
 
@@ -129,3 +129,5 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/independent/022-lost-and-found-cart/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/independent/022-lost-and-found-cart/reference/color-revision-v5.json)

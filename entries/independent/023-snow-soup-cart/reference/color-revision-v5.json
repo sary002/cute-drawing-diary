@@ -1,0 +1,61 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-023",
+  "palette": [
+    "2",
+    "31",
+    "65",
+    "69",
+    "25",
+    "WG1",
+    "92"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/independent/023-snow-soup-cart/reference/finished.png",
+      "output": "entries/independent/023-snow-soup-cart/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n2 = 偏玫红的红色（照片观察）\n31 = 偏芥末的黄色（照片观察）\n65 = 蓝绿色，非很浅冰蓝（照片观察）\n69 = 深靛蓝（照片观察）\n25 = 很浅的灰米色、灰肤色（照片观察）\nWG1 = 近纸白的浅暖灰（照片观察）\n92 = 深棕（照片观察）\nColor-to-region assignment from lesson:\n| 2 | Old Red | 汤车与汤 |\n| 31 | Dark Yellow | 锅与帽子 |\n| 65 | Ice Blue | 雪地浅色 |\n| 69 | Prussian Blue | 夜空与围巾 |\n| 25 | Salmon Pink | 摊主 |\n| WG1 | Warm Grey 1 | 顾客 |\n| 92 | Chocolate | 台面与把手 |\nPreserve bowl volume: elliptical soup opening with white curved bowl wall below, hands OUTSIDE wall.\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n65: medium blue-green #489FAF, not pale ice blue\n25: VERY PALE GRAY-BEIGE #DDD5CC, never coral or pink\nWG1: almost white warm gray #F1EFEB\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Vendor face and hands25 VERY PALE GRAY-BEIGE #DDD5CC, NEVER PINK. Labels must read25浅灰米, NOT9浅粉. Palette EXACT 2、31、65、69、25、WG1、92. Cart/soup2rosered; pot/hat31mustard; midsnow65mediumbluegreen #489FAF; sky/scarf69deepindigo; customerWG1almostwhite; counter/handles92deepbrown. All steam/apron/bowlwall andforegroundsnowpaperwhite. In bowlzoom hands25graybeige, ellipse red soup, whitecurvedwall. No pink skin. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        }
+      ],
+      "sha256": "a217040e4d72fb700074698fd4e63aa3f0fc1ebd54eed1c7b7e0bddd03283cf1"
+    },
+    {
+      "kind": "planning",
+      "edit_target": "entries/independent/023-snow-soup-cart/reference/planning.png",
+      "output": "entries/independent/023-snow-soup-cart/reference/planning-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n2 = 偏玫红的红色（照片观察）\n31 = 偏芥末的黄色（照片观察）\n65 = 蓝绿色，非很浅冰蓝（照片观察）\n69 = 深靛蓝（照片观察）\n25 = 很浅的灰米色、灰肤色（照片观察）\nWG1 = 近纸白的浅暖灰（照片观察）\n92 = 深棕（照片观察）\nColor-to-region assignment from lesson:\n| 2 | Old Red | 汤车与汤 |\n| 31 | Dark Yellow | 锅与帽子 |\n| 65 | Ice Blue | 雪地浅色 |\n| 69 | Prussian Blue | 夜空与围巾 |\n| 25 | Salmon Pink | 摊主 |\n| WG1 | Warm Grey 1 | 顾客 |\n| 92 | Chocolate | 台面与把手 |\nPreserve bowl volume: elliptical soup opening with white curved bowl wall below, hands OUTSIDE wall.\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n65: medium blue-green #489FAF, not pale ice blue\n25: VERY PALE GRAY-BEIGE #DDD5CC, never coral or pink\nWG1: almost white warm gray #F1EFEB\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Vendor face and hands25 VERY PALE GRAY-BEIGE #DDD5CC, NEVER PINK. Labels must read25浅灰米, NOT9浅粉. Palette EXACT 2、31、65、69、25、WG1、92. Cart/soup2rosered; pot/hat31mustard; midsnow65mediumbluegreen #489FAF; sky/scarf69deepindigo; customerWG1almostwhite; counter/handles92deepbrown. All steam/apron/bowlwall andforegroundsnowpaperwhite. In bowlzoom hands25graybeige, ellipse red soup, whitecurvedwall. No pink skin. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        },
+        {
+          "type": "retry-pencil",
+          "prompt": "Use case: precise-object-edit. Single input EDIT TARGET four-panel Chinese tutorial. ONLY remove ALL COLORED FILLS inside upper two panels01 and02 (including both A/B sketches within01). Convert those illustrations to WHITE PAPER with LIGHT GRAY PENCIL LINES ONLY. No colored dog spots, no colored hats, no colored buildings, no blue sky, no fills at all in upper two illustrations. Keep all upper panel typography, labels and headers exactly as they are. DO NOT CHANGE ANY PIXEL COLORS OR CONTENT IN LOWER PANELS03 AND04, bottompalette or footer. Preserve four-panel layout and all shapes. This is a localized removal of premature fill in early pencil stages. Do not recolor lower examples."
+        }
+      ],
+      "sha256": "1f91c3e3ac451d9540da77cb83da5e058de5af8945a3285202dcda262b381c46"
+    }
+  ],
+  "review": {
+    "slot": 23,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "25浅灰米摊主与手，标签不再误写9；碗壁留白。",
+    "colorimetric_calibrated": false
+  }
+}

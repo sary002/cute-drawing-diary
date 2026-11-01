@@ -1,0 +1,46 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-004",
+  "palette": [
+    "82",
+    "35",
+    "23",
+    "68"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/beginner/007-moon-snack/reference/finished.png",
+      "output": "entries/beginner/007-moon-snack/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n82 = 较深紫色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n23 = 橙色（照片观察）\n68 = 中等青蓝（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 82 Light Violet | 怪兽全身和手 |\n| 35 Lemon Yellow | 大月亮与三粒碎屑 |\n| 23 Orange | 背景 |\n| 68 Turquoise Blue | 地面 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Code82 monster must be DEEP REDDISH PURPLE #793D98, NOT lavender, NOT blue-purple. Code35 moon muted YELLOW-GREEN #C3C11A. Code68 medium cyanblue #489BA9."
+        }
+      ],
+      "sha256": "9817e210299db924534570ac869d3912d50a56acf0dc9bac9d9663e0c9fb06a1"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/beginner/007-moon-snack/reference/steps.png",
+      "output": "entries/beginner/007-moon-snack/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n82 = 较深紫色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n23 = 橙色（照片观察）\n68 = 中等青蓝（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 82 Light Violet | 怪兽全身和手 |\n| 35 Lemon Yellow | 大月亮与三粒碎屑 |\n| 23 Orange | 背景 |\n| 68 Turquoise Blue | 地面 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Code82 monster must be DEEP REDDISH PURPLE #793D98, NOT lavender, NOT blue-purple. Code35 moon muted YELLOW-GREEN #C3C11A. Code68 medium cyanblue #489BA9."
+        }
+      ],
+      "sha256": "d49b170e53cae5abdd6834ad3cf1ed000e157be97ee76c733c2d4bb24972519e"
+    }
+  ],
+  "review": {
+    "slot": 4,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "82深紫角色与35黄绿月亮区分。",
+    "colorimetric_calibrated": false
+  }
+}

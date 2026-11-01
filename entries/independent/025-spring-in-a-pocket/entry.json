@@ -8,7 +8,7 @@
   "course_slot": 25,
   "course_role": "mainline",
   "teaching_mode": "independent",
-  "tools_profile": "touchmark-student-36-v2",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "自主组织尺度、布料开口与前后遮挡",
   "marker_colors": [
     "35",
@@ -23,18 +23,18 @@
     "37"
   ],
   "target_minutes": 100,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/independent/025-spring-in-a-pocket.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/planning.png",
+      "path": "reference/planning-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -52,11 +52,12 @@
     "metrics": []
   },
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "75号角色和门为蓝色、82号鸟为浅紫，均错误；37号衣服为奶油浅黄，实笔为黄绿色；35口袋、44叶片也需调色。表内35与37的衣服区域须分清。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

@@ -1,6 +1,6 @@
 # S001-024｜海底图书馆
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,14 +22,14 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 143 | Mint Blue | 海水和部分书脊 |
-| WG9 | Warm Grey 9 | 壁龛与石头 |
-| 8 | Rose Pink | 章鱼 |
-| 24 | Marigold | 鱼 |
-| 37 | Pastel Yellow | 浅黄色书脊 |
-| 135 | Pale Cherry Pink | 浅粉书脊 |
-| 46 | Vivid Green | 水草 |
-| WG3 | Warm Grey 3 | 书架 |
+| 143 | 极浅青灰、蓝灰 | 海水和部分书脊 |
+| WG9 | 近黑的深暖灰 | 壁龛与石头 |
+| 8 | 玫瑰粉红 | 章鱼 |
+| 24 | 偏赭的金橙、琥珀色 | 鱼 |
+| 37 | 黄绿色，非奶油浅黄 | 黄绿色书脊 |
+| 135 | 极浅灰粉、略偏紫 | 浅粉书脊 |
+| 46 | 中等绿色 | 水草 |
+| WG3 | 很浅暖灰 | 书架 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。D4可自行替换为本套已有色号并记录，保持主次和冷暖关系，单幅不超过10色。
 
@@ -53,7 +53,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 构图与结构提示
 
-![海底图书馆自主创作提示，AI示意](../../entries/independent/024-underwater-library/reference/planning.png)
+![海底图书馆自主创作提示，AI示意](../../entries/independent/024-underwater-library/reference/planning-v5-physical.png)
 
 四格分别为两版构图、正式铅笔稿、配色留白与局部结构检查；它们对应下方多个操作环节，不代表整幅只需四步。
 
@@ -120,7 +120,7 @@ WG3涂书架，WG9涂壁龛与石头，46涂水草；暗壁龛集中在主角后
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![海底图书馆成品示例，AI生成](../../entries/independent/024-underwater-library/reference/finished.png)
+![海底图书馆成品示例，AI生成](../../entries/independent/024-underwater-library/reference/finished-v5-physical.png)
 
 </details>
 
@@ -129,3 +129,5 @@ WG3涂书架，WG9涂壁龛与石头，46涂水草；暗壁龛集中在主角后
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/independent/024-underwater-library/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/independent/024-underwater-library/reference/color-revision-v5.json)

@@ -1,6 +1,6 @@
 # S001-007｜鲸鱼的晚安灯 · D1基础大形
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 先修：能用铅笔轻画圆与方形；无需绘画经验。 本课为完整跟画，完成时间以正文为准；可分成起稿与上色两次。
 
@@ -10,7 +10,7 @@
 
 ## 成品参考
 
-![鲸鱼的晚安灯，AI生成参考](../../entries/beginner/012-whale-lantern/reference/finished.png)
+![鲸鱼的晚安灯，AI生成参考](../../entries/beginner/012-whale-lantern/reference/finished-v5-physical.png)
 
 成品参考与步骤图都是AI教学示意，不计为真实练习完成。颜色仅近似，实物以纸上试色为准；具体跟画以正文顺序为准。
 
@@ -20,10 +20,10 @@
 
 | 已有Touchmark学生36色色号 | 本次用途 |
 | --- | --- |
-| 68 Turquoise Blue | 鲸鱼身体与鳍 |
-| 35 Lemon Yellow | 圆灯笼和小灯帽 |
-| 9 Pale Pink | 云朵 |
-| 75 Dark Blue Light | 夜空 |
+| 68 中等青蓝 | 鲸鱼身体与鳍 |
+| 35 偏黄绿的黄色 | 圆灯笼和小灯帽 |
+| 9 浅粉红 | 云朵 |
+| 75 浅薰衣草紫 | 夜空 |
 
 针管笔耐酒精性未知，统一先铅笔定位、上色、完全干透后勾线。高光和白色形状提前留纸白，不把132当不透明白色或无色混色笔，不用浅色反复覆盖深色。
 
@@ -33,7 +33,7 @@
 
 ## 六步跟画｜约25分钟
 
-![鲸鱼的晚安灯六步教学图，AI示意](../../entries/beginner/012-whale-lantern/reference/steps.png)
+![鲸鱼的晚安灯六步教学图，AI示意](../../entries/beginner/012-whale-lantern/reference/steps-v5-physical.png)
 
 按从左到右、从上到下阅读，灰色线视作铅笔。首格可能已展示完整浅色定位，可按标题分两步起稿；深色轮廓和眼嘴统一最后完成。步骤图第五格有细白弯杆，仅作定位，最后用黑线盖住即可。原成品鲸鱼更大，可按六步图简化，保留右下出框关系。
 
@@ -72,3 +72,5 @@
 ## 来源
 
 成品参考和六步图由OpenAI内置imagegen生成，六步教学版式采用本系列[第一课](001-headphone-mushroom.md)。[生成提示词及检查说明](../../entries/beginner/012-whale-lantern/reference/generation-prompt.txt)；基础学习来源见[课程参考资料](../../docs/learning-references.md)。不要求过程拍照，实际完成后再登记，照片与用时可省略。
+
+[本次配色修订提示词与核对](../../entries/beginner/012-whale-lantern/reference/color-revision-v5.json)

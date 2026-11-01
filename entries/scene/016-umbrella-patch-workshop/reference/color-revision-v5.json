@@ -1,0 +1,54 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-016",
+  "palette": [
+    "68",
+    "23",
+    "35",
+    "6",
+    "75",
+    "44",
+    "31",
+    "WG7"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/scene/016-umbrella-patch-workshop/reference/finished.png",
+      "output": "entries/scene/016-umbrella-patch-workshop/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n75 = 浅薰衣草紫（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n31 = 偏芥末的黄色（照片观察）\nWG7 = 深暖灰、略偏棕（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 修伞角色 |\n| 23 | Orange | 对称伞面 |\n| 35 | Lemon Yellow | 地面与桌面 |\n| 6 | Vivid Pink | 线轴 |\n| 75 | Dark Blue Light | 墙面 |\n| 44 | Fresh Green | 补丁 |\n| 31 | Dark Yellow | 桌侧与轻暗面 |\n| WG7 | Warm Grey 7 | 伞杆与直握柄 |\nPreserve the already corrected symmetric front-view umbrella: tip, canopy center, straight rod, straight cylindrical grip ALL on one vertical axis. No J handle.\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 is target. Image2 is physical hand-painted swatch reference only. Strictly REPLACE the colored fills listed below, including ALL panel fills and color chips, with these hues. Previous edit is still too vivid or wrong hue. Approximate digital anchors clarify desired relative hue; they are not measurements:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\nKeep every other fill, all geometry, composition, all numeric codes, typography and step sequence. If instructional sheet, replace misleading Chinese color adjectives:35=偏黄绿的黄，37=黄绿，75=浅薰衣草紫，82=深紫，25=浅灰米，58=灰调青绿，65=蓝绿，143=极浅青灰，172=极浅灰绿. Remove 柠檬黄/薄荷小鸟/珊瑚粉/深蓝 when those refer to these codes. In every panel: early pencil remains uncolored; final only black contours. Preserve paperwhite shapes. No gradient, no added objects, no layout changes. Umbrella if present: keep straight rod+straight grip on canopy's vertical center axis."
+        }
+      ],
+      "sha256": "f724130c6395fccc4537ee1020dc521395fbc82db6d51f88a4928988e9537a8d"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/scene/016-umbrella-patch-workshop/reference/steps.png",
+      "output": "entries/scene/016-umbrella-patch-workshop/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n75 = 浅薰衣草紫（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n31 = 偏芥末的黄色（照片观察）\nWG7 = 深暖灰、略偏棕（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 修伞角色 |\n| 23 | Orange | 对称伞面 |\n| 35 | Lemon Yellow | 地面与桌面 |\n| 6 | Vivid Pink | 线轴 |\n| 75 | Dark Blue Light | 墙面 |\n| 44 | Fresh Green | 补丁 |\n| 31 | Dark Yellow | 桌侧与轻暗面 |\n| WG7 | Warm Grey 7 | 伞杆与直握柄 |\nPreserve the already corrected symmetric front-view umbrella: tip, canopy center, straight rod, straight cylindrical grip ALL on one vertical axis. No J handle.\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 is target. Image2 is physical hand-painted swatch reference only. Strictly REPLACE the colored fills listed below, including ALL panel fills and color chips, with these hues. Previous edit is still too vivid or wrong hue. Approximate digital anchors clarify desired relative hue; they are not measurements:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\nKeep every other fill, all geometry, composition, all numeric codes, typography and step sequence. If instructional sheet, replace misleading Chinese color adjectives:35=偏黄绿的黄，37=黄绿，75=浅薰衣草紫，82=深紫，25=浅灰米，58=灰调青绿，65=蓝绿，143=极浅青灰，172=极浅灰绿. Remove 柠檬黄/薄荷小鸟/珊瑚粉/深蓝 when those refer to these codes. In every panel: early pencil remains uncolored; final only black contours. Preserve paperwhite shapes. No gradient, no added objects, no layout changes. Umbrella if present: keep straight rod+straight grip on canopy's vertical center axis."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. Only correct Chinese color words in panel06: replace entire color paragraph with EXACT text:「75涂浅紫背景，WG7涂伞杆与手柄，6涂线轴，31涂桌沿。」 Preserve corrected lavenderbackground, yellowgreenfloor, geometry, all other panelsandtext. No blue background name. Keep symmetricfrontcanopy and tip-center-rod-straightgrip allsameverticalaxis. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        }
+      ],
+      "sha256": "d278b9ad1e07f822ac65b96e5746e6851738400603a22d21232185128e78d3ae"
+    }
+  ],
+  "review": {
+    "slot": 16,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "75浅紫背景、35黄绿地；图内文字同步，伞中轴与直柄保留。",
+    "colorimetric_calibrated": false
+  }
+}

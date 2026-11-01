@@ -1,5 +1,5 @@
 {
-  "status": "audit_complete_images_not_recolored",
+  "status": "audit_resolved_by_physical_palette_revision",
   "reviewed_lessons": 28,
   "reviewed_finished_images": 28,
   "reviewed_instruction_images": 28,
@@ -16,7 +16,18 @@
         "35"
       ],
       "primary_mismatch_codes": [],
-      "issue": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。"
+      "issue": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "23",
+          "68",
+          "9",
+          "35"
+        ],
+        "finished_image": "entries/beginner/001-headphone-mushroom/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-002",
@@ -32,7 +43,19 @@
       "primary_mismatch_codes": [
         "37"
       ],
-      "issue": "37被用作奶油黄橡果，色卡为黄绿色；24松鼠画成亮黄而色卡更偏赭金橙。"
+      "issue": "37被用作奶油黄橡果，色卡为黄绿色；24松鼠画成亮黄而色卡更偏赭金橙。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "24",
+          "37",
+          "92",
+          "41",
+          "11"
+        ],
+        "finished_image": "entries/beginner/002-acorn-squirrel/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-003",
@@ -45,7 +68,18 @@
         "23"
       ],
       "primary_mismatch_codes": [],
-      "issue": "9号天空比实笔浅粉明显更饱和；35沙岛偏纯黄，68海水过亮，需按实色重新定深浅。"
+      "issue": "9号天空比实笔浅粉明显更饱和；35沙岛偏纯黄，68海水过亮，需按实色重新定深浅。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "9",
+          "68",
+          "35",
+          "23"
+        ],
+        "finished_image": "entries/beginner/005-striped-lighthouse/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-004",
@@ -60,7 +94,18 @@
       "primary_mismatch_codes": [
         "82"
       ],
-      "issue": "82号怪兽画成浅紫，但实笔82为较深紫；浅紫方向应先比较75，月亮35也需调色。"
+      "issue": "82号怪兽画成浅紫，但实笔82为较深紫；浅紫方向应先比较75，月亮35也需调色。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "82",
+          "35",
+          "23",
+          "68"
+        ],
+        "finished_image": "entries/beginner/007-moon-snack/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-005",
@@ -76,7 +121,19 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号背景画成深蓝，而实笔75为浅紫；35叶片及68壳的明度、饱和度也不匹配。"
+      "issue": "75号背景画成深蓝，而实笔75为浅紫；35叶片及68壳的明度、饱和度也不匹配。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "23",
+          "68",
+          "35",
+          "75",
+          "67"
+        ],
+        "finished_image": "entries/beginner/008-snail-leaf/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-006",
@@ -92,7 +149,19 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号夜空错误；9号桌面画得过艳，实笔为浅粉。"
+      "issue": "75号夜空错误；9号桌面画得过艳，实笔为浅粉。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "120",
+          "23",
+          "75",
+          "9",
+          "92"
+        ],
+        "finished_image": "entries/beginner/010-penguin-cocoa/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-007",
@@ -107,7 +176,18 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号夜空错误；9号云朵比实笔深艳，35号灯笼的黄绿倾向未表现。"
+      "issue": "75号夜空错误；9号云朵比实笔深艳，35号灯笼的黄绿倾向未表现。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "35",
+          "9",
+          "75"
+        ],
+        "finished_image": "entries/beginner/012-whale-lantern/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-008",
@@ -119,7 +199,17 @@
         "68"
       ],
       "primary_mismatch_codes": [],
-      "issue": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。"
+      "issue": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "23",
+          "35",
+          "68"
+        ],
+        "finished_image": "entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-009",
@@ -133,7 +223,19 @@
         "6"
       ],
       "primary_mismatch_codes": [],
-      "issue": "44号果肉画成荧光嫩绿，实笔更偏橄榄；6号背景实际偏洋红，而图为玫粉；52深蓝绿色应与外皮核对。"
+      "issue": "44号果肉画成荧光嫩绿，实笔更偏橄榄；6号背景实际偏洋红，而图为玫粉；52深蓝绿色应与外皮核对。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "44",
+          "52",
+          "92",
+          "23",
+          "6"
+        ],
+        "finished_image": "entries/intermediate/004-avocado-seesaw/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-010",
@@ -148,7 +250,18 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号背景画成深蓝紫，实笔为浅紫；35星星的纯亮黄也需调整。"
+      "issue": "75号背景画成深蓝紫，实笔为浅紫；35星星的纯亮黄也需调整。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "23",
+          "68",
+          "35",
+          "75"
+        ],
+        "finished_image": "entries/intermediate/006-catch-a-star/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-011",
@@ -161,7 +274,18 @@
         "9"
       ],
       "primary_mismatch_codes": [],
-      "issue": "9号袜子画成浓粉而实笔为浅粉；35太阳与袜子的黄绿倾向、68背景的饱和度需重新匹配。"
+      "issue": "9号袜子画成浓粉而实笔为浅粉；35太阳与袜子的黄绿倾向、68背景的饱和度需重新匹配。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "35",
+          "23",
+          "9"
+        ],
+        "finished_image": "entries/intermediate/009-cloud-laundry/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-012",
@@ -175,7 +299,19 @@
         "6"
       ],
       "primary_mismatch_codes": [],
-      "issue": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。"
+      "issue": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "35",
+          "44",
+          "23",
+          "6"
+        ],
+        "finished_image": "entries/intermediate/011-robot-flowerpot/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-013",
@@ -193,7 +329,19 @@
         "65",
         "37"
       ],
-      "issue": "58号鸟画成浅薄荷绿，实笔为较灰青绿；65天空被画成很浅冰蓝；37地面、嘴被画成浅纯黄。"
+      "issue": "58号鸟画成浅薄荷绿，实笔为较灰青绿；65天空被画成很浅冰蓝；37地面、嘴被画成浅纯黄。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "58",
+          "11",
+          "65",
+          "37",
+          "69"
+        ],
+        "finished_image": "entries/intermediate/013-windy-scarf-bird/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-014",
@@ -210,7 +358,19 @@
         "25",
         "143"
       ],
-      "issue": "25号钟身画成珊瑚粉，实笔近浅灰米；143钟铃画成亮薄荷蓝，实笔近浅青灰；WG3墙面也比色卡明显深。"
+      "issue": "25号钟身画成珊瑚粉，实笔近浅灰米；143钟铃画成亮薄荷蓝，实笔近浅青灰；WG3墙面也比色卡明显深。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "9",
+          "143",
+          "24",
+          "WG1",
+          "WG3"
+        ],
+        "finished_image": "entries/intermediate/014-grumpy-alarm-clock/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-015",
@@ -227,7 +387,20 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号路面和司机被画成深蓝；35车身、6天空的色相与实笔也有差异。"
+      "issue": "75号路面和司机被画成深蓝；35车身、6天空的色相与实笔也有差异。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "35",
+          "95",
+          "68",
+          "23",
+          "6",
+          "75"
+        ],
+        "finished_image": "entries/scene/015-toast-bus-stop/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-016",
@@ -246,7 +419,22 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号蓝墙错误；35桌面、6线轴、44补丁不能照当前艳度复现，31与35的分面需重新规划。"
+      "issue": "75号蓝墙错误；35桌面、6线轴、44补丁不能照当前艳度复现，31与35的分面需重新规划。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "23",
+          "35",
+          "6",
+          "75",
+          "44",
+          "31",
+          "WG7"
+        ],
+        "finished_image": "entries/scene/016-umbrella-patch-workshop/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-017",
@@ -263,7 +451,20 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。"
+      "issue": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "35",
+          "44",
+          "68",
+          "23",
+          "6",
+          "75"
+        ],
+        "finished_image": "entries/scene/017-pear-mail-delivery/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-018",
@@ -278,7 +479,20 @@
         "WG5"
       ],
       "primary_mismatch_codes": [],
-      "issue": "71号远山水纹偏纯蓝而实笔偏蓝紫；135号天空比色卡更粉，WG5码头灰度偏深。8号河马、63水面大色系较接近，不能据此认为全课已准。"
+      "issue": "71号远山水纹偏纯蓝而实笔偏蓝紫；135号天空比色卡更粉，WG5码头灰度偏深。8号河马、63水面大色系较接近，不能据此认为全课已准。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "8",
+          "63",
+          "135",
+          "2",
+          "71",
+          "WG5"
+        ],
+        "finished_image": "entries/scene/018-paper-boat-ferry/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-019",
@@ -296,7 +510,21 @@
       "primary_mismatch_codes": [
         "75"
       ],
-      "issue": "75号小屋和水壶画成蓝色，实笔为浅紫；44叶片、35角色、6番茄与背景也需调色。另发现并已修正区域表述：旧表把水壶列在68，步骤却用75；现统一旧配色下的水壶区域归75，实际新色仍待重配。"
+      "issue": "75号小屋和水壶画成蓝色，实笔为浅紫；44叶片、35角色、6番茄与背景也需调色。另发现并已修正区域表述：旧表把水壶列在68，步骤却用75；现统一旧配色下的水壶区域归75，实际新色仍待重配。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "23",
+          "68",
+          "35",
+          "44",
+          "52",
+          "6",
+          "75"
+        ],
+        "finished_image": "entries/scene/019-rooftop-tomato-garden/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-020",
@@ -315,7 +543,21 @@
         "82",
         "75"
       ],
-      "issue": "75号夜空、82号浅紫地面都分配错误；35星球画成纯亮黄，95饼干与支架色的用途也需按实际图核对。"
+      "issue": "75号夜空、82号浅紫地面都分配错误；35星球画成纯亮黄，95饼干与支架色的用途也需按实际图核对。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "95",
+          "35",
+          "68",
+          "23",
+          "82",
+          "75",
+          "6"
+        ],
+        "finished_image": "entries/scene/020-cookie-observatory/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-021",
@@ -334,7 +576,21 @@
         "75",
         "82"
       ],
-      "issue": "75号天空、82号浅紫角色错误；44草地和35主角的荧光感不符合色卡。上次修正色卡排列只解决了顺序，未解决笔号对应实色。"
+      "issue": "75号天空、82号浅紫角色错误；44草地和35主角的荧光感不符合色卡。上次修正色卡排列只解决了顺序，未解决笔号对应实色。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "23",
+          "35",
+          "6",
+          "44",
+          "75",
+          "82"
+        ],
+        "finished_image": "entries/scene/021-building-block-slide-park/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-022",
@@ -354,7 +610,22 @@
         "75",
         "82"
       ],
-      "issue": "75号夜空、82号浅紫帽子错误；44号绿物、6号雨棚、35号地面与实笔不一致。"
+      "issue": "75号夜空、82号浅紫帽子错误；44号绿物、6号雨棚、35号地面与实笔不一致。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "23",
+          "35",
+          "6",
+          "44",
+          "75",
+          "82",
+          "95"
+        ],
+        "finished_image": "entries/independent/022-lost-and-found-cart/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-023",
@@ -373,7 +644,21 @@
         "65",
         "25"
       ],
-      "issue": "25号摊主为珊瑚粉但实笔近浅灰米；65雪地被画得过浅、过蓝；69夜空需按实笔深靛蓝处理，2号车身偏玫红而非图中暖红。"
+      "issue": "25号摊主为珊瑚粉但实笔近浅灰米；65雪地被画得过浅、过蓝；69夜空需按实笔深靛蓝处理，2号车身偏玫红而非图中暖红。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "2",
+          "31",
+          "65",
+          "69",
+          "25",
+          "WG1",
+          "92"
+        ],
+        "finished_image": "entries/independent/023-snow-soup-cart/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-024",
@@ -393,7 +678,22 @@
         "143",
         "37"
       ],
-      "issue": "143号海水过鲜，37号书脊不应是浅纯黄；135号粉书脊比实笔深艳，WG3书架灰度也需重新匹配。"
+      "issue": "143号海水过鲜，37号书脊不应是浅纯黄；135号粉书脊比实笔深艳，WG3书架灰度也需重新匹配。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "143",
+          "WG9",
+          "8",
+          "24",
+          "37",
+          "135",
+          "46",
+          "WG3"
+        ],
+        "finished_image": "entries/independent/024-underwater-library/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-025",
@@ -416,7 +716,24 @@
         "82",
         "37"
       ],
-      "issue": "75号角色和门为蓝色、82号鸟为浅紫，均错误；37号衣服为奶油浅黄，实笔为黄绿色；35口袋、44叶片也需调色。表内35与37的衣服区域须分清。"
+      "issue": "75号角色和门为蓝色、82号鸟为浅紫，均错误；37号衣服为奶油浅黄，实笔为黄绿色；35口袋、44叶片也需调色。表内35与37的衣服区域须分清。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "35",
+          "68",
+          "23",
+          "6",
+          "44",
+          "52",
+          "75",
+          "82",
+          "31",
+          "37"
+        ],
+        "finished_image": "entries/independent/025-spring-in-a-pocket/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-026",
@@ -436,7 +753,22 @@
         "75",
         "82"
       ],
-      "issue": "75号蓝工具箱、82号浅紫风筝面错误；44号绿面、35号角色、6号另一角色的色相与饱和度需匹配。"
+      "issue": "75号蓝工具箱、82号浅紫风筝面错误；44号绿面、35号角色、6号另一角色的色相与饱和度需匹配。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "68",
+          "23",
+          "35",
+          "6",
+          "75",
+          "82",
+          "95",
+          "44"
+        ],
+        "finished_image": "entries/independent/026-kite-repair-ship/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-027",
@@ -458,7 +790,22 @@
         "25",
         "172"
       ],
-      "issue": "25号花槽为珊瑚粉、58角色为浅薄荷、172叶片为鲜绿、37帽与星花为浅黄，均与实笔不同；69夜空也需按深靛蓝处理。"
+      "issue": "25号花槽为珊瑚粉、58角色为浅薄荷、172叶片为鲜绿、37帽与星花为浅黄，均与实笔不同；69夜空也需按深靛蓝处理。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "69",
+          "WG5",
+          "37",
+          "58",
+          "25",
+          "11",
+          "172",
+          "92"
+        ],
+        "finished_image": "entries/independent/027-night-dream-gardener/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     },
     {
       "material_id": "S001-028",
@@ -478,7 +825,22 @@
         "75",
         "82"
       ],
-      "issue": "75号道路、82号浅紫建筑错误；44号植物、6号背景与35号公交车的颜色也需按色卡重设。"
+      "issue": "75号道路、82号浅紫建筑错误；44号植物、6号背景与35号公交车的颜色也需按色卡重设。",
+      "resolution": {
+        "status": "reviewed",
+        "palette": [
+          "6",
+          "68",
+          "35",
+          "23",
+          "75",
+          "82",
+          "44",
+          "95"
+        ],
+        "finished_image": "entries/independent/028-candy-wrapper-town-bus/reference/finished-v5-physical.png",
+        "revision_log": "docs/color-repair-2026-11-01.md"
+      }
     }
   ]
 }

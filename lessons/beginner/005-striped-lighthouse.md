@@ -1,6 +1,6 @@
 # S001-003｜粉色天空下的条纹灯塔 · D1基础大形
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 先修：能用铅笔轻画圆与方形；无需绘画经验。 本课为完整跟画，完成时间以正文为准；可分成起稿与上色两次。
 
@@ -10,7 +10,7 @@
 
 ## 成品参考
 
-![粉色天空下的条纹灯塔，AI生成参考](../../entries/beginner/005-striped-lighthouse/reference/finished.png)
+![粉色天空下的条纹灯塔，AI生成参考](../../entries/beginner/005-striped-lighthouse/reference/finished-v5-physical.png)
 
 成品参考与步骤图都是AI教学示意，不计为真实练习完成。颜色仅近似，实物以纸上试色为准；具体跟画以正文顺序为准。
 
@@ -20,10 +20,10 @@
 
 | 已有Touchmark学生36色色号 | 本次用途 |
 | --- | --- |
-| 9 Pale Pink | 天空 |
-| 68 Turquoise Blue | 海面与灯室 |
-| 35 Lemon Yellow | 沙岛 |
-| 23 Orange | 塔身两条色带和屋顶 |
+| 9 浅粉红 | 天空 |
+| 68 中等青蓝 | 海面与灯室 |
+| 35 偏黄绿的黄色 | 沙岛 |
+| 23 橙色 | 塔身两条色带和屋顶 |
 
 针管笔耐酒精性未知，统一先铅笔定位、上色、完全干透后勾线。高光和白色形状提前留纸白，不把132当不透明白色或无色混色笔，不用浅色反复覆盖深色。
 
@@ -33,7 +33,7 @@
 
 ## 六步跟画｜约25分钟
 
-![粉色天空下的条纹灯塔六步教学图，AI示意](../../entries/beginner/005-striped-lighthouse/reference/steps.png)
+![粉色天空下的条纹灯塔六步教学图，AI示意](../../entries/beginner/005-striped-lighthouse/reference/steps-v5-physical.png)
 
 按从左到右、从上到下阅读，灰色线视作铅笔。首格可能已展示完整浅色定位，可按标题分两步起稿；深色轮廓和眼嘴统一最后完成。原成品天空较鲜，教程只用已有9淡粉；可以保留实际试色的浅色效果，不必反复涂到与AI颜色相同。
 
@@ -72,3 +72,5 @@
 ## 来源
 
 成品参考和六步图由OpenAI内置imagegen生成，六步教学版式采用本系列[第一课](001-headphone-mushroom.md)。[生成提示词及检查说明](../../entries/beginner/005-striped-lighthouse/reference/generation-prompt.txt)；基础学习来源见[课程参考资料](../../docs/learning-references.md)。不要求过程拍照，实际完成后再登记，照片与用时可省略。
+
+[本次配色修订提示词与核对](../../entries/beginner/005-striped-lighthouse/reference/color-revision-v5.json)

@@ -1,6 +1,6 @@
 # S001-013｜风中的长围巾
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,11 +22,11 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 58 | Mint Green Light | 小鸟 |
-| 11 | Carmine | 围巾、脚与脸颊 |
-| 65 | Ice Blue | 大片天空 |
-| 37 | Pastel Yellow | 嘴与窄地面 |
-| 69 | Prussian Blue | 围巾条纹 |
+| 58 | 灰调青绿，非浅薄荷绿 | 小鸟 |
+| 11 | 红色 | 围巾、脚与脸颊 |
+| 65 | 蓝绿色，非很浅冰蓝 | 大片天空 |
+| 37 | 黄绿色，非奶油浅黄 | 嘴与窄地面 |
+| 69 | 深靛蓝 | 围巾条纹 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。更换配色时仍从本套已有色号中选择，保持主次关系，并更新本课色号记录。
 
@@ -40,7 +40,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 成品与递进示意
 
-![风中的长围巾递进步骤，AI示意](../../entries/intermediate/013-windy-scarf-bird/reference/steps.png)
+![风中的长围巾递进步骤，AI示意](../../entries/intermediate/013-windy-scarf-bird/reference/steps-v5-physical.png)
 
 从左到右、从上到下阅读。灰线表示铅笔，黑轮廓等颜色完全干透后再画；示意若提前出现少量五官，按正文延后。
 
@@ -54,7 +54,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 先画围住脖子的一圈，再接两条向右伸出的长带。两条边一起转弯，避免带宽突然变窄；围巾挡住脖子处擦掉后方线。
 
-### 03 薄荷小鸟
+### 03 灰调青绿小鸟
 
 58平涂头、翅膀和身体；围巾和嘴先空着。顺着大形排笔，不用画羽毛。
 
@@ -89,7 +89,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![风中的长围巾成品示例，AI生成](../../entries/intermediate/013-windy-scarf-bird/reference/finished.png)
+![风中的长围巾成品示例，AI生成](../../entries/intermediate/013-windy-scarf-bird/reference/finished-v5-physical.png)
 
 </details>
 
@@ -98,3 +98,5 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/intermediate/013-windy-scarf-bird/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/intermediate/013-windy-scarf-bird/reference/color-revision-v5.json)

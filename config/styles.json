@@ -41,7 +41,7 @@
         "per_stage": 7
       },
       "historical_topic_pool": "curriculum/beginner.json",
-      "course_status": "structure_ready_color_revision_required"
+      "course_status": "ready"
     }
   ],
   "extension_policy": "追加编号并保留旧风格；临时换风格不改变默认值；默认值仅在明确要求时切换",

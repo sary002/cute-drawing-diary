@@ -1,0 +1,61 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-021",
+  "palette": [
+    "68",
+    "23",
+    "35",
+    "6",
+    "44",
+    "75",
+    "82"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/scene/021-building-block-slide-park/reference/finished.png",
+      "output": "entries/scene/021-building-block-slide-park/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 滑梯 |\n| 23 | Orange | 梯子、太阳与树干 |\n| 35 | Lemon Yellow | 滑行主角 |\n| 6 | Vivid Pink | 顶部角色 |\n| 44 | Fresh Green | 地面与树冠 |\n| 75 | Dark Blue Light | 天空 |\n| 82 | Light Violet | 低处角色 |\nKeep continuous sloping slide connected to top platform and landing on ground; ladder on same platform.\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. SUN and rays must be code23 ORANGE, same orange as ladder/tree trunk, not yellowgreen. Rider35yellowgreen, sky75palelavender, lowcreature82deepreddishpurple,grass44olivegreen. Only correct sunanditsrays. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        },
+        {
+          "type": "retry-last",
+          "prompt": "Use case: precise-object-edit. Single input image is EDIT TARGET. Only code44 GRASS and TREECROWN must be MUTED YELLOWISH OLIVE GREEN #8A9D41, not vivid/fresh/grassgreen. Keep orange23sunandrays/ladder/trunk,75palelavenderbackground,82deepredpurplecreature andallothercolors andshapes. Preserve layout, panelcount, step sequence, early pencil-only stages, every numericcode, all unrelatedtext and all geometry. Output SAME illustration or sheet, never swatch card."
+        }
+      ],
+      "sha256": "a4a0395220bc9c79065b7cab95b17a445df3f7777fa453189ab3139f68d3ee9e"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/scene/021-building-block-slide-park/reference/steps.png",
+      "output": "entries/scene/021-building-block-slide-park/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 滑梯 |\n| 23 | Orange | 梯子、太阳与树干 |\n| 35 | Lemon Yellow | 滑行主角 |\n| 6 | Vivid Pink | 顶部角色 |\n| 44 | Fresh Green | 地面与树冠 |\n| 75 | Dark Blue Light | 天空 |\n| 82 | Light Violet | 低处角色 |\nKeep continuous sloping slide connected to top platform and landing on ground; ladder on same platform.\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-last",
+          "prompt": "Use case: precise-object-edit. Single input image is EDIT TARGET. Code44 GRASS and TREECROWN everywhere must be MUTED YELLOWISH OLIVE GREEN #8A9D41, not vivid/fresh/grassgreen. Code23 sunandallrays ORANGE like ladder/trunk. Preserve allothercolors particularly75palelavender and82deepredpurple. Preserve layout, panelcount, step sequence, early pencil-only stages, every numericcode, all unrelatedtext and all geometry. Output SAME illustration or sheet, never swatch card."
+        }
+      ],
+      "sha256": "8d96f79dbafcc625cd61c6cabec096d9ee189a85a09b23b6a22858bb20fc3139"
+    }
+  ],
+  "review": {
+    "slot": 21,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "44橄榄绿草树、23橙色太阳；75浅紫天与82深紫角色区分。",
+    "colorimetric_calibrated": false
+  }
+}

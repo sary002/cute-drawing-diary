@@ -10,7 +10,7 @@
       "68"
     ],
     "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-009",
@@ -25,7 +25,7 @@
       "6"
     ],
     "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-010",
@@ -39,7 +39,7 @@
       "75"
     ],
     "lesson_path": "lessons/intermediate/006-catch-a-star.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-011",
@@ -53,7 +53,7 @@
       "9"
     ],
     "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-012",
@@ -68,7 +68,7 @@
       "6"
     ],
     "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-013",
@@ -83,7 +83,7 @@
       "69"
     ],
     "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-014",
@@ -91,13 +91,13 @@
     "title": "气鼓鼓的闹钟",
     "goal": "用眼皮、嘴与倾斜姿态组织明确情绪",
     "colors": [
-      "25",
+      "9",
       "143",
       "24",
       "WG1",
       "WG3"
     ],
     "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   }
 ]

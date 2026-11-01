@@ -11,7 +11,7 @@
       "35"
     ],
     "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-002",
@@ -26,7 +26,7 @@
       "11"
     ],
     "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-003",
@@ -40,7 +40,7 @@
       "23"
     ],
     "lesson_path": "lessons/beginner/005-striped-lighthouse.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-004",
@@ -54,7 +54,7 @@
       "68"
     ],
     "lesson_path": "lessons/beginner/007-moon-snack.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-005",
@@ -69,7 +69,7 @@
       "67"
     ],
     "lesson_path": "lessons/beginner/008-snail-leaf.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-006",
@@ -84,7 +84,7 @@
       "92"
     ],
     "lesson_path": "lessons/beginner/010-penguin-cocoa.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   },
   {
     "material_id": "S001-007",
@@ -98,6 +98,6 @@
       "75"
     ],
     "lesson_path": "lessons/beginner/012-whale-lantern.md",
-    "color_review_status": "requires_revision"
+    "color_review_status": "reviewed"
   }
 ]

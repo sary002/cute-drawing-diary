@@ -1,0 +1,51 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-013",
+  "palette": [
+    "58",
+    "11",
+    "65",
+    "37",
+    "69"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/013-windy-scarf-bird/reference/finished.png",
+      "output": "entries/intermediate/013-windy-scarf-bird/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n58 = 灰调青绿，非浅薄荷绿（照片观察）\n11 = 红色（照片观察）\n65 = 蓝绿色，非很浅冰蓝（照片观察）\n37 = 黄绿色，非奶油浅黄（照片观察）\n69 = 深靛蓝（照片观察）\nColor-to-region assignment from lesson:\n| 58 | Mint Green Light | 小鸟 |\n| 11 | Carmine | 围巾、脚与脸颊 |\n| 65 | Ice Blue | 大片天空 |\n| 37 | Pastel Yellow | 嘴与窄地面 |\n| 69 | Prussian Blue | 围巾条纹 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 is target. Image2 is physical hand-painted swatch reference only. Strictly REPLACE the colored fills listed below, including ALL panel fills and color chips, with these hues. Previous edit is still too vivid or wrong hue. Approximate digital anchors clarify desired relative hue; they are not measurements:\n58: medium muted dusty teal #77A59F, not pale mint\n65: medium blue-green #489FAF, not pale ice blue\n37: medium yellow-green #B4B331, never cream pastel yellow\nKeep every other fill, all geometry, composition, all numeric codes, typography and step sequence. If instructional sheet, replace misleading Chinese color adjectives:35=偏黄绿的黄，37=黄绿，75=浅薰衣草紫，82=深紫，25=浅灰米，58=灰调青绿，65=蓝绿，143=极浅青灰，172=极浅灰绿. Remove 柠檬黄/薄荷小鸟/珊瑚粉/深蓝 when those refer to these codes. In every panel: early pencil remains uncolored; final only black contours. Preserve paperwhite shapes. No gradient, no added objects, no layout changes. Umbrella if present: keep straight rod+straight grip on canopy's vertical center axis."
+        }
+      ],
+      "sha256": "d2ef6071ee9be02d61d67214964efec3c6fd64b3894be600a078d6715a609854"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/013-windy-scarf-bird/reference/steps.png",
+      "output": "entries/intermediate/013-windy-scarf-bird/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n58 = 灰调青绿，非浅薄荷绿（照片观察）\n11 = 红色（照片观察）\n65 = 蓝绿色，非很浅冰蓝（照片观察）\n37 = 黄绿色，非奶油浅黄（照片观察）\n69 = 深靛蓝（照片观察）\nColor-to-region assignment from lesson:\n| 58 | Mint Green Light | 小鸟 |\n| 11 | Carmine | 围巾、脚与脸颊 |\n| 65 | Ice Blue | 大片天空 |\n| 37 | Pastel Yellow | 嘴与窄地面 |\n| 69 | Prussian Blue | 围巾条纹 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 is target. Image2 is physical hand-painted swatch reference only. Strictly REPLACE the colored fills listed below, including ALL panel fills and color chips, with these hues. Previous edit is still too vivid or wrong hue. Approximate digital anchors clarify desired relative hue; they are not measurements:\n58: medium muted dusty teal #77A59F, not pale mint\n65: medium blue-green #489FAF, not pale ice blue\n37: medium yellow-green #B4B331, never cream pastel yellow\nKeep every other fill, all geometry, composition, all numeric codes, typography and step sequence. If instructional sheet, replace misleading Chinese color adjectives:35=偏黄绿的黄，37=黄绿，75=浅薰衣草紫，82=深紫，25=浅灰米，58=灰调青绿，65=蓝绿，143=极浅青灰，172=极浅灰绿. Remove 柠檬黄/薄荷小鸟/珊瑚粉/深蓝 when those refer to these codes. In every panel: early pencil remains uncolored; final only black contours. Preserve paperwhite shapes. No gradient, no added objects, no layout changes. Umbrella if present: keep straight rod+straight grip on canopy's vertical center axis."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. Only replace panel03 heading with EXACT text「灰调青绿小鸟」. Keep all fillsandothertext unchanged. No 薄荷小鸟 phrase. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        }
+      ],
+      "sha256": "f82c0f4ef7a76510bcfb1093a2a42959f4f5d213f3c7fc1bc3ccf26d6c545929"
+    }
+  ],
+  "review": {
+    "slot": 13,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "58灰调青绿鸟、65蓝绿天、37黄绿地；图内薄荷色名删除。",
+    "colorimetric_calibrated": false
+  }
+}

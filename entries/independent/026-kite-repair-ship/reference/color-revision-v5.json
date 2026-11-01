@@ -1,0 +1,58 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-026",
+  "palette": [
+    "68",
+    "23",
+    "35",
+    "6",
+    "75",
+    "82",
+    "95",
+    "44"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/independent/026-kite-repair-ship/reference/finished.png",
+      "output": "entries/independent/026-kite-repair-ship/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\n95 = 赭棕、黄棕（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 水面 |\n| 23 | Orange | 船体与风筝尾 |\n| 35 | Lemon Yellow | 角色 |\n| 6 | Vivid Pink | 另一角色 |\n| 75 | Dark Blue Light | 远处船内小物 |\n| 82 | Light Violet | 风筝一面 |\n| 95 | Burnt Sienna | 木纹暖色 |\n| 44 | Fresh Green | 风筝另一面 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Kite canopy has TWO color families ONLY: one main triangular face44 MUTED OLIVE GREEN #8A9D41, other main triangular face82 DEEP REDDISH PURPLE #793D98. Keep ribs/patch/tether actualrepaircontact. TOOLBOX75 PALE DUSTY LAVENDER #B7A0C1, never blue. Sea68cyanblue;boatandtail23orange;characters35mutedyellowgreen #C3C21B and6magenta; wood95ochrebrown;cloudswaterglintspaperwhite. All palettechips and allpanels same assignment. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        }
+      ],
+      "sha256": "860fa575e80b53d28a165160dda23e5fb69598595e6a0dca4d60d46f0526f067"
+    },
+    {
+      "kind": "planning",
+      "edit_target": "entries/independent/026-kite-repair-ship/reference/planning.png",
+      "output": "entries/independent/026-kite-repair-ship/reference/planning-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n68 = 中等青蓝（照片观察）\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n6 = 洋红、偏紫的亮粉（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\n95 = 赭棕、黄棕（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\nColor-to-region assignment from lesson:\n| 68 | Turquoise Blue | 水面 |\n| 23 | Orange | 船体与风筝尾 |\n| 35 | Lemon Yellow | 角色 |\n| 6 | Vivid Pink | 另一角色 |\n| 75 | Dark Blue Light | 远处船内小物 |\n| 82 | Light Violet | 风筝一面 |\n| 95 | Burnt Sienna | 木纹暖色 |\n| 44 | Fresh Green | 风筝另一面 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Kite canopy has TWO color families ONLY: one main triangular face44 MUTED OLIVE GREEN #8A9D41, other main triangular face82 DEEP REDDISH PURPLE #793D98. Keep ribs/patch/tether actualrepaircontact. TOOLBOX75 PALE DUSTY LAVENDER #B7A0C1, never blue. Sea68cyanblue;boatandtail23orange;characters35mutedyellowgreen #C3C21B and6magenta; wood95ochrebrown;cloudswaterglintspaperwhite. All palettechips and allpanels same assignment. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        }
+      ],
+      "sha256": "5f10675e8f72242853d83a1be879927b0def4979fd056305c8c4bb973be4cb64"
+    }
+  ],
+  "review": {
+    "slot": 26,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "44橄榄绿与82深紫风筝面；75浅紫工具箱；修理接触保留。",
+    "colorimetric_calibrated": false
+  }
+}

@@ -1,6 +1,6 @@
 # S001-027｜夜班种梦员
 
-> **配色待校正：** 本课成品与教学图尚未通过实笔色卡核对，图内色号、色名和填色不能直接作为用笔依据。造型步骤保留；问题详见[36色色卡与28课审查](../../docs/color-audit-2026-11-01.md)。
+> **配色已修订：** 成品、教学图与正文按实涂色卡的相对色相重新配套；浅色以同纸单层试色为准，屏幕图不作精确色值。旧图只作历史留存。
 
 [全部教案](../README.md) · [本阶段](README.md) · [S001风格](../../styles/001-playful-color-block.md)
 
@@ -22,14 +22,14 @@
 
 | 色号 | 本套色名 | 计划区域 |
 | --- | --- | --- |
-| 69 | Prussian Blue | 夜空 |
-| WG5 | Warm Grey 5 | 挂布 |
-| 37 | Pastel Yellow | 帽子与星花 |
-| 58 | Mint Green Light | 角色 |
-| 25 | Salmon Pink | 花槽 |
-| 11 | Carmine | 焦点红花 |
-| 172 | Spectrum Green | 叶与茎 |
-| 92 | Chocolate | 泥土与水壶 |
+| 69 | 深靛蓝 | 夜空 |
+| WG5 | 浅暖灰、灰米调 | 挂布 |
+| 37 | 黄绿色，非奶油浅黄 | 帽子与星花 |
+| 58 | 灰调青绿，非浅薄荷绿 | 角色 |
+| 25 | 很浅的灰米色、灰肤色 | 花槽 |
+| 11 | 红色 | 焦点红花 |
+| 172 | 极浅灰绿 | 叶与茎 |
+| 92 | 深棕 | 泥土与水壶 |
 
 AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅只允许在完全干后小面积轻叠，不依赖浅色覆盖深色。D4可自行替换为本套已有色号并记录，保持主次和冷暖关系，单幅不超过10色。
 
@@ -53,7 +53,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 
 ## 构图与结构提示
 
-![夜班种梦员自主创作提示，AI示意](../../entries/independent/027-night-dream-gardener/reference/planning.png)
+![夜班种梦员自主创作提示，AI示意](../../entries/independent/027-night-dream-gardener/reference/planning-v5-physical.png)
 
 四格分别为两版构图、正式铅笔稿、配色留白与局部结构检查；它们对应下方多个操作环节，不代表整幅只需四步。
 
@@ -118,7 +118,7 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 <details>
 <summary>成品示例：完成自己的草图后再展开</summary>
 
-![夜班种梦员成品示例，AI生成](../../entries/independent/027-night-dream-gardener/reference/finished.png)
+![夜班种梦员成品示例，AI生成](../../entries/independent/027-night-dream-gardener/reference/finished-v5-physical.png)
 
 </details>
 
@@ -127,3 +127,5 @@ AI图颜色仅近似实物。先在废纸试色，以此表为准；同色深浅
 成品与教学提示图为AI生成示意，使用OpenAI内置imagegen；不计实际手绘完成。
 
 [本课提示词与检查说明](../../entries/independent/027-night-dream-gardener/reference/generation-prompts.json) · [基础学习资料](../../docs/learning-references.md) · [完整进阶规则](../../docs/learning-system.md)
+
+[本次配色修订提示词与核对](../../entries/independent/027-night-dream-gardener/reference/color-revision-v5.json)

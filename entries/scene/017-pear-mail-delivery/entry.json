@@ -8,7 +8,7 @@
   "course_slot": 17,
   "course_role": "mainline",
   "teaching_mode": "supported",
-  "tools_profile": "touchmark-student-36-v2",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "通过朝向与高低位置形成角色间的信息传递",
   "marker_colors": [
     "35",
@@ -19,18 +19,18 @@
     "75"
   ],
   "target_minutes": 65,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/steps.png",
+      "path": "reference/steps-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -48,11 +48,12 @@
     "metrics": []
   },
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

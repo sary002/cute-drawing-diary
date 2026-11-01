@@ -1,0 +1,47 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-002",
+  "palette": [
+    "24",
+    "37",
+    "92",
+    "41",
+    "11"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/beginner/002-acorn-squirrel/reference/finished.png",
+      "output": "entries/beginner/002-acorn-squirrel/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n24 = 偏赭的金橙、琥珀色（照片观察）\n37 = 黄绿色，非奶油浅黄（照片观察）\n92 = 深棕（照片观察）\n41 = 较深橄榄绿（照片观察）\n11 = 红色（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 区域 |\n| 24 Marigold | 松鼠头、身体、两只爪子和脚 |\n| 37 Pastel Yellow | 橡果身体、口鼻与耳内小块 |\n| 92 Chocolate | 橡果帽、短柄与大尾巴 |\n| 41 Olive Green | 下方地面 |\n| 11 Carmine | 背景 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Code37 acorn, muzzle and inner ears are medium YELLOW-GREEN like #B4B331, NOT light cream/yellow. Code24 body ochre amber #CB8F24, NOT bright yellow. Code92 deep brown #654031."
+        }
+      ],
+      "sha256": "a93b9bde0b483c41c4e5c87eb0bba49e90c16e29a80339437526939300212343"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/beginner/002-acorn-squirrel/reference/steps.png",
+      "output": "entries/beginner/002-acorn-squirrel/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n24 = 偏赭的金橙、琥珀色（照片观察）\n37 = 黄绿色，非奶油浅黄（照片观察）\n92 = 深棕（照片观察）\n41 = 较深橄榄绿（照片观察）\n11 = 红色（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 区域 |\n| 24 Marigold | 松鼠头、身体、两只爪子和脚 |\n| 37 Pastel Yellow | 橡果身体、口鼻与耳内小块 |\n| 92 Chocolate | 橡果帽、短柄与大尾巴 |\n| 41 Olive Green | 下方地面 |\n| 11 Carmine | 背景 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Code37 acorn, muzzle and inner ears are medium YELLOW-GREEN like #B4B331, NOT light cream/yellow. Code24 body ochre amber #CB8F24, NOT bright yellow. Code92 deep brown #654031."
+        }
+      ],
+      "sha256": "cb234df9bec2bf7c0818ce72cf2cf8b6edabf508cc1997d690a653c6561d8506"
+    }
+  ],
+  "review": {
+    "slot": 2,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "24赭金橙松鼠、37黄绿橡果与92深棕尾巴；遮挡保留。",
+    "colorimetric_calibrated": false
+  }
+}

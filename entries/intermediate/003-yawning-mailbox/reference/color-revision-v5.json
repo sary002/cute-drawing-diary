@@ -1,0 +1,49 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-008",
+  "palette": [
+    "23",
+    "35",
+    "68"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/intermediate/003-yawning-mailbox/reference/finished.png",
+      "output": "entries/intermediate/003-yawning-mailbox/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n68 = 中等青蓝（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 23 Orange | 邮筒、脚与侧旗杆 |\n| 35 Lemon Yellow | 背景 |\n| 68 Turquoise Blue | 地面、旗面和信封翻盖 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 target, image2 physical swatches only. Code35 all assigned regions and top palette chips must be muted yellow-green yellow #C3C21B, NOT pure yellow or lemon. Label35偏黄绿的黄. Keep other colors, all shapes, layout, codes and instruction unchanged. Apply consistently to EVERY progression panel if present; early pencil stays pencil. No other changes."
+        },
+        {
+          "type": "retry-final",
+          "prompt": "Use case: precise-object-edit. ONLY ONE INPUT: the illustration or instructional image to EDIT. Output the SAME illustration/sheet with these targeted corrections. Never output a physical marker card. Restore the yawning orange mailbox composition exactly. Color35 background muted yellow-green #C3C21B. Mailbox23 orange, ground/flag/envelope flap68 mediumcyanblue. Envelopewhite, outlinesblack. No swatch cards, no photo, no instructional sheet. Preserve composition, shapes, marker texture and white reserved areas. No gradients. Do not add labels to finished illustration."
+        }
+      ],
+      "sha256": "94777b7c992a5b2b0ed009cde52b909c62d1e7288c973bc8a6715d0611c9e217"
+    },
+    {
+      "kind": "steps",
+      "edit_target": "entries/intermediate/003-yawning-mailbox/reference/steps.png",
+      "output": "entries/intermediate/003-yawning-mailbox/reference/steps-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n23 = 橙色（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n68 = 中等青蓝（照片观察）\nColor-to-region assignment from lesson:\n| 已有Touchmark学生36色色号 | 本次用途 |\n| 23 Orange | 邮筒、脚与侧旗杆 |\n| 35 Lemon Yellow | 背景 |\n| 68 Turquoise Blue | 地面、旗面和信封翻盖 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 target, image2 physical swatches only. Code35 all assigned regions and top palette chips must be muted yellow-green yellow #C3C21B, NOT pure yellow or lemon. Label35偏黄绿的黄. Keep other colors, all shapes, layout, codes and instruction unchanged. Apply consistently to EVERY progression panel if present; early pencil stays pencil. No other changes."
+        }
+      ],
+      "sha256": "e8bd89494109324992fa4b73ff22877f57677ca5e422ee872e370b105c3a61b1"
+    }
+  ],
+  "review": {
+    "slot": 8,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "35黄绿背景；成品已排除错误色卡输出，恢复邮筒。",
+    "colorimetric_calibrated": false
+  }
+}

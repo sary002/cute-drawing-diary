@@ -3,7 +3,7 @@
   "slug": "yawning-mailbox",
   "title": "打哈欠的邮筒",
   "stage": "intermediate",
-  "tools_profile": "touchmark-student-36-v1",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "用眼皮与嘴型把情绪表现清楚",
   "marker_colors": [
     "23",
@@ -11,18 +11,18 @@
     "68"
   ],
   "target_minutes": 45,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，S001童趣色块手绘示意；配色以教案与试色为准"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/steps.png",
+      "path": "reference/steps-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，竖版两列六步教学图；先上色、干透后勾线"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -45,11 +45,12 @@
   "course_slot": 8,
   "course_role": "mainline",
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }

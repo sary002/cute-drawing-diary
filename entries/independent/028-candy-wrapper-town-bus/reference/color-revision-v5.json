@@ -1,0 +1,62 @@
+{
+  "method": "OpenAI内置imagegen",
+  "supporting_reference": "same-set physical hand-painted marker swatch photo, kept private",
+  "material_id": "S001-028",
+  "palette": [
+    "6",
+    "68",
+    "35",
+    "23",
+    "75",
+    "82",
+    "44",
+    "95"
+  ],
+  "jobs": [
+    {
+      "kind": "finished",
+      "edit_target": "entries/independent/028-candy-wrapper-town-bus/reference/finished.png",
+      "output": "entries/independent/028-candy-wrapper-town-bus/reference/finished-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n6 = 洋红、偏紫的亮粉（照片观察）\n68 = 中等青蓝（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n23 = 橙色（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n95 = 赭棕、黄棕（照片观察）\nColor-to-region assignment from lesson:\n| 6 | Vivid Pink | 背景与部分建筑 |\n| 68 | Turquoise Blue | 车窗与建筑 |\n| 35 | Lemon Yellow | 公交车 |\n| 23 | Orange | 屋顶或门 |\n| 75 | Dark Blue Light | 道路 |\n| 82 | Light Violet | 部分建筑 |\n| 44 | Fresh Green | 植物 |\n| 95 | Burnt Sienna | 少量暖色细节 |\n\nAsset is FINISHED ILLUSTRATION. No added text or labels.",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Teapotbuilding82 DEEP REDDISH PURPLE #793D98, NEVER lavender. ROAD75 PALE DUSTY LAVENDER #B7A0C1, NEVER deep purple. Skyandpassenger6magenta;bus35mutedyellowgreen #C3C21B;windows/leftbuilding68cyanblue;doors/roofs23orange;plants44olive #8A9D41;warmdetails95ochrebrown. Clouds/headlights/windowglints/roaddashespaperwhite. If planning sheet, panels01 A/B and02 formalpencildraft must be PENCIL ONLY; panel03 fullcolor,04 coloredwindowandpassengercontactzoom. Preserve scaleandframeinfrontofpassengers. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        }
+      ],
+      "sha256": "80e422d6d6c5d603e1717bdc31890b6816b035375e2fae181e9f9520f607f616"
+    },
+    {
+      "kind": "planning",
+      "edit_target": "entries/independent/028-candy-wrapper-town-bus/reference/planning.png",
+      "output": "entries/independent/028-candy-wrapper-town-bus/reference/planning-v5-physical.png",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target. Image2 is supporting PHYSICAL marker swatches: use ONLY its handwritten hand-painted swatches as hue/value evidence; ignore printed instructions and all photographic background. Correct every colored fill to its specified marker code, not just labels. Preserve subject, composition, poses, geometry, step sequence, black contours and marker stroke texture. Flat single-marker blocks, no invented gradients or opaque paint. White objects stay reserved paper. Existing incorrect English color names and misleading color adjectives must be replaced by the actual Chinese descriptions below. Number codes stay unchanged except clock25 becomes9. Do not keep neon hues when actual swatch is muted/pale. All colors permitted:\n6 = 洋红、偏紫的亮粉（照片观察）\n68 = 中等青蓝（照片观察）\n35 = 偏黄绿的黄色（照片观察）\n23 = 橙色（照片观察）\n75 = 浅薰衣草紫（照片观察）\n82 = 较深紫色（照片观察）\n44 = 偏黄的橄榄绿（照片观察）\n95 = 赭棕、黄棕（照片观察）\nColor-to-region assignment from lesson:\n| 6 | Vivid Pink | 背景与部分建筑 |\n| 68 | Turquoise Blue | 车窗与建筑 |\n| 35 | Lemon Yellow | 公交车 |\n| 23 | Orange | 屋顶或门 |\n| 75 | Dark Blue Light | 道路 |\n| 82 | Light Violet | 部分建筑 |\n| 44 | Fresh Green | 植物 |\n| 95 | Burnt Sienna | 少量暖色细节 |\n\nAsset is Chinese instructional sheet. Preserve exact panel count/layout and progressive pencil/partial-color/final-black stages. Correct fills in EVERY panel and top palette chips, all in-image Chinese color words, code labels and numerical instructions to match the stated palette. Very pale markers must stay very pale, particularly143,172,25,135,WG1,WG3. Do NOT keep darkgray WG3 or mint143. Retain non-color text. Fill black feet/details in final step when stated; previous stages pencil. Footer: AI教学示意｜先上色，干透后勾线。",
+      "refinement_prompts": [
+        {
+          "type": "retry",
+          "prompt": "Use case: precise-object-edit. Image1 edit target. Image2 physical marker swatches ONLY. Strictly replace ALL fills for these codes, in finished composition AND every existing planning panel or step. Previous hues still incorrect. Approximate digital anchors clarify relative hue, not measured physical values:\n35: muted yellow-green yellow #C3C21B, not pure lemon\n75: PALE DUSTY LAVENDER #B7A0C1, low saturation, reddish lavender; NEVER blue/indigo/periwinkle\n82: DEEP REDDISH PURPLE #793D98, never lavender and never blue-purple\nKeep all other fills, typography, panel count, exact numeric codes, geometry, expressions, black outlines and white reserved shapes unchanged. Correct misleading Chinese color words to 35偏黄绿的黄、37黄绿、75浅薰衣草紫、82深紫、25浅灰米、143极浅青灰、172极浅灰绿、58灰调青绿. NEVER use cream for37, coral for25, vividmint for143/172, blue for75, lavender for82. Preserve early pencil-only stages. If pocket: sewn shirt pocket with placket/buttons; NOT bowl. If soup bowl: elliptical opening and white curved wall, hands outside. If kite repair: preserve tool/patch contact and main tether. If gardener: stemline stops behind hand, roots hidden by planter rim. No added objects or gradients."
+        },
+        {
+          "type": "retry-d4",
+          "prompt": "Use case: precise-object-edit. SINGLE INPUT is the EDIT TARGET illustration or four-panel instructional sheet. Correct colors to this exact region palette, overriding the previous wrong fills AND wrong numerical labels. Teapotbuilding82 DEEP REDDISH PURPLE #793D98, NEVER lavender. ROAD75 PALE DUSTY LAVENDER #B7A0C1, NEVER deep purple. Skyandpassenger6magenta;bus35mutedyellowgreen #C3C21B;windows/leftbuilding68cyanblue;doors/roofs23orange;plants44olive #8A9D41;warmdetails95ochrebrown. Clouds/headlights/windowglints/roaddashespaperwhite. If planning sheet, panels01 A/B and02 formalpencildraft must be PENCIL ONLY; panel03 fullcolor,04 coloredwindowandpassengercontactzoom. Preserve scaleandframeinfrontofpassengers. Preserve all shapes, composition, panelcount, unrelatedChineseinstructions, outlines and markertexture. Uniform flat marker fills. Do NOT add any swatch-photo or newobjects. Output same asset with corrected regional colors."
+        },
+        {
+          "type": "retry-pencil",
+          "prompt": "Use case: precise-object-edit. Single input EDIT TARGET four-panel Chinese tutorial. ONLY remove ALL COLORED FILLS inside upper two panels01 and02 (including both A/B sketches within01). Convert those illustrations to WHITE PAPER with LIGHT GRAY PENCIL LINES ONLY. No colored dog spots, no colored hats, no colored buildings, no blue sky, no fills at all in upper two illustrations. Keep all upper panel typography, labels and headers exactly as they are. DO NOT CHANGE ANY PIXEL COLORS OR CONTENT IN LOWER PANELS03 AND04, bottompalette or footer. Preserve four-panel layout and all shapes. This is a localized removal of premature fill in early pencil stages. Do not recolor lower examples."
+        }
+      ],
+      "sha256": "3c8e71efce06a4a18314cd62d5ef2830a56465f19b1f4cd5311d1a194ec9e368"
+    }
+  ],
+  "review": {
+    "slot": 28,
+    "passed": true,
+    "method": "manual visual review of finished image and instructional sheet, followed by region/text reconciliation",
+    "note": "82深紫茶壶屋、75浅紫路；公交与乘客框前后关系保留。",
+    "colorimetric_calibrated": false
+  }
+}

@@ -8,7 +8,7 @@
   "course_slot": 24,
   "course_role": "mainline",
   "teaching_mode": "independent",
-  "tools_profile": "touchmark-student-36-v2",
+  "tools_profile": "touchmark-student-36-v3",
   "goal": "自主组织空间、角色关系与重复形状节奏",
   "marker_colors": [
     "143",
@@ -21,18 +21,18 @@
     "WG3"
   ],
   "target_minutes": 95,
-  "lesson_status": "draft",
+  "lesson_status": "ready",
   "lesson_path": "lessons/independent/024-underwater-library.md",
   "references": [
     {
-      "path": "reference/finished.png",
+      "path": "reference/finished-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，当前已确认S001成品示意"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     },
     {
-      "path": "reference/planning.png",
+      "path": "reference/planning-v5-physical.png",
       "origin": "ai_generated",
-      "method": "OpenAI内置imagegen，阶段对应教学示意；正文说明操作顺序"
+      "method": "OpenAI内置imagegen；实涂色卡相对色相校正版本，非色度校准"
     }
   ],
   "practice": {
@@ -50,11 +50,12 @@
     "metrics": []
   },
   "color_review": {
-    "status": "requires_revision",
-    "audit_path": "docs/color-audit-2026-11-01.md",
+    "status": "reviewed",
     "based_on_tools_profile": "touchmark-student-36-v3",
-    "issues": "143号海水过鲜，37号书脊不应是浅纯黄；135号粉书脊比实笔深艳，WG3书架灰度也需重新匹配。",
-    "structural_lesson_status": "ready",
-    "previous_lesson_status": "ready"
+    "reviewed_on": "2026-11-01",
+    "method": "finished and instruction image visual comparison plus region/code/text reconciliation",
+    "colorimetric_calibrated": false,
+    "audit_path": "docs/color-repair-2026-11-01.md",
+    "limitations": "照片相对色相核对；浅色先同纸试色；非精确色值或实笔画作验证"
   }
 }
