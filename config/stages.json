@@ -3,7 +3,7 @@
     "id": "beginner",
     "name": "初级·可爱小动物",
     "status": "active",
-    "tools_profile": "touchmark-student-36-v1",
+    "tools_profile": "touchmark-student-36-v2",
     "focus": [
       "基本形状组合",
       "线条控制",
@@ -27,7 +27,7 @@
     "id": "intermediate",
     "name": "进阶·表情、动作与体积",
     "status": "proposed",
-    "tools_profile": "touchmark-student-36-v1",
+    "tools_profile": "touchmark-student-36-v2",
     "focus": [
       "同一动物不同表情与姿势",
       "同色叠一层阴影",
