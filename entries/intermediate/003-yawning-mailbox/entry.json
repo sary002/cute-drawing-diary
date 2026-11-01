@@ -11,7 +11,7 @@
     "68"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
   "references": [
     {
@@ -43,5 +43,13 @@
   "teaching_mode": "supported",
   "material_id": "S001-008",
   "course_slot": 8,
-  "course_role": "mainline"
+  "course_role": "mainline",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

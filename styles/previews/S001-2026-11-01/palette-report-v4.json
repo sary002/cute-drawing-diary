@@ -222,5 +222,7 @@
       "before_count": 0,
       "after_count": 1
     }
-  ]
+  ],
+  "status": "superseded_unverified_physical_colors",
+  "current_audit": "docs/color-audit-2026-11-01.md"
 }

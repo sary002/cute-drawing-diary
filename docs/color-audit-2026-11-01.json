@@ -1,0 +1,484 @@
+{
+  "status": "audit_complete_images_not_recolored",
+  "reviewed_lessons": 28,
+  "reviewed_finished_images": 28,
+  "reviewed_instruction_images": 28,
+  "basis": "manual comparison with same-set physical swatch photo; not colorimetric measurement",
+  "rows": [
+    {
+      "material_id": "S001-001",
+      "title": "戴耳机的小蘑菇",
+      "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
+      "planned_colors": [
+        "23",
+        "68",
+        "9",
+        "35"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。"
+    },
+    {
+      "material_id": "S001-002",
+      "title": "松鼠抱橡果",
+      "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
+      "planned_colors": [
+        "24",
+        "37",
+        "92",
+        "41",
+        "11"
+      ],
+      "primary_mismatch_codes": [
+        "37"
+      ],
+      "issue": "37被用作奶油黄橡果，色卡为黄绿色；24松鼠画成亮黄而色卡更偏赭金橙。"
+    },
+    {
+      "material_id": "S001-003",
+      "title": "粉色天空下的条纹灯塔",
+      "lesson_path": "lessons/beginner/005-striped-lighthouse.md",
+      "planned_colors": [
+        "9",
+        "68",
+        "35",
+        "23"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "9号天空比实笔浅粉明显更饱和；35沙岛偏纯黄，68海水过亮，需按实色重新定深浅。"
+    },
+    {
+      "material_id": "S001-004",
+      "title": "偷吃月亮",
+      "lesson_path": "lessons/beginner/007-moon-snack.md",
+      "planned_colors": [
+        "82",
+        "35",
+        "23",
+        "68"
+      ],
+      "primary_mismatch_codes": [
+        "82"
+      ],
+      "issue": "82号怪兽画成浅紫，但实笔82为较深紫；浅紫方向应先比较75，月亮35也需调色。"
+    },
+    {
+      "material_id": "S001-005",
+      "title": "雨天的蜗牛",
+      "lesson_path": "lessons/beginner/008-snail-leaf.md",
+      "planned_colors": [
+        "23",
+        "68",
+        "35",
+        "75",
+        "67"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号背景画成深蓝，而实笔75为浅紫；35叶片及68壳的明度、饱和度也不匹配。"
+    },
+    {
+      "material_id": "S001-006",
+      "title": "企鹅的热可可",
+      "lesson_path": "lessons/beginner/010-penguin-cocoa.md",
+      "planned_colors": [
+        "120",
+        "23",
+        "75",
+        "9",
+        "92"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号夜空错误；9号桌面画得过艳，实笔为浅粉。"
+    },
+    {
+      "material_id": "S001-007",
+      "title": "鲸鱼的晚安灯",
+      "lesson_path": "lessons/beginner/012-whale-lantern.md",
+      "planned_colors": [
+        "68",
+        "35",
+        "9",
+        "75"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号夜空错误；9号云朵比实笔深艳，35号灯笼的黄绿倾向未表现。"
+    },
+    {
+      "material_id": "S001-008",
+      "title": "打哈欠的邮筒",
+      "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
+      "planned_colors": [
+        "23",
+        "35",
+        "68"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。"
+    },
+    {
+      "material_id": "S001-009",
+      "title": "鳄梨和果核玩跷跷板",
+      "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
+      "planned_colors": [
+        "44",
+        "52",
+        "92",
+        "23",
+        "6"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "44号果肉画成荧光嫩绿，实笔更偏橄榄；6号背景实际偏洋红，而图为玫粉；52深蓝绿色应与外皮核对。"
+    },
+    {
+      "material_id": "S001-010",
+      "title": "接住一颗星星",
+      "lesson_path": "lessons/intermediate/006-catch-a-star.md",
+      "planned_colors": [
+        "23",
+        "68",
+        "35",
+        "75"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号背景画成深蓝紫，实笔为浅紫；35星星的纯亮黄也需调整。"
+    },
+    {
+      "material_id": "S001-011",
+      "title": "云朵晾衣日",
+      "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
+      "planned_colors": [
+        "68",
+        "35",
+        "23",
+        "9"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "9号袜子画成浓粉而实笔为浅粉；35太阳与袜子的黄绿倾向、68背景的饱和度需重新匹配。"
+    },
+    {
+      "material_id": "S001-012",
+      "title": "举着花盆的机器人",
+      "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
+      "planned_colors": [
+        "68",
+        "35",
+        "44",
+        "23",
+        "6"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。"
+    },
+    {
+      "material_id": "S001-013",
+      "title": "风中的长围巾",
+      "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
+      "planned_colors": [
+        "58",
+        "11",
+        "65",
+        "37",
+        "69"
+      ],
+      "primary_mismatch_codes": [
+        "58",
+        "65",
+        "37"
+      ],
+      "issue": "58号鸟画成浅薄荷绿，实笔为较灰青绿；65天空被画成很浅冰蓝；37地面、嘴被画成浅纯黄。"
+    },
+    {
+      "material_id": "S001-014",
+      "title": "气鼓鼓的闹钟",
+      "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
+      "planned_colors": [
+        "25",
+        "143",
+        "24",
+        "WG1",
+        "WG3"
+      ],
+      "primary_mismatch_codes": [
+        "25",
+        "143"
+      ],
+      "issue": "25号钟身画成珊瑚粉，实笔近浅灰米；143钟铃画成亮薄荷蓝，实笔近浅青灰；WG3墙面也比色卡明显深。"
+    },
+    {
+      "material_id": "S001-015",
+      "title": "面包巴士站",
+      "lesson_path": "lessons/scene/015-toast-bus-stop.md",
+      "planned_colors": [
+        "35",
+        "95",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号路面和司机被画成深蓝；35车身、6天空的色相与实笔也有差异。"
+    },
+    {
+      "material_id": "S001-016",
+      "title": "雨伞补丁铺",
+      "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
+      "planned_colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "44",
+        "31",
+        "WG7"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号蓝墙错误；35桌面、6线轴、44补丁不能照当前艳度复现，31与35的分面需重新规划。"
+    },
+    {
+      "material_id": "S001-017",
+      "title": "梨子邮递员",
+      "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
+      "planned_colors": [
+        "35",
+        "44",
+        "68",
+        "23",
+        "6",
+        "75"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。"
+    },
+    {
+      "material_id": "S001-018",
+      "title": "纸船渡口",
+      "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
+      "planned_colors": [
+        "8",
+        "63",
+        "135",
+        "2",
+        "71",
+        "WG5"
+      ],
+      "primary_mismatch_codes": [],
+      "issue": "71号远山水纹偏纯蓝而实笔偏蓝紫；135号天空比色卡更粉，WG5码头灰度偏深。8号河马、63水面大色系较接近，不能据此认为全课已准。"
+    },
+    {
+      "material_id": "S001-019",
+      "title": "屋顶番茄园",
+      "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md",
+      "planned_colors": [
+        "23",
+        "68",
+        "35",
+        "44",
+        "52",
+        "6",
+        "75"
+      ],
+      "primary_mismatch_codes": [
+        "75"
+      ],
+      "issue": "75号小屋和水壶画成蓝色，实笔为浅紫；44叶片、35角色、6番茄与背景也需调色。另发现并已修正区域表述：旧表把水壶列在68，步骤却用75；现统一旧配色下的水壶区域归75，实际新色仍待重配。"
+    },
+    {
+      "material_id": "S001-020",
+      "title": "饼干天文台",
+      "lesson_path": "lessons/scene/020-cookie-observatory.md",
+      "planned_colors": [
+        "95",
+        "35",
+        "68",
+        "23",
+        "82",
+        "75",
+        "6"
+      ],
+      "primary_mismatch_codes": [
+        "82",
+        "75"
+      ],
+      "issue": "75号夜空、82号浅紫地面都分配错误；35星球画成纯亮黄，95饼干与支架色的用途也需按实际图核对。"
+    },
+    {
+      "material_id": "S001-021",
+      "title": "积木滑梯公园",
+      "lesson_path": "lessons/scene/021-building-block-slide-park.md",
+      "planned_colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82"
+      ],
+      "primary_mismatch_codes": [
+        "75",
+        "82"
+      ],
+      "issue": "75号天空、82号浅紫角色错误；44草地和35主角的荧光感不符合色卡。上次修正色卡排列只解决了顺序，未解决笔号对应实色。"
+    },
+    {
+      "material_id": "S001-022",
+      "title": "失物招领车",
+      "lesson_path": "lessons/independent/022-lost-and-found-cart.md",
+      "planned_colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "44",
+        "75",
+        "82",
+        "95"
+      ],
+      "primary_mismatch_codes": [
+        "75",
+        "82"
+      ],
+      "issue": "75号夜空、82号浅紫帽子错误；44号绿物、6号雨棚、35号地面与实笔不一致。"
+    },
+    {
+      "material_id": "S001-023",
+      "title": "雪地热汤车",
+      "lesson_path": "lessons/independent/023-snow-soup-cart.md",
+      "planned_colors": [
+        "2",
+        "31",
+        "65",
+        "69",
+        "25",
+        "WG1",
+        "92"
+      ],
+      "primary_mismatch_codes": [
+        "65",
+        "25"
+      ],
+      "issue": "25号摊主为珊瑚粉但实笔近浅灰米；65雪地被画得过浅、过蓝；69夜空需按实笔深靛蓝处理，2号车身偏玫红而非图中暖红。"
+    },
+    {
+      "material_id": "S001-024",
+      "title": "海底图书馆",
+      "lesson_path": "lessons/independent/024-underwater-library.md",
+      "planned_colors": [
+        "143",
+        "WG9",
+        "8",
+        "24",
+        "37",
+        "135",
+        "46",
+        "WG3"
+      ],
+      "primary_mismatch_codes": [
+        "143",
+        "37"
+      ],
+      "issue": "143号海水过鲜，37号书脊不应是浅纯黄；135号粉书脊比实笔深艳，WG3书架灰度也需重新匹配。"
+    },
+    {
+      "material_id": "S001-025",
+      "title": "口袋里的春天",
+      "lesson_path": "lessons/independent/025-spring-in-a-pocket.md",
+      "planned_colors": [
+        "35",
+        "68",
+        "23",
+        "6",
+        "44",
+        "52",
+        "75",
+        "82",
+        "31",
+        "37"
+      ],
+      "primary_mismatch_codes": [
+        "75",
+        "82",
+        "37"
+      ],
+      "issue": "75号角色和门为蓝色、82号鸟为浅紫，均错误；37号衣服为奶油浅黄，实笔为黄绿色；35口袋、44叶片也需调色。表内35与37的衣服区域须分清。"
+    },
+    {
+      "material_id": "S001-026",
+      "title": "风筝修理船",
+      "lesson_path": "lessons/independent/026-kite-repair-ship.md",
+      "planned_colors": [
+        "68",
+        "23",
+        "35",
+        "6",
+        "75",
+        "82",
+        "95",
+        "44"
+      ],
+      "primary_mismatch_codes": [
+        "75",
+        "82"
+      ],
+      "issue": "75号蓝工具箱、82号浅紫风筝面错误；44号绿面、35号角色、6号另一角色的色相与饱和度需匹配。"
+    },
+    {
+      "material_id": "S001-027",
+      "title": "夜班种梦员",
+      "lesson_path": "lessons/independent/027-night-dream-gardener.md",
+      "planned_colors": [
+        "69",
+        "WG5",
+        "37",
+        "58",
+        "25",
+        "11",
+        "172",
+        "92"
+      ],
+      "primary_mismatch_codes": [
+        "37",
+        "58",
+        "25",
+        "172"
+      ],
+      "issue": "25号花槽为珊瑚粉、58角色为浅薄荷、172叶片为鲜绿、37帽与星花为浅黄，均与实笔不同；69夜空也需按深靛蓝处理。"
+    },
+    {
+      "material_id": "S001-028",
+      "title": "糖纸小城的早班车",
+      "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md",
+      "planned_colors": [
+        "6",
+        "68",
+        "35",
+        "23",
+        "75",
+        "82",
+        "44",
+        "95"
+      ],
+      "primary_mismatch_codes": [
+        "75",
+        "82"
+      ],
+      "issue": "75号道路、82号浅紫建筑错误；44号植物、6号背景与35号公交车的颜色也需按色卡重设。"
+    }
+  ]
+}

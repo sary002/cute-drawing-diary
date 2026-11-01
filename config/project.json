@@ -10,7 +10,7 @@
   "reflection_policy": "optional_when_helpful",
   "series_title": "每天画点可爱的",
   "daily_minutes": 20,
-  "current_tools": "touchmark-student-36-v2",
+  "current_tools": "touchmark-student-36-v3",
   "numbering": "作品编号，不要求连续自然日",
   "remote_repository": "https://github.com/sary002/cute-drawing-diary",
   "git_sync": {

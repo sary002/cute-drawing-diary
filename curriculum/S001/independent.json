@@ -14,7 +14,8 @@
       "82",
       "95"
     ],
-    "lesson_path": "lessons/independent/022-lost-and-found-cart.md"
+    "lesson_path": "lessons/independent/022-lost-and-found-cart.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-023",
@@ -30,7 +31,8 @@
       "WG1",
       "92"
     ],
-    "lesson_path": "lessons/independent/023-snow-soup-cart.md"
+    "lesson_path": "lessons/independent/023-snow-soup-cart.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-024",
@@ -47,7 +49,8 @@
       "46",
       "WG3"
     ],
-    "lesson_path": "lessons/independent/024-underwater-library.md"
+    "lesson_path": "lessons/independent/024-underwater-library.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-025",
@@ -66,7 +69,8 @@
       "31",
       "37"
     ],
-    "lesson_path": "lessons/independent/025-spring-in-a-pocket.md"
+    "lesson_path": "lessons/independent/025-spring-in-a-pocket.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-026",
@@ -83,7 +87,8 @@
       "95",
       "44"
     ],
-    "lesson_path": "lessons/independent/026-kite-repair-ship.md"
+    "lesson_path": "lessons/independent/026-kite-repair-ship.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-027",
@@ -100,7 +105,8 @@
       "172",
       "92"
     ],
-    "lesson_path": "lessons/independent/027-night-dream-gardener.md"
+    "lesson_path": "lessons/independent/027-night-dream-gardener.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-028",
@@ -117,6 +123,7 @@
       "44",
       "95"
     ],
-    "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md"
+    "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md",
+    "color_review_status": "requires_revision"
   }
 ]

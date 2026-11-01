@@ -18,7 +18,7 @@
     "WG3"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
   "references": [
     {
@@ -45,5 +45,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "25号钟身画成珊瑚粉，实笔近浅灰米；143钟铃画成亮薄荷蓝，实笔近浅青灰；WG3墙面也比色卡明显深。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

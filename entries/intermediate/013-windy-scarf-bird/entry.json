@@ -18,7 +18,7 @@
     "69"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
   "references": [
     {
@@ -45,5 +45,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "58号鸟画成浅薄荷绿，实笔为较灰青绿；65天空被画成很浅冰蓝；37地面、嘴被画成浅纯黄。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

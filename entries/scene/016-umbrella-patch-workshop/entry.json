@@ -21,7 +21,7 @@
     "WG7"
   ],
   "target_minutes": 75,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
   "references": [
     {
@@ -48,5 +48,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号蓝墙错误；35桌面、6线轴、44补丁不能照当前艳度复现，31与35的分面需重新规划。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

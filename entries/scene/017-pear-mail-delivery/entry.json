@@ -19,7 +19,7 @@
     "75"
   ],
   "target_minutes": 65,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
   "references": [
     {
@@ -46,5 +46,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

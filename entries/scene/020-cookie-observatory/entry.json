@@ -20,7 +20,7 @@
     "6"
   ],
   "target_minutes": 70,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/scene/020-cookie-observatory.md",
   "references": [
     {
@@ -47,5 +47,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号夜空、82号浅紫地面都分配错误；35星球画成纯亮黄，95饼干与支架色的用途也需按实际图核对。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

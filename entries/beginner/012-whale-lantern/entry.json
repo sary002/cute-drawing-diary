@@ -12,7 +12,7 @@
     "75"
   ],
   "target_minutes": 30,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/beginner/012-whale-lantern.md",
   "references": [
     {
@@ -44,5 +44,13 @@
   "material_id": "S001-007",
   "course_slot": 7,
   "course_role": "mainline",
-  "teaching_mode": "guided"
+  "teaching_mode": "guided",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号夜空错误；9号云朵比实笔深艳，35号灯笼的黄绿倾向未表现。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

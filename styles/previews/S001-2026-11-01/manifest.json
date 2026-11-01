@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "style_id": "S001",
-  "status": "course_ready",
+  "status": "color_revision_required",
   "course_slots_are_not_entry_numbers": true,
   "total": 28,
   "reused": 11,
@@ -24,15 +24,23 @@
       "source_entry": "entries/beginner/001-headphone-mushroom/entry.json",
       "original_lesson": "lessons/beginner/001-headphone-mushroom.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-001",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/001-headphone-mushroom/entry.json",
       "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
       "teaching_mode": "guided",
-      "target_minutes": 25
+      "target_minutes": 25,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 2,
@@ -51,18 +59,26 @@
       "source_entry": "entries/beginner/002-acorn-squirrel/entry.json",
       "original_lesson": "lessons/beginner/002-acorn-squirrel.md",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "previous_image": "entries/beginner/002-lakeside-hills/reference/finished.png",
       "replacement": true,
       "version": 1,
       "material_id": "S001-002",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/002-acorn-squirrel/entry.json",
       "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "37被用作奶油黄橡果，色卡为黄绿色；24松鼠画成亮黄而色卡更偏赭金橙。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 3,
@@ -80,15 +96,23 @@
       "source_entry": "entries/beginner/005-striped-lighthouse/entry.json",
       "original_lesson": "lessons/beginner/005-striped-lighthouse.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-003",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/005-striped-lighthouse/entry.json",
       "lesson_path": "lessons/beginner/005-striped-lighthouse.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "9号天空比实笔浅粉明显更饱和；35沙岛偏纯黄，68海水过亮，需按实色重新定深浅。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 4,
@@ -106,15 +130,23 @@
       "source_entry": "entries/beginner/007-moon-snack/entry.json",
       "original_lesson": "lessons/beginner/007-moon-snack.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-004",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/007-moon-snack/entry.json",
       "lesson_path": "lessons/beginner/007-moon-snack.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "82号怪兽画成浅紫，但实笔82为较深紫；浅紫方向应先比较75，月亮35也需调色。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 5,
@@ -133,15 +165,23 @@
       "source_entry": "entries/beginner/008-snail-leaf/entry.json",
       "original_lesson": "lessons/beginner/008-snail-leaf.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-005",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/008-snail-leaf/entry.json",
       "lesson_path": "lessons/beginner/008-snail-leaf.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号背景画成深蓝，而实笔75为浅紫；35叶片及68壳的明度、饱和度也不匹配。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 6,
@@ -160,15 +200,23 @@
       "source_entry": "entries/beginner/010-penguin-cocoa/entry.json",
       "original_lesson": "lessons/beginner/010-penguin-cocoa.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-006",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/010-penguin-cocoa/entry.json",
       "lesson_path": "lessons/beginner/010-penguin-cocoa.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号夜空错误；9号桌面画得过艳，实笔为浅粉。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 7,
@@ -186,15 +234,23 @@
       "source_entry": "entries/beginner/012-whale-lantern/entry.json",
       "original_lesson": "lessons/beginner/012-whale-lantern.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-007",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "完整跟画·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/beginner/012-whale-lantern/entry.json",
       "lesson_path": "lessons/beginner/012-whale-lantern.md",
       "teaching_mode": "guided",
-      "target_minutes": 30
+      "target_minutes": 30,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号夜空错误；9号云朵比实笔深艳，35号灯笼的黄绿倾向未表现。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 8,
@@ -211,15 +267,23 @@
       "source_entry": "entries/beginner/003-yawning-mailbox/entry.json",
       "original_lesson": "lessons/beginner/003-yawning-mailbox.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-008",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/003-yawning-mailbox/entry.json",
       "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "35号背景画成纯亮黄，实笔偏黄绿；68号地面和旗面亮度、饱和度过高。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 9,
@@ -238,15 +302,23 @@
       "source_entry": "entries/beginner/004-avocado-seesaw/entry.json",
       "original_lesson": "lessons/beginner/004-avocado-seesaw.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-009",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/004-avocado-seesaw/entry.json",
       "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "44号果肉画成荧光嫩绿，实笔更偏橄榄；6号背景实际偏洋红，而图为玫粉；52深蓝绿色应与外皮核对。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 10,
@@ -264,15 +336,23 @@
       "source_entry": "entries/beginner/006-catch-a-star/entry.json",
       "original_lesson": "lessons/beginner/006-catch-a-star.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-010",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/006-catch-a-star/entry.json",
       "lesson_path": "lessons/intermediate/006-catch-a-star.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号背景画成深蓝紫，实笔为浅紫；35星星的纯亮黄也需调整。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 11,
@@ -290,15 +370,23 @@
       "source_entry": "entries/beginner/009-cloud-laundry/entry.json",
       "original_lesson": "lessons/beginner/009-cloud-laundry.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-011",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/009-cloud-laundry/entry.json",
       "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "9号袜子画成浓粉而实笔为浅粉；35太阳与袜子的黄绿倾向、68背景的饱和度需重新匹配。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 12,
@@ -317,15 +405,23 @@
       "source_entry": "entries/beginner/011-robot-flowerpot/entry.json",
       "original_lesson": "lessons/beginner/011-robot-flowerpot.md",
       "newly_generated": false,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-012",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/011-robot-flowerpot/entry.json",
       "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 13,
@@ -342,7 +438,7 @@
       ],
       "image": "entries/intermediate/013-windy-scarf-bird/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-013",
       "course_role": "mainline",
       "previous_images": [
@@ -372,11 +468,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/013-windy-scarf-bird/entry.json",
       "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "58号鸟画成浅薄荷绿，实笔为较灰青绿；65天空被画成很浅冰蓝；37地面、嘴被画成浅纯黄。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 14,
@@ -393,7 +497,7 @@
       ],
       "image": "entries/intermediate/014-grumpy-alarm-clock/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-014",
       "course_role": "mainline",
       "previous_images": [
@@ -423,11 +527,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/intermediate/014-grumpy-alarm-clock/entry.json",
       "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
       "teaching_mode": "supported",
-      "target_minutes": 45
+      "target_minutes": 45,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "25号钟身画成珊瑚粉，实笔近浅灰米；143钟铃画成亮薄荷蓝，实笔近浅青灰；WG3墙面也比色卡明显深。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 15,
@@ -445,15 +557,23 @@
       ],
       "image": "entries/scene/015-toast-bus-stop/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-015",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/015-toast-bus-stop/entry.json",
       "lesson_path": "lessons/scene/015-toast-bus-stop.md",
       "teaching_mode": "supported",
-      "target_minutes": 65
+      "target_minutes": 65,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号路面和司机被画成深蓝；35车身、6天空的色相与实笔也有差异。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 16,
@@ -473,7 +593,7 @@
       ],
       "image": "entries/scene/016-umbrella-patch-workshop/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "previous_image": "styles/previews/S001-2026-11-01/16-umbrella-patch-workshop-v3-axis.png",
       "version": 4,
       "previous_images": [
@@ -485,11 +605,19 @@
       "course_role": "mainline",
       "revision_kind": "structure",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/016-umbrella-patch-workshop/entry.json",
       "lesson_path": "lessons/scene/016-umbrella-patch-workshop.md",
       "teaching_mode": "supported",
-      "target_minutes": 75
+      "target_minutes": 75,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号蓝墙错误；35桌面、6线轴、44补丁不能照当前艳度复现，31与35的分面需重新规划。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 17,
@@ -507,15 +635,23 @@
       ],
       "image": "entries/scene/017-pear-mail-delivery/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-017",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/017-pear-mail-delivery/entry.json",
       "lesson_path": "lessons/scene/017-pear-mail-delivery.md",
       "teaching_mode": "supported",
-      "target_minutes": 65
+      "target_minutes": 65,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号帽子与地面错误；44仙人掌画成鲜亮绿，6背景与35梨子的颜色也需校正。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 18,
@@ -533,7 +669,7 @@
       ],
       "image": "entries/scene/018-paper-boat-ferry/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-018",
       "course_role": "mainline",
       "previous_images": [
@@ -565,11 +701,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/018-paper-boat-ferry/entry.json",
       "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
       "teaching_mode": "supported",
-      "target_minutes": 70
+      "target_minutes": 70,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "71号远山水纹偏纯蓝而实笔偏蓝紫；135号天空比色卡更粉，WG5码头灰度偏深。8号河马、63水面大色系较接近，不能据此认为全课已准。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 19,
@@ -588,15 +732,23 @@
       ],
       "image": "entries/scene/019-rooftop-tomato-garden/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-019",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/019-rooftop-tomato-garden/entry.json",
       "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md",
       "teaching_mode": "supported",
-      "target_minutes": 70
+      "target_minutes": 70,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号小屋和水壶画成蓝色，实笔为浅紫；44叶片、35角色、6番茄与背景也需调色。另发现并已修正区域表述：旧表把水壶列在68，步骤却用75；现统一旧配色下的水壶区域归75，实际新色仍待重配。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 20,
@@ -615,15 +767,23 @@
       ],
       "image": "entries/scene/020-cookie-observatory/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-020",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/020-cookie-observatory/entry.json",
       "lesson_path": "lessons/scene/020-cookie-observatory.md",
       "teaching_mode": "supported",
-      "target_minutes": 70
+      "target_minutes": 70,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号夜空、82号浅紫地面都分配错误；35星球画成纯亮黄，95饼干与支架色的用途也需按实际图核对。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 21,
@@ -642,15 +802,23 @@
       ],
       "image": "entries/scene/021-building-block-slide-park/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-021",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "提示练习·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/scene/021-building-block-slide-park/entry.json",
       "lesson_path": "lessons/scene/021-building-block-slide-park.md",
       "teaching_mode": "supported",
-      "target_minutes": 75
+      "target_minutes": 75,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号天空、82号浅紫角色错误；44草地和35主角的荧光感不符合色卡。上次修正色卡排列只解决了顺序，未解决笔号对应实色。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 22,
@@ -670,15 +838,23 @@
       ],
       "image": "entries/independent/022-lost-and-found-cart/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-022",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/022-lost-and-found-cart/entry.json",
       "lesson_path": "lessons/independent/022-lost-and-found-cart.md",
       "teaching_mode": "independent",
-      "target_minutes": 90
+      "target_minutes": 90,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号夜空、82号浅紫帽子错误；44号绿物、6号雨棚、35号地面与实笔不一致。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 23,
@@ -697,7 +873,7 @@
       ],
       "image": "entries/independent/023-snow-soup-cart/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-023",
       "course_role": "mainline",
       "previous_images": [
@@ -731,11 +907,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/023-snow-soup-cart/entry.json",
       "lesson_path": "lessons/independent/023-snow-soup-cart.md",
       "teaching_mode": "independent",
-      "target_minutes": 90
+      "target_minutes": 90,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "25号摊主为珊瑚粉但实笔近浅灰米；65雪地被画得过浅、过蓝；69夜空需按实笔深靛蓝处理，2号车身偏玫红而非图中暖红。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 24,
@@ -755,7 +939,7 @@
       ],
       "image": "entries/independent/024-underwater-library/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-024",
       "course_role": "mainline",
       "previous_images": [
@@ -791,11 +975,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/024-underwater-library/entry.json",
       "lesson_path": "lessons/independent/024-underwater-library.md",
       "teaching_mode": "independent",
-      "target_minutes": 95
+      "target_minutes": 95,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "143号海水过鲜，37号书脊不应是浅纯黄；135号粉书脊比实笔深艳，WG3书架灰度也需重新匹配。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 25,
@@ -817,17 +1009,25 @@
       ],
       "image": "entries/independent/025-spring-in-a-pocket/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "previous_image": "styles/previews/S001-2026-11-01/25-spring-in-a-pocket.png",
       "version": 2,
       "material_id": "S001-025",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/025-spring-in-a-pocket/entry.json",
       "lesson_path": "lessons/independent/025-spring-in-a-pocket.md",
       "teaching_mode": "independent",
-      "target_minutes": 100
+      "target_minutes": 100,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号角色和门为蓝色、82号鸟为浅紫，均错误；37号衣服为奶油浅黄，实笔为黄绿色；35口袋、44叶片也需调色。表内35与37的衣服区域须分清。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 26,
@@ -847,15 +1047,23 @@
       ],
       "image": "entries/independent/026-kite-repair-ship/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-026",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/026-kite-repair-ship/entry.json",
       "lesson_path": "lessons/independent/026-kite-repair-ship.md",
       "teaching_mode": "independent",
-      "target_minutes": 95
+      "target_minutes": 95,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号蓝工具箱、82号浅紫风筝面错误；44号绿面、35号角色、6号另一角色的色相与饱和度需匹配。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 27,
@@ -875,7 +1083,7 @@
       ],
       "image": "entries/independent/027-night-dream-gardener/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-027",
       "course_role": "mainline",
       "previous_images": [
@@ -911,11 +1119,19 @@
         }
       },
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/027-night-dream-gardener/entry.json",
       "lesson_path": "lessons/independent/027-night-dream-gardener.md",
       "teaching_mode": "independent",
-      "target_minutes": 90
+      "target_minutes": 90,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "25号花槽为珊瑚粉、58角色为浅薄荷、172叶片为鲜绿、37帽与星花为浅黄，均与实笔不同；69夜空也需按深靛蓝处理。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     },
     {
       "course_slot": 28,
@@ -935,25 +1151,35 @@
       ],
       "image": "entries/independent/028-candy-wrapper-town-bus/reference/finished.png",
       "newly_generated": true,
-      "teaching_status": "ready",
+      "teaching_status": "color_revision_required",
       "material_id": "S001-028",
       "course_role": "mainline",
       "color_accuracy": "planned marker codes; AI colors approximate, verify physical swatches",
-      "display_status": "自主创作·已备课",
+      "display_status": "配色待校正",
       "entry_path": "entries/independent/028-candy-wrapper-town-bus/entry.json",
       "lesson_path": "lessons/independent/028-candy-wrapper-town-bus.md",
       "teaching_mode": "independent",
-      "target_minutes": 105
+      "target_minutes": 105,
+      "color_review": {
+        "status": "requires_revision",
+        "audit_path": "docs/color-audit-2026-11-01.md",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "issues": "75号道路、82号浅紫建筑错误；44号植物、6号背景与35号公交车的颜色也需按色卡重设。",
+        "structural_lesson_status": "ready",
+        "previous_lesson_status": "ready"
+      }
     }
   ],
   "revision_note": "v4：第16幅改为正面对称直柄伞；第13、14、18、23、24、27幅换配色，其余21幅图片保留；28幅补上S001连续素材号。",
   "material_numbering_registry": "config/material-sequences.json",
   "teaching_summary": {
-    "ready": 28,
+    "ready": 0,
     "per_stage": 7,
     "guided": 7,
     "supported": 14,
     "independent": 7,
-    "actual_completion_not_changed": true
+    "actual_completion_not_changed": true,
+    "structure_ready": 28,
+    "color_revision_required": 28
   }
 }

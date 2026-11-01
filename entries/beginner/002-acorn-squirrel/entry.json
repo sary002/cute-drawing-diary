@@ -13,7 +13,7 @@
     "11"
   ],
   "target_minutes": 30,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/beginner/002-acorn-squirrel.md",
   "references": [
     {
@@ -45,5 +45,13 @@
   "teaching_mode": "guided",
   "material_id": "S001-002",
   "course_slot": 2,
-  "course_role": "mainline"
+  "course_role": "mainline",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "37被用作奶油黄橡果，色卡为黄绿色；24松鼠画成亮黄而色卡更偏赭金橙。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

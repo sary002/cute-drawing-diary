@@ -13,7 +13,7 @@
     "6"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
   "references": [
     {
@@ -45,5 +45,13 @@
   "teaching_mode": "supported",
   "material_id": "S001-012",
   "course_slot": 12,
-  "course_role": "mainline"
+  "course_role": "mainline",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "44号花茎叶画成鲜绿，实笔偏橄榄；6号背景、35花瓣、68角色均存在色相或饱和度差异。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

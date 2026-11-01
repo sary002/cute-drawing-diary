@@ -19,7 +19,7 @@
     "WG5"
   ],
   "target_minutes": 70,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/scene/018-paper-boat-ferry.md",
   "references": [
     {
@@ -46,5 +46,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "71号远山水纹偏纯蓝而实笔偏蓝紫；135号天空比色卡更粉，WG5码头灰度偏深。8号河马、63水面大色系较接近，不能据此认为全课已准。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

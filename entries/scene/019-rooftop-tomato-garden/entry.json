@@ -20,7 +20,7 @@
     "75"
   ],
   "target_minutes": 70,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/scene/019-rooftop-tomato-garden.md",
   "references": [
     {
@@ -47,5 +47,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号小屋和水壶画成蓝色，实笔为浅紫；44叶片、35角色、6番茄与背景也需调色。另发现并已修正区域表述：旧表把水壶列在68，步骤却用75；现统一旧配色下的水壶区域归75，实际新色仍待重配。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

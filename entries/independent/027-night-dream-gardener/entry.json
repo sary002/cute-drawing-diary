@@ -21,7 +21,7 @@
     "92"
   ],
   "target_minutes": 90,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/independent/027-night-dream-gardener.md",
   "references": [
     {
@@ -48,5 +48,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "25号花槽为珊瑚粉、58角色为浅薄荷、172叶片为鲜绿、37帽与星花为浅黄，均与实笔不同；69夜空也需按深靛蓝处理。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }

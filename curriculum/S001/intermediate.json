@@ -9,7 +9,8 @@
       "35",
       "68"
     ],
-    "lesson_path": "lessons/intermediate/003-yawning-mailbox.md"
+    "lesson_path": "lessons/intermediate/003-yawning-mailbox.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-009",
@@ -23,7 +24,8 @@
       "23",
       "6"
     ],
-    "lesson_path": "lessons/intermediate/004-avocado-seesaw.md"
+    "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-010",
@@ -36,7 +38,8 @@
       "35",
       "75"
     ],
-    "lesson_path": "lessons/intermediate/006-catch-a-star.md"
+    "lesson_path": "lessons/intermediate/006-catch-a-star.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-011",
@@ -49,7 +52,8 @@
       "23",
       "9"
     ],
-    "lesson_path": "lessons/intermediate/009-cloud-laundry.md"
+    "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-012",
@@ -63,7 +67,8 @@
       "23",
       "6"
     ],
-    "lesson_path": "lessons/intermediate/011-robot-flowerpot.md"
+    "lesson_path": "lessons/intermediate/011-robot-flowerpot.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-013",
@@ -77,7 +82,8 @@
       "37",
       "69"
     ],
-    "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md"
+    "lesson_path": "lessons/intermediate/013-windy-scarf-bird.md",
+    "color_review_status": "requires_revision"
   },
   {
     "material_id": "S001-014",
@@ -91,6 +97,7 @@
       "WG1",
       "WG3"
     ],
-    "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md"
+    "lesson_path": "lessons/intermediate/014-grumpy-alarm-clock.md",
+    "color_review_status": "requires_revision"
   }
 ]

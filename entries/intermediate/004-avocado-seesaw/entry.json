@@ -13,7 +13,7 @@
     "6"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/004-avocado-seesaw.md",
   "references": [
     {
@@ -45,5 +45,13 @@
   "teaching_mode": "supported",
   "material_id": "S001-009",
   "course_slot": 9,
-  "course_role": "mainline"
+  "course_role": "mainline",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "44号果肉画成荧光嫩绿，实笔更偏橄榄；6号背景实际偏洋红，而图为玫粉；52深蓝绿色应与外皮核对。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

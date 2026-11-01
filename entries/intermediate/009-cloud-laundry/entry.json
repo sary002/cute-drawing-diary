@@ -12,7 +12,7 @@
     "9"
   ],
   "target_minutes": 45,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/intermediate/009-cloud-laundry.md",
   "references": [
     {
@@ -44,5 +44,13 @@
   "teaching_mode": "supported",
   "material_id": "S001-011",
   "course_slot": 11,
-  "course_role": "mainline"
+  "course_role": "mainline",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "9号袜子画成浓粉而实笔为浅粉；35太阳与袜子的黄绿倾向、68背景的饱和度需重新匹配。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

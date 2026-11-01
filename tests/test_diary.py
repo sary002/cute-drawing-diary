@@ -45,6 +45,21 @@ class DiaryLifecycle(unittest.TestCase):
         self.assertEqual((self.first / "entry.json").read_bytes(), before)
         self.assertEqual(len(list((self.root / "entries").glob("*/*/entry.json"))), 1)
 
+    def test_unresolved_physical_color_review_cannot_be_ready(self):
+        path = self.first / "entry.json"
+        entry = json.loads(path.read_text())
+        entry["color_review"] = {"status": "requires_revision"}
+        entry["lesson_status"] = "ready"
+        path.write_text(json.dumps(entry))
+        self.assertIn("配色待校正", self.run_cli("validate", ok=False).stderr)
+        entry["lesson_status"] = "draft"
+        path.write_text(json.dumps(entry))
+        before = path.read_bytes()
+        self.run_cli("validate")
+        self.run_cli("index")
+        self.assertIn("配色待校正", (self.root / "entries/INDEX.md").read_text())
+        self.assertEqual(path.read_bytes(), before)
+
     def test_completion_needs_no_photo_date_time_or_reflection(self):
         self.run_cli("record", "001-headphone-mushroom")
         p = json.loads((self.first / "entry.json").read_text())["practice"]

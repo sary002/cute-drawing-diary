@@ -12,7 +12,7 @@
     "35"
   ],
   "target_minutes": 25,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/beginner/001-headphone-mushroom.md",
   "references": [
     {
@@ -44,5 +44,13 @@
   "material_id": "S001-001",
   "course_slot": 1,
   "course_role": "mainline",
-  "teaching_mode": "guided"
+  "teaching_mode": "guided",
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "9号背景在图中为高饱和亮粉，色卡9为浅粉；35号纯亮黄与色卡偏黄绿色不同，68耳罩也需降低荧光感。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
+  }
 }

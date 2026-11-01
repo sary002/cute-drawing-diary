@@ -275,6 +275,8 @@ def validate(root):
         assert not set(e["marker_colors"]) - set(tools["markers"]["colors"]), "作品色号错误"
         assert len(e["marker_colors"]) <= stage["lesson_limits"]["marker_colors_max"], "色数超限"
         assert e["lesson_status"] in {"draft", "ready"}, "未知教案状态"
+        if e.get("color_review", {}).get("status") == "requires_revision":
+            assert e["lesson_status"] == "draft", "配色待校正的教案不得标ready"
         assert lesson_file(root, e).is_file(), "缺教案"
         for ref in e["references"]:
             assert inside(folder, ref["path"]).is_file(), "参考文件不存在"
@@ -308,7 +310,8 @@ def index(root):
         link = Path(os.path.relpath(lesson_file(root, e), root / "entries")).as_posix()
         title = e["title"].replace("|", "\\|")
         stage_label = stages[e["stage"]]["level"]
-        lesson_label = "可学习" if e["lesson_status"] == "ready" else "待完善"
+        lesson_label = ("配色待校正" if e.get("color_review", {}).get("status") == "requires_revision"
+                        else "可学习" if e["lesson_status"] == "ready" else "待完善")
         lines.append(f"| {e.get('material_id', '未分配')} | {e['number']:03d} | [{title}]({link}) | {e.get('style_id', '未分类')} | {stage_label} | {lesson_label} | {label} | {minutes} |")
     target = root / "entries/INDEX.md"
     target.parent.mkdir(parents=True, exist_ok=True)

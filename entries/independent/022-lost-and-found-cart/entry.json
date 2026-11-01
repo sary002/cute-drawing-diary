@@ -21,7 +21,7 @@
     "95"
   ],
   "target_minutes": 90,
-  "lesson_status": "ready",
+  "lesson_status": "draft",
   "lesson_path": "lessons/independent/022-lost-and-found-cart.md",
   "references": [
     {
@@ -48,5 +48,13 @@
     "url": null,
     "published_at": null,
     "metrics": []
+  },
+  "color_review": {
+    "status": "requires_revision",
+    "audit_path": "docs/color-audit-2026-11-01.md",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "issues": "75号夜空、82号浅紫帽子错误；44号绿物、6号雨棚、35号地面与实笔不一致。",
+    "structural_lesson_status": "ready",
+    "previous_lesson_status": "ready"
   }
 }
