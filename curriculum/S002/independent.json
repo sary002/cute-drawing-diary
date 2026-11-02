@@ -1,0 +1,120 @@
+[
+  {
+    "material_id": "S002-026",
+    "slug": "morning-window-view",
+    "title": "窗外的第一束晴光",
+    "goal": "自主选择取景范围与主要色块",
+    "colors": [
+      "25",
+      "67",
+      "172",
+      "44",
+      "41",
+      "95",
+      "143"
+    ],
+    "lesson_path": "lessons/independent/050-morning-window-view.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-027",
+    "slug": "summer-meadow-design",
+    "title": "夏天的一块草地",
+    "goal": "自主决定疏密与主色分工",
+    "colors": [
+      "37",
+      "44",
+      "58",
+      "9",
+      "11",
+      "172",
+      "67"
+    ],
+    "lesson_path": "lessons/independent/051-summer-meadow-design.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-028",
+    "slug": "autumn-slope-design",
+    "title": "赭黄山坡的晴天",
+    "goal": "迁移同一风格到暖色季节配色",
+    "colors": [
+      "31",
+      "24",
+      "95",
+      "92",
+      "75",
+      "82",
+      "25"
+    ],
+    "lesson_path": "lessons/independent/052-autumn-slope-design.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-029",
+    "slug": "cool-shore-design",
+    "title": "清蓝岸边的一天",
+    "goal": "在冷色主调中自主保留阳光感",
+    "colors": [
+      "67",
+      "65",
+      "63",
+      "143",
+      "58",
+      "25",
+      "95"
+    ],
+    "lesson_path": "lessons/independent/053-cool-shore-design.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-030",
+    "slug": "same-place-noon",
+    "title": "同一角落·正午",
+    "goal": "为小系列建立一致取景与物件关系",
+    "colors": [
+      "25",
+      "95",
+      "44",
+      "41",
+      "172",
+      "67"
+    ],
+    "lesson_path": "lessons/independent/054-same-place-noon.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-031",
+    "slug": "same-place-late",
+    "title": "同一角落·午后",
+    "goal": "同构图中自主改变光色与投影",
+    "colors": [
+      "25",
+      "95",
+      "31",
+      "41",
+      "75",
+      "172"
+    ],
+    "lesson_path": "lessons/independent/055-same-place-late.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-032",
+    "slug": "own-sunny-place",
+    "title": "我想留下的晴日",
+    "goal": "独立完成主题、构图与取舍并复盘",
+    "colors": [
+      "67",
+      "172",
+      "44",
+      "41",
+      "95",
+      "25",
+      "75",
+      "58"
+    ],
+    "lesson_path": "lessons/independent/056-own-sunny-place.md",
+    "color_review_status": "reviewed"
+  }
+]

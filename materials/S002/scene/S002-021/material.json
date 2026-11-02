@@ -1,0 +1,41 @@
+{
+  "material_id": "S002-021",
+  "stage": "scene",
+  "slot": 3,
+  "slug": "gate-through-flowers",
+  "title": "花丛后的园门",
+  "goal": "安排一个焦点并降低次要细节",
+  "colors": [
+    "9",
+    "11",
+    "58",
+    "44",
+    "95",
+    "25",
+    "143"
+  ],
+  "scene": "A small simple open wooden garden gate at upper right third, coherent ochre rectangular posts and two diagonal braces, pale beige path goes from lower left to it. Loose pale pink and red flower masses at lower left frame rather than obscure the path. Muted-teal and yellow-olive foliage, extremely pale blue-gray sky, large open white sunlit spaces. No house or wall, no tiny flowers, no full garden panorama. Focus on gate and path, modest marker strokes.",
+  "decision": "选择门或花丛其一作焦点，另一处减少对比",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A small simple open wooden garden gate at upper right third, coherent ochre rectangular posts and two diagonal braces, pale beige path goes from lower left to it. Loose pale pink and red flower masses at lower left frame rather than obscure the path. Muted-teal and yellow-olive foliage, extremely pale blue-gray sky, large open white sunlit spaces. No house or wall, no tiny flowers, no full garden panorama. Focus on gate and path, modest marker strokes. Palette: 9 pale pink; 11 red; 58 muted teal; 44 yellow olive; 95 ochre brown; 25 very pale gray-beige; 143 extremely pale blue-gray. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/scene/045-gate-through-flowers.md"
+}

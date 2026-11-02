@@ -1,0 +1,40 @@
+{
+  "material_id": "S002-018",
+  "stage": "intermediate",
+  "slot": 7,
+  "slug": "shrub-review",
+  "title": "两种笔触的小花坡",
+  "goal": "回看叶簇与草叶笔触能否清楚分组",
+  "colors": [
+    "44",
+    "41",
+    "75",
+    "58",
+    "172",
+    "25"
+  ],
+  "scene": "Small sloping flowerbed vignette, ONE broad yellow-olive low shrub at upper right with dark-olive clustered short dabs, THREE pale lavender flower groups near lower left, a FEW longer muted-teal grasses, pale gray-green slope and small beige bare-earth edge. White paper sky, no scenery beyond. Keep individual skill groups readable, no tiny decoration.",
+  "decision": "先不看成品设计植物高低；检查短叶簇与长草叶的区别",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Small sloping flowerbed vignette, ONE broad yellow-olive low shrub at upper right with dark-olive clustered short dabs, THREE pale lavender flower groups near lower left, a FEW longer muted-teal grasses, pale gray-green slope and small beige bare-earth edge. White paper sky, no scenery beyond. Keep individual skill groups readable, no tiny decoration. Palette: 44 yellow olive; 41 dark olive; 75 pale lavender; 58 muted teal; 172 extremely pale gray-green; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/intermediate/042-shrub-review.md"
+}

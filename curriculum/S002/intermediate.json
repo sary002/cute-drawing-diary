@@ -1,0 +1,108 @@
+[
+  {
+    "material_id": "S002-012",
+    "slug": "leaf-clusters",
+    "title": "枝头的叶影",
+    "goal": "用同向短笔触组成疏密有别的叶簇",
+    "colors": [
+      "37",
+      "44",
+      "41",
+      "95",
+      "172"
+    ],
+    "lesson_path": "lessons/intermediate/036-leaf-clusters.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-013",
+    "slug": "grass-rhythm",
+    "title": "坡脚的长短草",
+    "goal": "控制长短笔触与疏密节奏",
+    "colors": [
+      "31",
+      "44",
+      "58",
+      "172"
+    ],
+    "lesson_path": "lessons/intermediate/037-grass-rhythm.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-014",
+    "slug": "red-flower-transfer",
+    "title": "红花向着光",
+    "goal": "把叶簇笔触迁移到花丛并保留亮部",
+    "colors": [
+      "11",
+      "9",
+      "58",
+      "41",
+      "25"
+    ],
+    "lesson_path": "lessons/intermediate/038-red-flower-transfer.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-015",
+    "slug": "lavender-banks",
+    "title": "薰衣草的小空隙",
+    "goal": "用笔触密度表现成团植物并留通气空隙",
+    "colors": [
+      "75",
+      "82",
+      "58",
+      "172",
+      "25"
+    ],
+    "lesson_path": "lessons/intermediate/039-lavender-banks.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-016",
+    "slug": "stone-shadow-transfer",
+    "title": "两块石头的午后",
+    "goal": "在两个物体上保持一致光向和明暗分组",
+    "colors": [
+      "25",
+      "95",
+      "WG5",
+      "172",
+      "41"
+    ],
+    "lesson_path": "lessons/intermediate/040-stone-shadow-transfer.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-017",
+    "slug": "reed-patch",
+    "title": "一小片芦苇",
+    "goal": "组合长叶与短穗笔触并控制留白",
+    "colors": [
+      "31",
+      "95",
+      "58",
+      "65",
+      "143",
+      "172"
+    ],
+    "lesson_path": "lessons/intermediate/041-reed-patch.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-018",
+    "slug": "shrub-review",
+    "title": "两种笔触的小花坡",
+    "goal": "回看叶簇与草叶笔触能否清楚分组",
+    "colors": [
+      "44",
+      "41",
+      "75",
+      "58",
+      "172",
+      "25"
+    ],
+    "lesson_path": "lessons/intermediate/042-shrub-review.md",
+    "color_review_status": "reviewed"
+  }
+]

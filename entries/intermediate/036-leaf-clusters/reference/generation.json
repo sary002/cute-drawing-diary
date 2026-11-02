@@ -1,0 +1,20 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Edit this S002 alcohol-marker leaf study, preserving ONE ochre branch entering upper-left and THREE separate leaf clusters and generous white background. Replace the three round geometric blobs with three IRREGULAR open sprays of individual BROAD LEAF STROKES, roughly 12-18 leaves per spray, 3-5mm strokes at 16.5cm paper scale. Clusters different sizes, irregular jagged edges, gaps between leaves, stems visibly connect leaves, yellow-green37 and yellow-olive44 sunlit upper leaves, dark-olive41 leaf shadows placed asymmetrically INSIDE and beneath clusters, never rows of dots. Keep simple D2 learnable level but natural sunny botanical character, no dense realism, no perfect circles, no rectangles, no decorative dotted outline. Ochre95 branch, tiny very pale gray-green172 ground optional. Real transparent marker direction, light-to-dark, no opaque overlay. No text, panels, labels, face or outlines.",
+  "instruction_pages": [
+    {
+      "key": "S002-012-p1",
+      "material_id": "S002-012",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 1/1. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-012 枝头的叶影 · 关键过程 1. Top tool codes: 37,44,41,95,172. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 37 黄绿色，非奶油浅黄（照片观察）; 44 偏黄的橄榄绿（照片观察）; 41 较深橄榄绿（照片观察）; 95 赭棕、黄棕（照片观察）; 172 极浅灰绿（照片观察）. Panel instructions: 1 找三处叶簇 — Pencil outline only, no final colors. 铅笔: 在约11厘米画幅内画斜入的主枝，三条小枝分别向右上、右下、左下伸出。用断续椭圆标叶簇范围，大小不等，不把椭圆当最终轮廓。 Check: 三簇间各留一处能看到纸白的通道。 3 画浅叶骨架 — Cumulative state AFTER operation 3, earlier marks preserved, later-operation colors and marks absent. 37: 从小枝末端开始，每簇先画6～8片朝向不一的浅叶，中间故意跳开空位；叶片长约4～7毫米。只填叶片，不先整团涂底。 Check: 每簇仍能透过约三分之一纸白。 6 等干再点暗叶 — Cumulative state AFTER operation 6, earlier marks preserved, later-operation colors and marks absent. 41: 等试色边角不再湿亮后，在少数交叠位置补2～4片深叶，每簇暗叶不排队、不描一圈；上侧浅叶保留。 Check: 一米外看仍读成三团叶簇，不是均匀深点装饰。 8 减法收尾 — Cumulative state AFTER operation 8, earlier marks preserved, later-operation colors and marks absent. 橡皮、可选0.15针管笔: 彻底干后轻擦定位圈。只有确实断开的细枝才补一小段结构线，不给全部叶片描黑边。 Check: 保留自然叶形、纸白间隙、疏密变化三项；不追求叶片数量相同。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已核对构图、色系与过程；正文补充主枝可先轻铺",
+      "correction_prompt": null
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

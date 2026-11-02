@@ -1,0 +1,40 @@
+{
+  "material_id": "S002-030",
+  "stage": "independent",
+  "slot": 5,
+  "slug": "same-place-noon",
+  "title": "同一角落·正午",
+  "goal": "为小系列建立一致取景与物件关系",
+  "colors": [
+    "25",
+    "95",
+    "44",
+    "41",
+    "172",
+    "67"
+  ],
+  "scene": "Series location A, noon: ONE low ochre stone garden wall from lower left to middle right, with ONE small round yellow-olive shrub behind its right end and a pale beige narrow dirt lane in front. Pale gray-green ground, little pale-cyan sky, no flowers or buildings. Short dark-olive shadow close to wall on lower right. View level slightly above wall, fixed square composition, moderate simple marker style. This is a small personal series exemplar, no text.",
+  "decision": "先自定一个角落的草图；本幅与下一幅保持取景与物件位置一致",
+  "teaching_mode": "independent",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: Series location A, noon: ONE low ochre stone garden wall from lower left to middle right, with ONE small round yellow-olive shrub behind its right end and a pale beige narrow dirt lane in front. Pale gray-green ground, little pale-cyan sky, no flowers or buildings. Short dark-olive shadow close to wall on lower right. View level slightly above wall, fixed square composition, moderate simple marker style. This is a small personal series exemplar, no text. Palette: 25 very pale gray-beige; 95 ochre brown; 44 yellow olive; 41 dark olive; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/independent/054-same-place-noon.md"
+}

@@ -1,0 +1,16 @@
+{
+  "material_id": "S002-001",
+  "style_id": "S002",
+  "stage": "scene",
+  "kind": "finished_reference",
+  "course_role": "supplemental",
+  "title": "树荫下，坐一会儿",
+  "version": 1,
+  "image_path": "finished-v1.png",
+  "status": "display_only",
+  "source": "AI-generated original scene illustration",
+  "color_review": {
+    "status": "pending"
+  },
+  "completed": false
+}

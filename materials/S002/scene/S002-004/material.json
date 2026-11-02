@@ -1,0 +1,18 @@
+{
+  "material_id": "S002-004",
+  "style_id": "S002",
+  "stage": "scene",
+  "kind": "finished_reference",
+  "course_role": "supplemental",
+  "title": "秋日田间小路",
+  "version": 1,
+  "image_path": "finished-v1.png",
+  "status": "candidate_preview",
+  "source": "AI-generated with built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original artwork, no panels, no text, no labels, no watermark. S002 sunlit brushstroke landscape style: visible alcohol-marker strokes on white marker paper, broad simplified color masses with selective short plant strokes, clear sunny light and shadow groups, natural landscape, no thick black outline, no cute faces. Looks achievable with transparent oil/alcohol student markers on 16.5cm paper: flat distinct color families, light-to-dark layering, white highlights reserved untouched paper, NO opaque pale-over-dark strokes, no paint impasto, no digital smooth gradients. Palette numbers describe approximate physical hues only, do not print them. Narrow irregular white paper margin. Fresh original composition unlike a large foreground tree and bench with white daisies. Title concept: Autumn field path. Intermediate-to-comprehensive sunny landscape study, moderately detailed but simplified hand-marker illustration. View looking into a narrow country path entering from bottom right curving toward a small distant farm shed near upper left third; golden harvested fields, one row of compact rust-red and ochre shrubs on middle right, low blue-violet hills across horizon. No foreground large tree, no bench, no white daisies. Palette seven approximate hues: 25 pale gray-beige path and sky glow, 31 mustard golden field, 24 amber golden sunlit grasses, 95 ochre-brown shed roof and ground structure, 11 red used sparingly in autumn shrubs, 75 pale lavender distant hills, 82 deeper purple shadow accents. Most upper sky stays paper-white, avoid dominant blue/green. Bright late-afternoon sun from upper right, sparse cast shadows fall left. Clear foreground-middle-distance organization, grouped short harvest strokes mainly in foreground, much simpler distant marks. Shed is tiny simple rectangular wall and clear pitched roof, convincing ground contact. No tiny decoration. Sunlit and airy rather than sunset gloom.",
+  "color_review": {
+    "status": "pending"
+  },
+  "completed": false,
+  "review": "预计D3，包含道路纵深、多层田野与前景纹理；细节较密，教学版本需适量取舍。"
+}

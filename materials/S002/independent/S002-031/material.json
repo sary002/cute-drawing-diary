@@ -1,0 +1,40 @@
+{
+  "material_id": "S002-031",
+  "stage": "independent",
+  "slot": 6,
+  "slug": "same-place-late",
+  "title": "同一角落·午后",
+  "goal": "同构图中自主改变光色与投影",
+  "colors": [
+    "25",
+    "95",
+    "31",
+    "41",
+    "75",
+    "172"
+  ],
+  "scene": "Series location A, afternoon: ONE low ochre stone garden wall from lower left to middle right, ONE small rounded olive-and-mustard shrub behind its right end, pale beige narrow dirt lane in front. Pale gray-green ground, white sky. Warm afternoon light from upper right creates LONG muted lavender flat cast shadow extending lower left along lane. Fixed view slightly above wall, same subject layout as a noon companion. No flowers, houses or extra objects. Moderate brushstroke landscape, broad masses.",
+  "decision": "沿用上一幅自定草图，只改光向、色彩与投影；不把增加物件当成系列变化",
+  "teaching_mode": "independent",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: Series location A, afternoon: ONE low ochre stone garden wall from lower left to middle right, ONE small rounded olive-and-mustard shrub behind its right end, pale beige narrow dirt lane in front. Pale gray-green ground, white sky. Warm afternoon light from upper right creates LONG muted lavender flat cast shadow extending lower left along lane. Fixed view slightly above wall, same subject layout as a noon companion. No flowers, houses or extra objects. Moderate brushstroke landscape, broad masses. Palette: 25 very pale gray-beige; 95 ochre brown; 31 mustard yellow; 41 dark olive; 75 pale lavender; 172 extremely pale gray-green. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。 正午与午后AI示意的石块与取景细节存在变化，不是精确同构图对照；实际任务应沿用同一张自定小稿。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/independent/055-same-place-late.md"
+}

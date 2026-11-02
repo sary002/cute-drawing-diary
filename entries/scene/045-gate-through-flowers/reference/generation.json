@@ -1,0 +1,31 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A small simple open wooden garden gate at upper right third, coherent ochre rectangular posts and two diagonal braces, pale beige path goes from lower left to it. Loose pale pink and red flower masses at lower left frame rather than obscure the path. Muted-teal and yellow-olive foliage, extremely pale blue-gray sky, large open white sunlit spaces. No house or wall, no tiny flowers, no full garden panorama. Focus on gate and path, modest marker strokes. Palette: 9 pale pink; 11 red; 58 muted teal; 44 yellow olive; 95 ochre brown; 25 very pale gray-beige; 143 extremely pale blue-gray. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "instruction_pages": [
+    {
+      "key": "S002-021-p1",
+      "material_id": "S002-021",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 1/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-021 花丛后的园门 · 关键过程 1. Top tool codes: 9,11,58,44,95,25,143. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 9 浅粉红（照片观察）; 11 红色（照片观察）; 58 灰调青绿，非浅薄荷绿（照片观察）; 44 偏黄的橄榄绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）; 143 极浅青灰、蓝灰（照片观察）. Panel instructions: 1 选门作焦点 — Pencil outline only, no final colors. 铅笔: 园门放右上三分点，花群放左下；路从近处通向门。先写一句“门最清楚，花作陪衬”。 Check: 门与花不等大、不等对比。 2 画门的结构 — Pencil outline only, no final colors. 铅笔: 两根门柱直立，门框四边闭合；斜撑从门框一角接到对角，横杆均接框内，不重复添加悬空细杆。 Check: 门柱落地，门页与柱的位置关系可解释。 4 铺空气与地面 — Cumulative state AFTER operation 4, earlier marks preserved, later-operation colors and marks absent. 143、25: 143薄铺上方远景小片，25铺路和土；亮处留纸白，花与门的区域先保留。 Check: 远景轻，路的主亮带清楚。 5 铺浅粉花群 — Cumulative state AFTER operation 5, earlier marks preserved, later-operation colors and marks absent. 9: 把花归为三五团浅粉大形，近团大、远团小；不急着点每朵花，不让浅粉铺到门框。 Check: 花能衬路，不形成一整堵粉墙。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    },
+    {
+      "key": "S002-021-p2",
+      "material_id": "S002-021",
+      "page": 2,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 2/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-021 花丛后的园门 · 关键过程 2. Top tool codes: 9,11,58,44,95,25,143. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 9 浅粉红（照片观察）; 11 红色（照片观察）; 58 灰调青绿，非浅薄荷绿（照片观察）; 44 偏黄的橄榄绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）; 143 极浅青灰、蓝灰（照片观察）. Panel instructions: 6 搭中远植物 — Cumulative state AFTER operation 6, earlier marks preserved, later-operation colors and marks absent. 44、58: 44搭较远受光灌木，58做近侧叶丛；先用宽触填大形，再少量留尖叶。 Check: 背景对比弱于门，近叶不穿透门框。 7 画木门亮暗 — Cumulative state AFTER operation 7, earlier marks preserved, later-operation colors and marks absent. 95: 先单层铺木门，干后用同色加深下沿、斜撑侧面和柱暗侧。顶边保留浅色，不画密集木纹。 Check: 框、横杆、斜撑仍各自可读，接点没有错位。 8 少量红花定位 — Cumulative state AFTER operation 8, earlier marks preserved, later-operation colors and marks absent. 11: 在浅粉干后，只在左下焦点附近和一两处小团补红，远处只保留浅粉。 Check: 红色没有沿道路两边平均排满。 10 退远比较主次 — Cumulative state AFTER operation 10, earlier marks preserved, later-operation colors and marks absent. 橡皮、可选针管笔: 彻底干后只补门上最关键的一两段连接线，花边不勾黑；若花太抢，停止加红，在下一稿缩小花面积。 Check: 视线先到门或道路，再看花群细节。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已逐张检查构图连续性、关键结构、色号文字与留白；允许非关键笔触概括差异",
+      "correction_prompt": null
+    },
+    {
+      "page": 2,
+      "review": "已逐张检查构图连续性、关键结构、色号文字与留白；允许非关键笔触概括差异",
+      "correction_prompt": null
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

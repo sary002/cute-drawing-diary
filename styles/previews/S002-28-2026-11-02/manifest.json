@@ -1,0 +1,2302 @@
+{
+  "style_id": "S002",
+  "total": 28,
+  "per_stage": 7,
+  "full_lessons_ready": 28,
+  "finished_previews_only": 0,
+  "excludes_display_materials": [
+    "S002-001",
+    "S002-002",
+    "S002-003",
+    "S002-004"
+  ],
+  "items": [
+    {
+      "material_id": "S002-005",
+      "slug": "sunny-round-tree",
+      "title": "晴光里的圆树",
+      "goal": "用树冠与树干两个大形定位主体",
+      "colors": [
+        "37",
+        "41",
+        "95",
+        "172"
+      ],
+      "lesson_path": "lessons/beginner/029-sunny-round-tree.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 1,
+      "image_path": "entries/beginner/029-sunny-round-tree/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-006",
+      "slug": "cloud-over-grass",
+      "title": "白云经过草坡",
+      "goal": "在天空色块中提前保留完整白云",
+      "colors": [
+        "67",
+        "172",
+        "44"
+      ],
+      "lesson_path": "lessons/beginner/030-cloud-over-grass.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 2,
+      "image_path": "entries/beginner/030-cloud-over-grass/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-007",
+      "slug": "three-sunny-shrubs",
+      "title": "路边三团灌木",
+      "goal": "用大小与前后遮挡组织植物大形",
+      "colors": [
+        "44",
+        "58",
+        "41",
+        "25"
+      ],
+      "lesson_path": "lessons/beginner/031-three-sunny-shrubs.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 3,
+      "image_path": "entries/beginner/031-three-sunny-shrubs/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-008",
+      "slug": "three-purple-flowers",
+      "title": "晴日三枝紫花",
+      "goal": "把花头概括为大色团并保留间隙",
+      "colors": [
+        "75",
+        "82",
+        "58",
+        "25"
+      ],
+      "lesson_path": "lessons/beginner/032-three-purple-flowers.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 4,
+      "image_path": "entries/beginner/032-three-purple-flowers/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-009",
+      "slug": "five-windy-grasses",
+      "title": "风往右边吹",
+      "goal": "用一致方向的长短笔触表现草叶",
+      "colors": [
+        "31",
+        "58",
+        "172"
+      ],
+      "lesson_path": "lessons/beginner/033-five-windy-grasses.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 5,
+      "image_path": "entries/beginner/033-five-windy-grasses/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-010",
+      "slug": "sunlit-ochre-stone",
+      "title": "草地上的暖石头",
+      "goal": "用两块平涂区分受光面与暗面",
+      "colors": [
+        "25",
+        "95",
+        "172",
+        "41"
+      ],
+      "lesson_path": "lessons/beginner/034-sunlit-ochre-stone.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 6,
+      "image_path": "entries/beginner/034-sunlit-ochre-stone/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-011",
+      "slug": "path-to-sunny-shrub",
+      "title": "小路通向晴光",
+      "goal": "回看大形、留白与简单遮挡的组合",
+      "colors": [
+        "67",
+        "172",
+        "44",
+        "41",
+        "25"
+      ],
+      "lesson_path": "lessons/beginner/035-path-to-sunny-shrub.md",
+      "color_review_status": "reviewed",
+      "stage": "beginner",
+      "slot": 7,
+      "image_path": "entries/beginner/035-path-to-sunny-shrub/reference/finished-v1.png",
+      "teaching_mode": "guided",
+      "readiness": "ready",
+      "decision": "先跟画，再用本课检查点回看大形、留白与连接关系"
+    },
+    {
+      "material_id": "S002-012",
+      "stage": "intermediate",
+      "slot": 1,
+      "slug": "leaf-clusters",
+      "title": "枝头的叶影",
+      "goal": "用同向短笔触组成疏密有别的叶簇",
+      "colors": [
+        "37",
+        "44",
+        "41",
+        "95",
+        "172"
+      ],
+      "scene": "Close outdoor vignette of ONE overhanging branching bough entering from upper left, THREE separate clusters of broad yellow-green leaves, lit gaps of paper-white between clusters, small pale ground area. No whole tree, bench, cloud or distant scenery. Sparse repeated diagonal short dabs concentrated at leaf-cluster lower edges; clear light upper masses. Moderate simple study, not dense realistic foliage.",
+      "decision": "选择叶簇间空隙的位置；保留三团叶簇的疏密对比",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Edit this S002 alcohol-marker leaf study, preserving ONE ochre branch entering upper-left and THREE separate leaf clusters and generous white background. Replace the three round geometric blobs with three IRREGULAR open sprays of individual BROAD LEAF STROKES, roughly 12-18 leaves per spray, 3-5mm strokes at 16.5cm paper scale. Clusters different sizes, irregular jagged edges, gaps between leaves, stems visibly connect leaves, yellow-green37 and yellow-olive44 sunlit upper leaves, dark-olive41 leaf shadows placed asymmetrically INSIDE and beneath clusters, never rows of dots. Keep simple D2 learnable level but natural sunny botanical character, no dense realism, no perfect circles, no rectangles, no decorative dotted outline. Ochre95 branch, tiny very pale gray-green172 ground optional. Real transparent marker direction, light-to-dark, no opaque overlay. No text, panels, labels, face or outlines.",
+      "review_note": "自然叶形、间隙和不规则笔触修订；旧版保留，不改变素材号。",
+      "version": 2,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/036-leaf-clusters/reference/finished-v2.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-012/README.md",
+      "operations": [
+        {
+          "title": "找三处叶簇",
+          "tools": "铅笔",
+          "action": "在约11厘米画幅内画斜入的主枝，三条小枝分别向右上、右下、左下伸出。用断续椭圆标叶簇范围，大小不等，不把椭圆当最终轮廓。",
+          "check": "三簇间各留一处能看到纸白的通道。"
+        },
+        {
+          "title": "先练单片叶",
+          "tools": "37、44、95",
+          "action": "在废纸上试压下—短拖—提起，做出中间宽、末端尖的叶片。先试顺着枝向和斜着枝向两种方向，不画统一的小方块。正式画面可先用95轻画主枝骨架，便于浅叶找到落点，细枝留到第5环节再补。",
+          "check": "能看出叶尖；笔痕不必光滑，不用反复描细叶脉。"
+        },
+        {
+          "title": "画浅叶骨架",
+          "tools": "37",
+          "action": "从小枝末端开始，每簇先画6～8片朝向不一的浅叶，中间故意跳开空位；叶片长约4～7毫米。只填叶片，不先整团涂底。",
+          "check": "每簇仍能透过约三分之一纸白。"
+        },
+        {
+          "title": "增加中间叶",
+          "tools": "44",
+          "action": "在浅叶之间的部分空位补3～5片黄橄榄叶，集中在簇的中下部。允许两片部分重叠，不把三个外边缘修成圆球。",
+          "check": "外沿有长短和缺口，三簇不等大、不等密。"
+        },
+        {
+          "title": "连接枝条",
+          "tools": "95",
+          "action": "先确认每片叶大致朝向哪条小枝，再用笔侧画主枝、提笔画细枝；经过叶片时跳开，不把棕线横穿全部叶面。",
+          "check": "枝从粗到细，分叉相接，无悬空叶柄。"
+        },
+        {
+          "title": "等干再点暗叶",
+          "tools": "41",
+          "action": "等试色边角不再湿亮后，在少数交叠位置补2～4片深叶，每簇暗叶不排队、不描一圈；上侧浅叶保留。",
+          "check": "一米外看仍读成三团叶簇，不是均匀深点装饰。"
+        },
+        {
+          "title": "落一小块地面",
+          "tools": "172",
+          "action": "若保留示意中的地面，仅在下边轻铺一块极浅灰绿，边缘断开。它是空间衬托，不是枝叶逐片投影。",
+          "check": "地面比叶片浅得多，不抢主体。"
+        },
+        {
+          "title": "减法收尾",
+          "tools": "橡皮、可选0.15针管笔",
+          "action": "彻底干后轻擦定位圈。只有确实断开的细枝才补一小段结构线，不给全部叶片描黑边。",
+          "check": "保留自然叶形、纸白间隙、疏密变化三项；不追求叶片数量相同。"
+        }
+      ],
+      "structure": "叶片应沿小枝长出，外缘有缺口；暗叶位于交叠处，禁止围着外缘均匀排点。每簇可以只画约12片主要叶，示意的更多细叶不是必须项。",
+      "lesson_path": "lessons/intermediate/036-leaf-clusters.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-013",
+      "stage": "intermediate",
+      "slot": 2,
+      "slug": "grass-rhythm",
+      "title": "坡脚的长短草",
+      "goal": "控制长短笔触与疏密节奏",
+      "colors": [
+        "31",
+        "44",
+        "58",
+        "172"
+      ],
+      "scene": "Low ground-level view of THREE tufts of grass, tall on left, short at center, medium on right. Sparse long muted-teal blade strokes and mustard seed-head dashes, pale gray-green shallow sloping ground, blank white sky. Grass growth directions vary naturally but groups remain distinct. No water, tree or other objects. About 18 main blades total, restrained details.",
+      "decision": "自行决定三组草的间距；保持长短和疏密差异",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Edit this three-tuft grass study: keep tall tuft left, small center and medium right with ample white ground. Preserve simple D2 level but replace repetitive symmetrical strap leaves and capsule seed heads with loose irregular naturally tapering blade strokes, varied curvature and spacing; about 6-9 leaves per tuft, each a single broad-to-fine marker gesture. Five mustard31 seed heads each made of 4-6 small irregular staggered dashes along a thin stem, not solid capsules. Muted teal58 and yellow-olive44 leaves; pale gray-green172 patch of ground. Light sunny air, subtle grouped density, three distinct unequal tufts, no added objects or dense landscape. Transparent student alcohol marker, no gradients, no black contour, no printed words or numbers.",
+      "review_note": "自然叶形、间隙和不规则笔触修订；旧版保留，不改变素材号。",
+      "version": 2,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/037-grass-rhythm/reference/finished-v2.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-013/README.md",
+      "operations": [
+        {
+          "title": "定位三组草",
+          "tools": "铅笔",
+          "action": "画一条斜坡脚，左高、中低、右中等，三组根部留出约1厘米空隙。只画各组最高的生长弧线，不逐片描轮廓。",
+          "check": "三组高度和间距不机械相同。"
+        },
+        {
+          "title": "试草叶提笔",
+          "tools": "58、44",
+          "action": "废纸上从叶根稍压笔，顺弧线拖出3～5厘米后提起。先练长叶，再练只拖1厘米的短叶；不要来回填成胶带。",
+          "check": "末端逐渐变尖，长短笔触可区分。"
+        },
+        {
+          "title": "浅铺坡脚",
+          "tools": "172",
+          "action": "顺坡面横向轻扫一层，三组根部附近略连通，中间留断笔。让画面大部分仍是纸白。",
+          "check": "地面浅，根部有落点，不是一整片深底。"
+        },
+        {
+          "title": "搭长叶组",
+          "tools": "44",
+          "action": "先画左组和右组各3～4条主叶，再画中组2～3条短叶。方向有共同趋势，也允许一两片反向弯曲。",
+          "check": "各组先形成大轮廓，留有插入深叶的空隙。"
+        },
+        {
+          "title": "补深叶与茎",
+          "tools": "58",
+          "action": "等浅叶干后，沿组内空位补少量青绿长叶与细茎。交叉处一笔通过，不把所有交点涂成黑团。",
+          "check": "深叶集中在根部与组内，不把外轮廓描一圈。"
+        },
+        {
+          "title": "点自然穗头",
+          "tools": "31",
+          "action": "在约5条高茎顶端，用4～6个错开的短点形成渐尖小穗；点与点之间留缝，不画实心胶囊。",
+          "check": "穗头大小不同但朝向有联系。"
+        },
+        {
+          "title": "疏开根部",
+          "tools": "58、44",
+          "action": "从远处看三组是否粘成一排。只在空缺根部补1～2条短叶；已经挤满的位置停笔，不靠加浅色擦开。",
+          "check": "三组间白隙仍可读，根部密、叶尖疏。"
+        },
+        {
+          "title": "比较长短节奏",
+          "tools": "橡皮",
+          "action": "干后擦弱可见铅笔，检查高—低—中的节奏。任选一组在废纸再画一个更疏的版本，对比哪种更清楚。",
+          "check": "能说明长叶、短叶和空隙分别承担什么作用。"
+        }
+      ],
+      "structure": "草叶从根部向外伸出，叶根稍宽、叶尖提细；三组高低和倾角不完全相同，穗头由错开短点组成。",
+      "lesson_path": "lessons/intermediate/037-grass-rhythm.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-014",
+      "stage": "intermediate",
+      "slot": 3,
+      "slug": "red-flower-transfer",
+      "title": "红花向着光",
+      "goal": "把叶簇笔触迁移到花丛并保留亮部",
+      "colors": [
+        "11",
+        "9",
+        "58",
+        "41",
+        "25"
+      ],
+      "scene": "Small sunny patch of red flowers growing naturally outdoors, THREE flower groups at staggered heights, broad pale-pink flower masses with selective red short dabs on lower edges, muted-teal leaves and dark-olive small bases, pale gray-beige ground. Open white paper all around. No vase or pot, no petal microdetail. More grouped brushwork than beginner but still simple.",
+      "decision": "自行安排高低；用浅粉底与红色短笔触迁移叶簇方法",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Small sunny patch of red flowers growing naturally outdoors, THREE flower groups at staggered heights, broad pale-pink flower masses with selective red short dabs on lower edges, muted-teal leaves and dark-olive small bases, pale gray-beige ground. Open white paper all around. No vase or pot, no petal microdetail. More grouped brushwork than beginner but still simple. Palette: 11 red; 9 pale pink; 58 muted teal; 41 dark olive; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/038-red-flower-transfer/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-014/README.md",
+      "operations": [
+        {
+          "title": "标三组花的高低",
+          "tools": "铅笔",
+          "action": "用三个不规则范围标花丛，右高、左中、前方低；每组只画3～5个主花团的位置，枝叶细节先省略。",
+          "check": "至少留两条穿过花叶的纸白空隙。"
+        },
+        {
+          "title": "测试花瓣短触",
+          "tools": "9、11",
+          "action": "废纸先用9做3～4个向外短触成一朵，再在干后的下缘加一笔11。花朵靠方向识别，不依赖完整花瓣轮廓。",
+          "check": "11明显比9更深，浅花仍占主要面积。"
+        },
+        {
+          "title": "铺浅花团",
+          "tools": "9",
+          "action": "逐组从上向下画浅粉花团，每团用3～5个宽触，花团之间留纸白。不要沿三组定位边界整片填粉。",
+          "check": "有大有小，花头仍分成三组。"
+        },
+        {
+          "title": "留花位画叶",
+          "tools": "58",
+          "action": "在花团下方画少量扇形叶簇和连接茎，遇花头与枝间空隙跳开；先做较浅的一遍，不追画所有锯齿。",
+          "check": "花没有被青绿线横穿，茎与花大致相接。"
+        },
+        {
+          "title": "补暖地面",
+          "tools": "25",
+          "action": "在根部周围薄铺极浅灰米，跳开主要叶片和受光纸白。示意中较暖的地面不需要用鲜黄去追。",
+          "check": "地面是衬托，不成为第五组花。"
+        },
+        {
+          "title": "干后加红花面",
+          "tools": "11",
+          "action": "先看浅粉干燥，再只在部分花团的下侧或重叠处添红色，每团1～2笔即可，至少保留半数浅花不加深。",
+          "check": "红色形成有节奏的焦点，不铺满所有花瓣。"
+        },
+        {
+          "title": "收住叶底",
+          "tools": "41",
+          "action": "用少量橄榄绿点在根部和被花挡住的叶间，减少大面积深底；交叉太多的地方不再加笔。",
+          "check": "暗色能托住花，未把根部连成沉重横带。"
+        },
+        {
+          "title": "检查迁移能力",
+          "tools": "橡皮",
+          "action": "擦去定位范围，在废纸用同样的浅底—少量深触画一团不同朝向的花。主体完成后停止加小花。",
+          "check": "能把叶簇的疏密方法迁移到花丛，不靠花瓣数量表现难度。"
+        }
+      ],
+      "structure": "花团先浅后深，茎在花下方连接；扇形叶可以概括成宽触，锯齿、小花蕾和地面碎石均可省略。",
+      "lesson_path": "lessons/intermediate/038-red-flower-transfer.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-015",
+      "stage": "intermediate",
+      "slot": 4,
+      "slug": "lavender-banks",
+      "title": "薰衣草的小空隙",
+      "goal": "用笔触密度表现成团植物并留通气空隙",
+      "colors": [
+        "75",
+        "82",
+        "58",
+        "172",
+        "25"
+      ],
+      "scene": "Two low crescent-shaped groups of lavender plants face each other around an OPEN WHITE winding gap at center. Broad simplified muted-teal stems, pale lavender flower spikes with small deeper-purple dabs, very pale gray-green ground and pale beige sunny patch. View slightly from above, no rows extending to horizon, no buildings. About 12 main flower spikes, generous open paper.",
+      "decision": "自己决定中央空隙宽度；不要用紫色填满整片",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Two low crescent-shaped groups of lavender plants face each other around an OPEN WHITE winding gap at center. Broad simplified muted-teal stems, pale lavender flower spikes with small deeper-purple dabs, very pale gray-green ground and pale beige sunny patch. View slightly from above, no rows extending to horizon, no buildings. About 12 main flower spikes, generous open paper. Palette: 75 pale lavender; 82 deeper purple; 58 muted teal; 172 extremely pale gray-green; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/039-lavender-banks/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-015/README.md",
+      "operations": [
+        {
+          "title": "先画中央空隙",
+          "tools": "铅笔",
+          "action": "先画从下方往中间弯入的白色通道，再在左右安排两片不等大的花丛。每边只标5～6根主要花穗。",
+          "check": "两片花丛不相撞，通道上宽下宽可自行选择但要连贯。"
+        },
+        {
+          "title": "轻铺地面",
+          "tools": "25、172",
+          "action": "25铺花根附近的暖地，172铺更远的灰绿小块；中央通道最亮部分不涂。每块仅一遍，不预铺深色底。",
+          "check": "白通道完整，没有为了铺地把花位盖住。"
+        },
+        {
+          "title": "排浅紫花穗",
+          "tools": "75",
+          "action": "每根穗从上往下点3～5个短触，上窄下略宽。高低和倾角错开，左右不画成对称栅栏。",
+          "check": "花穗间有白隙，每边不必超过六根主穗。"
+        },
+        {
+          "title": "接青绿茎",
+          "tools": "58",
+          "action": "从花穗根部向下细画茎，靠根处用长短叶触组成一团；叶尖可伸向通道，但不堵断通道。",
+          "check": "穗接茎、茎接根，长叶与短花触能区分。"
+        },
+        {
+          "title": "干后加深花节",
+          "tools": "82",
+          "action": "等75干透，在每根穗中下部选择2～3处点深紫，留出大部分浅紫；不用82把每个短触都描边。",
+          "check": "浅紫占主导，远侧花更少、更浅。"
+        },
+        {
+          "title": "加强前后叶",
+          "tools": "58",
+          "action": "前侧花根可再加一遍58形成叠笔暗部，远侧保持单层；在叶簇边缘留尖叶，不画匀整锯齿边。",
+          "check": "前密后疏，两边也有疏密差异。"
+        },
+        {
+          "title": "保护空隙边缘",
+          "tools": "25、75",
+          "action": "仅在通道拐弯旁补一小块地色或一根浅花穗，接近白隙时提前提笔，不补齐所有断口。",
+          "check": "白隙比花穗细节更醒目，曲线可从下追到上。"
+        },
+        {
+          "title": "留一版疏花作对照",
+          "tools": "铅笔、橡皮",
+          "action": "干后擦弱轮廓，在废纸只用一半花穗数量重画一小丛。比较密版和疏版，说明哪处必须留下空隙。",
+          "check": "完成的是密度控制，不要求复制满幅薰衣草。"
+        }
+      ],
+      "structure": "中央空隙是主要结构，花穗与长叶围绕它安排；各边5～6根主穗即可，后方叶可只留一层浅色。",
+      "lesson_path": "lessons/intermediate/039-lavender-banks.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-016",
+      "stage": "intermediate",
+      "slot": 5,
+      "slug": "stone-shadow-transfer",
+      "title": "两块石头的午后",
+      "goal": "在两个物体上保持一致光向和明暗分组",
+      "colors": [
+        "25",
+        "95",
+        "WG5",
+        "172",
+        "41"
+      ],
+      "scene": "TWO rounded angular stones of unequal size on pale gray-green ground; larger at left behind, smaller at right front. Both have pale beige top-left lit planes and ochre right-side shadow planes, a SINGLE coherent muted warm-gray ground shadow extends to lower right. Few olive grass strokes, white background. Clear grounded contact, no stone textures or gradients. Sun from upper left. Five discrete marker hues.",
+      "decision": "自行选择大小比例；两块石头的暗面与投影方向一致",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: TWO rounded angular stones of unequal size on pale gray-green ground; larger at left behind, smaller at right front. Both have pale beige top-left lit planes and ochre right-side shadow planes, a SINGLE coherent muted warm-gray ground shadow extends to lower right. Few olive grass strokes, white background. Clear grounded contact, no stone textures or gradients. Sun from upper left. Five discrete marker hues. Palette: 25 very pale gray-beige; 95 ochre brown; WG5 light warm gray; 172 extremely pale gray-green; 41 dark olive. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/040-stone-shadow-transfer/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-016/README.md",
+      "operations": [
+        {
+          "title": "统一光向与大小",
+          "tools": "铅笔",
+          "action": "左后方画大石，右前方画小石；纸边轻标左上来光箭头。先画大石再画小石，擦去被小石挡住的底边。",
+          "check": "两块石头有大小差，落在同一地面。"
+        },
+        {
+          "title": "分出两块明暗面",
+          "tools": "铅笔",
+          "action": "每块只用一条转折线分左上受光面和右下暗面，暂不添裂纹；投影统一朝右下伸出。",
+          "check": "两块暗面都在同一侧，投影从接地点起。"
+        },
+        {
+          "title": "铺浅地并留石位",
+          "tools": "172",
+          "action": "极浅灰绿铺地面，石头与投影位置先空着；沿地面方向落笔，不让草地穿过石头。",
+          "check": "石头位置干净，投影轮廓仍可辨。"
+        },
+        {
+          "title": "铺受光石面",
+          "tools": "25",
+          "action": "单层铺两块石头的左上大面，不追图中细碎暖黄色；接近转折线时减速，保留上沿一小段纸白。",
+          "check": "上面比侧面预留区浅，亮沿不是白笔后补。"
+        },
+        {
+          "title": "画赭棕暗面",
+          "tools": "95",
+          "action": "铺两块右下暗面，分别从上到下接笔。暂时不把95混进25大面，只用清晰分面说明转折。",
+          "check": "石头能读出体面，不依赖涂抹渐变。"
+        },
+        {
+          "title": "投影贴住地面",
+          "tools": "WG5",
+          "action": "等旁边颜色干，沿右下方向铺一块统一浅暖灰投影，从接触边开始向外收细；图中偏冷灰仍以WG5实物为准。",
+          "check": "没有一条白缝把投影与石头隔开，前后投影方向相同。"
+        },
+        {
+          "title": "少量草与接触暗",
+          "tools": "41、95",
+          "action": "41在石脚外侧补几组短草，95仅在接触最窄处加一短笔，不给石头画黑边、不添加大堆砂砾。",
+          "check": "接地明确，草没有跨过完整石面。"
+        },
+        {
+          "title": "两物体交叉检查",
+          "tools": "橡皮",
+          "action": "遮住一块看另一块，再一起看；若一块暗面朝反方向，不用加纹理掩盖，在下一小稿改正分面。",
+          "check": "能指出光源、受光面、暗面、投影四者关系。"
+        }
+      ],
+      "structure": "石头是分面而不是渐变；大石挡在后、小石挡前，所有暗面与投影对应同一个左上光源。",
+      "lesson_path": "lessons/intermediate/040-stone-shadow-transfer.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-017",
+      "stage": "intermediate",
+      "slot": 6,
+      "slug": "reed-patch",
+      "title": "一小片芦苇",
+      "goal": "组合长叶与短穗笔触并控制留白",
+      "colors": [
+        "31",
+        "95",
+        "58",
+        "65",
+        "143",
+        "172"
+      ],
+      "scene": "Sparse small reed cluster along a narrow strip of pale blue-gray water at bottom. About NINE stems in two unequal clumps, mustard seed-head dashes, ochre thin stems, muted-teal long leaves gently leaning left. Limited blue-green water dashes, white paper reflection gaps, pale ground. No full lake panorama, far hills, buildings or dense reed curtain. Main emphasis stroke direction and white gaps.",
+      "decision": "决定两簇之间的距离；反光留纸白，控制水纹数量",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Sparse small reed cluster along a narrow strip of pale blue-gray water at bottom. About NINE stems in two unequal clumps, mustard seed-head dashes, ochre thin stems, muted-teal long leaves gently leaning left. Limited blue-green water dashes, white paper reflection gaps, pale ground. No full lake panorama, far hills, buildings or dense reed curtain. Main emphasis stroke direction and white gaps. Palette: 31 mustard yellow; 95 ochre brown; 58 muted teal; 65 blue-green; 143 extremely pale blue-gray; 172 extremely pale gray-green. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/041-reed-patch/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-017/README.md",
+      "operations": [
+        {
+          "title": "安排两簇与水线",
+          "tools": "铅笔",
+          "action": "左大右小两簇根部贴着低水线，每簇保留4～5根主茎。先标最高和最低两根，再插入其余弧线。",
+          "check": "两簇之间有明确空隙，不成为一整排芦苇。"
+        },
+        {
+          "title": "预留水光",
+          "tools": "铅笔",
+          "action": "水面只占下方约四分之一，轻标2～3段水平白带；水下倒影只留大致范围，不画逐茎镜像。",
+          "check": "白带水平断续，不是竖向白条。"
+        },
+        {
+          "title": "铺浅水与岸",
+          "tools": "143、172",
+          "action": "143横向铺浅水，172轻铺岸根；绕开白带。交界处用短横笔，不让岸色刷满整片水。",
+          "check": "岸比水稳，反光纸白完整。"
+        },
+        {
+          "title": "画细茎骨架",
+          "tools": "95",
+          "action": "沿主弧线从根向上提笔，细茎有高低和轻微倾角差；茎上端收细，不用铅笔粗线反复套描。",
+          "check": "茎能连接穗头位置，交叉不涂成团。"
+        },
+        {
+          "title": "顺弧线添长叶",
+          "tools": "58",
+          "action": "每根选1～2片叶，用根部稍压、叶尖提起的动作画；有的叶向左弯，有的留向上直立。",
+          "check": "主风向有联系，同时避免复制相同叶形。"
+        },
+        {
+          "title": "点穗留间隙",
+          "tools": "31",
+          "action": "各穗用数个错开的短触，顶部稀疏、下部略密；长穗和短穗交错，不画成一条黄色边。",
+          "check": "穗比叶短，纸白可以从穗间穿过。"
+        },
+        {
+          "title": "少量水纹和倒影",
+          "tools": "65、58",
+          "action": "水底色干后用65加4～6条短横纹，近长远短；58仅在根部下方点两块破碎倒影，不逐片照抄叶子。",
+          "check": "水纹少于岸上笔触，白带未被覆盖。"
+        },
+        {
+          "title": "根部密度收尾",
+          "tools": "58、95",
+          "action": "选两处根部补深，不全线加重；擦去水光定位线。看两簇与水纹是否分成竖长与横短两套节奏。",
+          "check": "可辨岸上生长方向与水面水平，不依赖复杂反射。"
+        }
+      ],
+      "structure": "岸上长线与水面短横线形成两套方向；倒影只选两三块破碎大形，不逐茎逐叶镜像。",
+      "lesson_path": "lessons/intermediate/041-reed-patch.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-018",
+      "stage": "intermediate",
+      "slot": 7,
+      "slug": "shrub-review",
+      "title": "两种笔触的小花坡",
+      "goal": "回看叶簇与草叶笔触能否清楚分组",
+      "colors": [
+        "44",
+        "41",
+        "75",
+        "58",
+        "172",
+        "25"
+      ],
+      "scene": "Small sloping flowerbed vignette, ONE broad yellow-olive low shrub at upper right with dark-olive clustered short dabs, THREE pale lavender flower groups near lower left, a FEW longer muted-teal grasses, pale gray-green slope and small beige bare-earth edge. White paper sky, no scenery beyond. Keep individual skill groups readable, no tiny decoration.",
+      "decision": "先不看成品设计植物高低；检查短叶簇与长草叶的区别",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Small sloping flowerbed vignette, ONE broad yellow-olive low shrub at upper right with dark-olive clustered short dabs, THREE pale lavender flower groups near lower left, a FEW longer muted-teal grasses, pale gray-green slope and small beige bare-earth edge. White paper sky, no scenery beyond. Keep individual skill groups readable, no tiny decoration. Palette: 44 yellow olive; 41 dark olive; 75 pale lavender; 58 muted teal; 172 extremely pale gray-green; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/intermediate/042-shrub-review/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/intermediate/S002-018/README.md",
+      "operations": [
+        {
+          "title": "先排两类植物",
+          "tools": "铅笔",
+          "action": "右上放一团低灌木，左下放三组花，花间只添少量长草。先以大形比较占比，不把整坡都填植物。",
+          "check": "灌木与花群互相呼应，留一处空坡面。"
+        },
+        {
+          "title": "铺浅坡与土边",
+          "tools": "172、25",
+          "action": "172顺斜坡薄铺，25在坡脚画小段土边；灌木与花的主体区先留空。",
+          "check": "坡线明确，土边不变成第二条粗轮廓。"
+        },
+        {
+          "title": "搭浅叶簇",
+          "tools": "44",
+          "action": "用宽短触先搭灌木大形，边缘有缺口；只在几处伸出稍长的叶触，避免画一圈相同叶子。",
+          "check": "退远看先读成一团，再看才有笔触。"
+        },
+        {
+          "title": "落浅紫花群",
+          "tools": "75",
+          "action": "三组花高低错开，每组3～5个浅紫短触，主花集中在左下，其他花明显更少。",
+          "check": "花群有主次，没把坡面变成均匀花点。"
+        },
+        {
+          "title": "画茎与长草",
+          "tools": "58",
+          "action": "先连接花茎，再在两处空隙添几条长草叶；长叶跨越小范围，但不横穿灌木全部主体。",
+          "check": "短叶簇、短花点、长草叶三者可区分。"
+        },
+        {
+          "title": "干后压叶簇暗",
+          "tools": "41",
+          "action": "灌木下部与背光缝隙加少量暗触，疏处继续疏，密处也保留浅底；不沿外缘排深点。",
+          "check": "明暗分组清楚，不成为规则点缀。"
+        },
+        {
+          "title": "调整组合疏密",
+          "tools": "44、75、58",
+          "action": "只允许在一处失衡的空洞补少量中间笔触；若已太密，在废纸画减量方案，不用浅色覆盖深底。",
+          "check": "能说出一处密区、一处疏区和一处留白。"
+        },
+        {
+          "title": "专项阶段回看",
+          "tools": "铅笔、橡皮",
+          "action": "干后擦弱定位线，在不看图的情况下另画一小团灌木或长草，说明自己使用了何种方向与密度控制。",
+          "check": "凭实际操作而非图像数量决定是否进入D3。"
+        }
+      ],
+      "structure": "把灌木短簇、花短点和草长叶分成三组笔触；若三组都画得一样密，先停笔并在下一稿删量。",
+      "lesson_path": "lessons/intermediate/042-shrub-review.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-019",
+      "stage": "scene",
+      "slot": 1,
+      "slug": "fence-corner",
+      "title": "木栅栏边的晴光",
+      "goal": "用前后遮挡建立三层小景",
+      "colors": [
+        "67",
+        "172",
+        "44",
+        "41",
+        "95",
+        "25"
+      ],
+      "scene": "Simple sunny garden corner with a low TWO-panel wooden rail fence turning gently into distance, ochre posts with realistic connected rails and ground contact. A yellow-olive shrub partly overlaps fence at lower left, a pale gray-green lawn behind, small pale-cyan sky patch. Beige bare ground in foreground, sparse olive grass dabs. Three readable depth layers. No house, gate hardware, flowers or fine wood grain. Square marker illustration, moderate detail.",
+      "decision": "前景灌木挡住一部分栅栏；检查栅栏连接而非孤立悬杆",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: Simple sunny garden corner with a low TWO-panel wooden rail fence turning gently into distance, ochre posts with realistic connected rails and ground contact. A yellow-olive shrub partly overlaps fence at lower left, a pale gray-green lawn behind, small pale-cyan sky patch. Beige bare ground in foreground, sparse olive grass dabs. Three readable depth layers. No house, gate hardware, flowers or fine wood grain. Square marker illustration, moderate detail. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/043-fence-corner/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-019/README.md",
+      "operations": [
+        {
+          "title": "定位三层与焦点",
+          "tools": "铅笔",
+          "action": "画幅约12厘米，先标近处灌木、中间栅栏、远处草地三层；栅栏最高处不过画面上三分之二。",
+          "check": "主体是栅栏与灌木，不让远树抢焦点。"
+        },
+        {
+          "title": "校正柱与横杆",
+          "tools": "铅笔",
+          "action": "标两根主柱的上、下端，再画两条横杆；每根杆必须接到柱上，远端略短、略窄，不凭空结束在草里。",
+          "check": "杆与柱连接明确，柱底在同一坡面。"
+        },
+        {
+          "title": "画遮挡留空",
+          "tools": "铅笔、橡皮",
+          "action": "近灌木先圈不规则外形，擦去被灌木挡住的栏杆线；草叶与天空小孔只留主要几处。",
+          "check": "看得到的杆才保留，不透过植物画完整栏杆。"
+        },
+        {
+          "title": "铺远天空和草地",
+          "tools": "67、172",
+          "action": "67只铺上方小片天空，云留纸白；172铺远草地，栅栏与灌木区域暂不涂。",
+          "check": "远景比近景轻，天空不压满整张纸。"
+        },
+        {
+          "title": "搭远树浅色",
+          "tools": "44",
+          "action": "用少量大短触概括远树和低灌木，边缘软而不碎；近灌木只先铺浅形，不急着每叶加深。",
+          "check": "远树笔触比近叶更少、更小。"
+        },
+        {
+          "title": "铺土与木头亮面",
+          "tools": "25、95",
+          "action": "25薄铺近地，95单层画柱和杆的正面，顶部窄边提前留浅；不另加图外的深棕色号。",
+          "check": "杆有厚度但不靠黑线包边，浅亮边是预留。"
+        },
+        {
+          "title": "干后建立木头暗侧",
+          "tools": "95",
+          "action": "用同一95第二遍只压柱侧、杆下沿和连接处的小窄面。一次画完一条暗侧，别湿叠来回刷。",
+          "check": "暗侧方向一致，横杆不会变成漂浮线条。"
+        },
+        {
+          "title": "丰富近灌木笔触",
+          "tools": "44、41",
+          "action": "近叶以44宽触和41少量背光触形成不规则边；让几片叶挡住栏杆，暗色集中在根部和重叠处。",
+          "check": "近密远疏，栏杆仍是可读的大形。"
+        },
+        {
+          "title": "安排一组投影",
+          "tools": "41、172",
+          "action": "先在废纸试172上极少41短触，满意后在柱脚和叶下铺断续阴影；不把每片叶复制到地面。",
+          "check": "阴影从物体脚下出发，方向统一。"
+        },
+        {
+          "title": "处理草与结构线",
+          "tools": "41、95、可选0.15针管笔",
+          "action": "土边只添三五组草。全干后若连接处仍不清楚，仅补一段细结构线，不勾整张风景。",
+          "check": "杆接柱、柱接地，最后删除心中想加的无关小物。"
+        }
+      ],
+      "structure": "横杆必须接柱，柱脚落坡；近灌木遮挡的栏杆不透画。可省略木纹和大多数远树，不能省掉横杆厚边与支撑关系。",
+      "lesson_path": "lessons/scene/043-fence-corner.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-020",
+      "stage": "scene",
+      "slot": 2,
+      "slug": "stream-turn",
+      "title": "小溪拐了个弯",
+      "goal": "用近宽远窄的水面组织纵深",
+      "colors": [
+        "67",
+        "65",
+        "58",
+        "172",
+        "95",
+        "25",
+        "41"
+      ],
+      "scene": "A SMALL shallow creek enters bottom center broad, bends left and narrows into upper third, pale cyan water with a few blue-green horizontal dashes and white highlights reserved. Two warm beige banks, one ochre stone at near left, sparse muted-teal grasses at right, pale gray-green distant bank and olive shrub. No bridge, waterfall, mountains or reflections of complex objects. Bright open sky mainly white. Moderate sunny depth study.",
+      "decision": "先安排溪流形状，再决定两岸植物，水纹远处更少",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A SMALL shallow creek enters bottom center broad, bends left and narrows into upper third, pale cyan water with a few blue-green horizontal dashes and white highlights reserved. Two warm beige banks, one ochre stone at near left, sparse muted-teal grasses at right, pale gray-green distant bank and olive shrub. No bridge, waterfall, mountains or reflections of complex objects. Bright open sky mainly white. Moderate sunny depth study. Palette: 67 pale cyan; 65 blue-green; 58 muted teal; 172 extremely pale gray-green; 95 ochre brown; 25 very pale gray-beige; 41 dark olive. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/044-stream-turn/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-020/README.md",
+      "operations": [
+        {
+          "title": "先画溪流轮廓",
+          "tools": "铅笔",
+          "action": "从下方画宽水面，向左拐入中景后明显收窄；画左右岸两条不同曲线，不画等距管道。",
+          "check": "近端水宽至少约远端三倍，弯处连贯。"
+        },
+        {
+          "title": "定位三类岸物",
+          "tools": "铅笔",
+          "action": "近左放一块主石，右侧一簇长草，远处两团低灌木；先不画碎石和水纹。",
+          "check": "近石、岸草、远灌木分别占位，水道仍通。"
+        },
+        {
+          "title": "标白色水光",
+          "tools": "铅笔",
+          "action": "用小横线轻标两三段反光，靠前段较长、远处较短；主石上缘留细亮边。",
+          "check": "反光是横向，未把整片水分成棋盘格。"
+        },
+        {
+          "title": "薄铺远景与岸土",
+          "tools": "172、25",
+          "action": "172轻铺远岸和低坡，25铺近岸土色；靠水的边界断续有变化，草与石位留空。",
+          "check": "土不横穿水道，远处更简略。"
+        },
+        {
+          "title": "铺浅水底",
+          "tools": "67",
+          "action": "从远到近用水平接笔铺水面，绕过白色水光；不要用斜笔沿溪流轮廓一圈圈填。",
+          "check": "水面平，弯曲靠两岸形状表现而非扭曲水纹。"
+        },
+        {
+          "title": "画主石分面",
+          "tools": "25、95",
+          "action": "25铺石头上部，95铺右下侧与贴水的窄面，预留上缘浅亮；不画细密裂纹。",
+          "check": "石头落在岸上且一部分贴水，没有整块漂浮。"
+        },
+        {
+          "title": "画岸草与远灌木",
+          "tools": "58、41",
+          "action": "58用长叶触做右岸草，41少量短触做远灌木暗处；远树不刻画叶子，近草保留白隙。",
+          "check": "两岸没有同密度的一圈植物边。"
+        },
+        {
+          "title": "等水底干后添水纹",
+          "tools": "65",
+          "action": "只在近水与弯处加8～12条不同长度短横纹，中远景数量减半，白带不补满。",
+          "check": "水纹始终水平，远处更细更少。"
+        },
+        {
+          "title": "补水边接触暗",
+          "tools": "58、95",
+          "action": "在石头贴水处用95细压一小段，在少数草根下用58横短笔表示倒影；不逐物镜像。",
+          "check": "暗边断续，不把整条溪描成深框。"
+        },
+        {
+          "title": "综合收尾与删减",
+          "tools": "67、橡皮",
+          "action": "干后检查一米外溪流能否自然带视线到远处。图中细碎石子可全部省略；若近岸太密，下一小稿减量，不浅盖深。",
+          "check": "近宽远窄、横向水纹、两岸层次同时成立。"
+        }
+      ],
+      "structure": "水面所有纹路仍近似水平，纵深来自两岸形状及近宽远窄；石与水接触暗应断续，不能整圈黑描。",
+      "lesson_path": "lessons/scene/044-stream-turn.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-021",
+      "stage": "scene",
+      "slot": 3,
+      "slug": "gate-through-flowers",
+      "title": "花丛后的园门",
+      "goal": "安排一个焦点并降低次要细节",
+      "colors": [
+        "9",
+        "11",
+        "58",
+        "44",
+        "95",
+        "25",
+        "143"
+      ],
+      "scene": "A small simple open wooden garden gate at upper right third, coherent ochre rectangular posts and two diagonal braces, pale beige path goes from lower left to it. Loose pale pink and red flower masses at lower left frame rather than obscure the path. Muted-teal and yellow-olive foliage, extremely pale blue-gray sky, large open white sunlit spaces. No house or wall, no tiny flowers, no full garden panorama. Focus on gate and path, modest marker strokes.",
+      "decision": "选择门或花丛其一作焦点，另一处减少对比",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A small simple open wooden garden gate at upper right third, coherent ochre rectangular posts and two diagonal braces, pale beige path goes from lower left to it. Loose pale pink and red flower masses at lower left frame rather than obscure the path. Muted-teal and yellow-olive foliage, extremely pale blue-gray sky, large open white sunlit spaces. No house or wall, no tiny flowers, no full garden panorama. Focus on gate and path, modest marker strokes. Palette: 9 pale pink; 11 red; 58 muted teal; 44 yellow olive; 95 ochre brown; 25 very pale gray-beige; 143 extremely pale blue-gray. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/045-gate-through-flowers/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-021/README.md",
+      "operations": [
+        {
+          "title": "选门作焦点",
+          "tools": "铅笔",
+          "action": "园门放右上三分点，花群放左下；路从近处通向门。先写一句“门最清楚，花作陪衬”。",
+          "check": "门与花不等大、不等对比。"
+        },
+        {
+          "title": "画门的结构",
+          "tools": "铅笔",
+          "action": "两根门柱直立，门框四边闭合；斜撑从门框一角接到对角，横杆均接框内，不重复添加悬空细杆。",
+          "check": "门柱落地，门页与柱的位置关系可解释。"
+        },
+        {
+          "title": "整理道路和遮挡",
+          "tools": "铅笔、橡皮",
+          "action": "小路近宽远窄，到了门口要接住门槛；花叶挡住道路左边一部分，但不堵住通行带。",
+          "check": "小路能带视线到门，门不站在路旁。"
+        },
+        {
+          "title": "铺空气与地面",
+          "tools": "143、25",
+          "action": "143薄铺上方远景小片，25铺路和土；亮处留纸白，花与门的区域先保留。",
+          "check": "远景轻，路的主亮带清楚。"
+        },
+        {
+          "title": "铺浅粉花群",
+          "tools": "9",
+          "action": "把花归为三五团浅粉大形，近团大、远团小；不急着点每朵花，不让浅粉铺到门框。",
+          "check": "花能衬路，不形成一整堵粉墙。"
+        },
+        {
+          "title": "搭中远植物",
+          "tools": "44、58",
+          "action": "44搭较远受光灌木，58做近侧叶丛；先用宽触填大形，再少量留尖叶。",
+          "check": "背景对比弱于门，近叶不穿透门框。"
+        },
+        {
+          "title": "画木门亮暗",
+          "tools": "95",
+          "action": "先单层铺木门，干后用同色加深下沿、斜撑侧面和柱暗侧。顶边保留浅色，不画密集木纹。",
+          "check": "框、横杆、斜撑仍各自可读，接点没有错位。"
+        },
+        {
+          "title": "少量红花定位",
+          "tools": "11",
+          "action": "在浅粉干后，只在左下焦点附近和一两处小团补红，远处只保留浅粉。",
+          "check": "红色没有沿道路两边平均排满。"
+        },
+        {
+          "title": "压根部与投影",
+          "tools": "58、143",
+          "action": "58加少量叶根暗，143在门脚和路边薄铺统一方向的阴影；影浅时保留，不为追图换深紫。",
+          "check": "门脚贴地，投影不遮住门槛结构。"
+        },
+        {
+          "title": "退远比较主次",
+          "tools": "橡皮、可选针管笔",
+          "action": "彻底干后只补门上最关键的一两段连接线，花边不勾黑；若花太抢，停止加红，在下一稿缩小花面积。",
+          "check": "视线先到门或道路，再看花群细节。"
+        }
+      ],
+      "structure": "门框闭合、斜撑接角、门槛接路；花丛最多三五团。主体不明确时减少花色对比，不继续增加门上的小五金。",
+      "lesson_path": "lessons/scene/045-gate-through-flowers.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-022",
+      "stage": "scene",
+      "slot": 4,
+      "slug": "orchard-rest",
+      "title": "果园里的空木箱",
+      "goal": "协调植物大形与箱体结构",
+      "colors": [
+        "37",
+        "41",
+        "95",
+        "92",
+        "25",
+        "172",
+        "67"
+      ],
+      "scene": "One compact fruit-tree canopy at left upper half, no individually counted fruit, one small EMPTY wooden harvest crate on ground at right front. Crate visible top opening, inner dark-brown base and ochre side planes, consistent perspective, no false filled-in lid. Pale beige path between, pale gray-green ground, tiny pale-cyan sky patch. Sunny tree shadow limited to one grouped shape. No bench or flowers. Simplified sunny orchard scene.",
+      "decision": "箱口、内底和侧面可读；树冠不刻画每片叶",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: One compact fruit-tree canopy at left upper half, no individually counted fruit, one small EMPTY wooden harvest crate on ground at right front. Crate visible top opening, inner dark-brown base and ochre side planes, consistent perspective, no false filled-in lid. Pale beige path between, pale gray-green ground, tiny pale-cyan sky patch. Sunny tree shadow limited to one grouped shape. No bench or flowers. Simplified sunny orchard scene. Palette: 37 yellow-green; 41 dark olive; 95 ochre brown; 92 dark brown; 25 very pale gray-beige; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/046-orchard-rest/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-022/README.md",
+      "operations": [
+        {
+          "title": "定位树与箱",
+          "tools": "铅笔",
+          "action": "左上放树冠，右下放空箱，留一条从近地通往中景的亮路；树冠与箱都不能占满画幅。",
+          "check": "箱是结构训练重点，树仅提供环境。"
+        },
+        {
+          "title": "先画箱口四边形",
+          "tools": "铅笔",
+          "action": "用一个倾斜四边形表示开口，四角确定后向下画四根竖边，再连底边；左右边分别保持近大远小。",
+          "check": "箱口能看进去，不是画了带盖方块。"
+        },
+        {
+          "title": "补口沿和内底",
+          "tools": "铅笔",
+          "action": "沿箱口向内退一窄圈形成厚度，再在内部画较低的内底；被前壁挡住的内底线擦去。",
+          "check": "开口、厚边、内底、外壁四者可区分。"
+        },
+        {
+          "title": "标遮挡与树枝",
+          "tools": "铅笔、橡皮",
+          "action": "树干与主枝只保留几条，树冠用大范围概括；箱子挡住的草和地线擦去。",
+          "check": "没有树枝穿箱、地线穿箱的情况。"
+        },
+        {
+          "title": "铺天空与地面",
+          "tools": "67、172、25",
+          "action": "67铺小片天空，172铺草地，25铺亮路；云、树冠浅部和箱口细亮边保留。",
+          "check": "路面连续，箱体区域干净。"
+        },
+        {
+          "title": "搭树冠浅色",
+          "tools": "37",
+          "action": "先用宽短触搭三四个相接树冠团块，边缘留透光空隙，不逐片画叶；树冠不跨到箱口。",
+          "check": "树形明亮，主体数量未增加。"
+        },
+        {
+          "title": "铺木箱外壁",
+          "tools": "95",
+          "action": "单层铺箱外壁和可见口沿，左右侧稍有方向差；木板缝先用空隙或细留白表示，不密画钉子。",
+          "check": "板条方向顺着箱面，口沿厚度均匀。"
+        },
+        {
+          "title": "建立内部暗与树干",
+          "tools": "92、95",
+          "action": "全干后用92压内壁和内底最暗处，留一侧内壁稍浅；95画树干，必要处用92一小段暗侧。",
+          "check": "箱内比外壁暗但仍能看出内底，不成为纯黑洞。"
+        },
+        {
+          "title": "补植物暗与投影",
+          "tools": "41、172",
+          "action": "41放树冠交叠暗部与箱脚少量草；172地面上少量叠层概括树影，不能逐片照搬全部叶子。",
+          "check": "投影方向一致，箱脚与地面接触。"
+        },
+        {
+          "title": "箱体最终检查",
+          "tools": "可选0.15针管笔、橡皮",
+          "action": "干后沿口沿或前角补极少结构线。遮住树检查箱是否成立；细枝、远树、碎草均可减去。",
+          "check": "开口、厚度、支撑和前后遮挡全部可解释。"
+        }
+      ],
+      "structure": "先画箱口四边形，再画外壁与窄口沿，内底位置低于后口沿且被前壁遮挡；空箱不是一个有盖的立方体。",
+      "lesson_path": "lessons/scene/046-orchard-rest.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-023",
+      "stage": "scene",
+      "slot": 5,
+      "slug": "steps-and-shadow",
+      "title": "台阶上的树影",
+      "goal": "统一地面转折与投影关系",
+      "colors": [
+        "25",
+        "WG5",
+        "WG7",
+        "44",
+        "41",
+        "95"
+      ],
+      "scene": "Two broad warm beige outdoor stone steps viewed from slightly above at an angle. One potted shrub sits on upper landing far right, simple ochre pot with readable elliptical rim and tapered body; yellow-olive foliage. Broad coherent warm-gray leaf-shaped shadow falls diagonally across landing AND over step risers with bends following planes. Keep shadow simplified in 2-3 connected masses, no intricate lace shadows. White background and few plant strokes. No door, house or extra pots.",
+      "decision": "先确定台阶平面，再让投影随转折改变，不用投影遮盖结构错误",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: Two broad warm beige outdoor stone steps viewed from slightly above at an angle. One potted shrub sits on upper landing far right, simple ochre pot with readable elliptical rim and tapered body; yellow-olive foliage. Broad coherent warm-gray leaf-shaped shadow falls diagonally across landing AND over step risers with bends following planes. Keep shadow simplified in 2-3 connected masses, no intricate lace shadows. White background and few plant strokes. No door, house or extra pots. Palette: 25 very pale gray-beige; WG5 light warm gray; WG7 dark warm gray; 44 yellow olive; 41 dark olive; 95 ochre brown. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/047-steps-and-shadow/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-023/README.md",
+      "operations": [
+        {
+          "title": "确定台阶方向",
+          "tools": "铅笔",
+          "action": "先画上平台、第一立面、下踏面和第二立面四个相接区域；同方向边线向远处略收，不逐块画砖缝。",
+          "check": "能用手指沿平台—立面—踏面顺着走下去。"
+        },
+        {
+          "title": "定位花盆椭圆",
+          "tools": "铅笔",
+          "action": "盆在右上平台，先画椭圆口，再画向下收窄的盆身；盆底要落在平台平面上。",
+          "check": "盆口有前后，盆身不是歪斜平行筒。"
+        },
+        {
+          "title": "标投影路线",
+          "tools": "铅笔",
+          "action": "先定右上来光，影向左下；在平台画一块宽影，到立面边缘转折，再在下踏面接出，不画叶片小洞。",
+          "check": "每一段影跟随所属平面，转折处相接。"
+        },
+        {
+          "title": "铺台阶亮面",
+          "tools": "25",
+          "action": "按面分别铺极浅灰米，最受光的一段平台边可留纸白；立面先保留，不用一色跨所有面。",
+          "check": "平面与立面可区分，边线没有被厚涂糊掉。"
+        },
+        {
+          "title": "铺台阶立面",
+          "tools": "WG5",
+          "action": "用浅暖灰铺可见立面，接近转角时提笔；不画满裂缝和砖纹，先靠整块说明厚度。",
+          "check": "两级台阶看得出高低，不是地上两条灰带。"
+        },
+        {
+          "title": "画盆与浅叶",
+          "tools": "95、44",
+          "action": "95铺盆身，口沿留窄亮边；44以不规则叶簇铺盆栽，枝叶之间留白，勿画密集球形碎点。",
+          "check": "盆口开口仍可见，植物从盆内长出。"
+        },
+        {
+          "title": "等干后画平台影",
+          "tools": "WG5、WG7",
+          "action": "先用WG5铺宽的植物影大形，再仅在靠盆脚处用WG7压窄接触暗；影内先不画逐叶形。",
+          "check": "最暗贴盆脚，离开主体后不再同样黑。"
+        },
+        {
+          "title": "让影跨过台阶",
+          "tools": "WG5",
+          "action": "沿先前路线分别画立面上的短影和踏面上的长影，转折处接边；每次只画一个面，避免一笔直刷穿过。",
+          "check": "影会随面改变形状，台阶体积没被抹平。"
+        },
+        {
+          "title": "收盆暗与叶暗",
+          "tools": "95、41",
+          "action": "同色95加深盆侧和口内一小段，41只点部分叶下暗；少量叶影可在大影边缘用WG5补短触。",
+          "check": "主影仍是一组清楚大形，不是碎花蕾丝。"
+        },
+        {
+          "title": "结构与光向复核",
+          "tools": "橡皮、可选细针管笔",
+          "action": "干透后必要时补盆口和台阶一段结构线。若影越过转角不相接，先在废纸画正确折线，勿用纹理覆盖。",
+          "check": "平台承盆、盆承植物、影跨各面三项成立。"
+        }
+      ],
+      "structure": "台阶必须分顶面、立面和踏面；投影跨转角时分面作画。盆口椭圆与盆身收分说明容器结构，盆底必须贴平台。",
+      "lesson_path": "lessons/scene/047-steps-and-shadow.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-024",
+      "stage": "scene",
+      "slot": 6,
+      "slug": "field-edge",
+      "title": "金色田边的转弯",
+      "goal": "用近密远疏安排空间与节奏",
+      "colors": [
+        "31",
+        "24",
+        "95",
+        "75",
+        "82",
+        "25",
+        "58"
+      ],
+      "scene": "Golden field edge with a gently curving pale beige footpath along right, foreground grouped mustard and amber short harvest strokes, middle distance broad calm ochre field masses, pale lavender low hills. One low muted-teal shrub at bend, small deeper-purple ground shadow accents. White sky, no houses, trees or red autumn forest. Fine detail ONLY in a few foreground patches, distant fields simple. Bright midday atmosphere.",
+      "decision": "前景可以稍密，中远景主要保留整块颜色",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: Golden field edge with a gently curving pale beige footpath along right, foreground grouped mustard and amber short harvest strokes, middle distance broad calm ochre field masses, pale lavender low hills. One low muted-teal shrub at bend, small deeper-purple ground shadow accents. White sky, no houses, trees or red autumn forest. Fine detail ONLY in a few foreground patches, distant fields simple. Bright midday atmosphere. Palette: 31 mustard yellow; 24 amber orange ochre; 95 ochre brown; 75 pale lavender; 82 deeper purple; 25 very pale gray-beige; 58 muted teal. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/048-field-edge/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-024/README.md",
+      "operations": [
+        {
+          "title": "分天空田地与路",
+          "tools": "铅笔",
+          "action": "地平线放上三分之一，右侧弯路近宽远窄，前方田块比远田大。先不画麦穗。",
+          "check": "路径连贯，天空保留足够空气。"
+        },
+        {
+          "title": "安排近密远疏区",
+          "tools": "铅笔",
+          "action": "把前景选两块标为密笔触区，中景一块疏区，远田只画大色带；不要整片都写满纹理。",
+          "check": "能指出至少一处计划不加细节的田块。"
+        },
+        {
+          "title": "铺远山",
+          "tools": "75",
+          "action": "用浅紫平涂一两块低山，山线起伏缓，第二层可少量同色叠笔；天空留纸白。",
+          "check": "远山比近田浅、简，没变成深紫墙。"
+        },
+        {
+          "title": "铺路与浅田",
+          "tools": "25、31",
+          "action": "25铺弯路，31顺田面轻铺大片金黄，靠路边先留窄亮口；不把31当亮白。",
+          "check": "路比田浅，前后田块大形能区分。"
+        },
+        {
+          "title": "暖色分田",
+          "tools": "24、95",
+          "action": "24在中近田补成组暖色带，95少量放田坎和背光田缘；远田只一两段。",
+          "check": "暖色面积有主次，不均匀斑驳覆盖全部田。"
+        },
+        {
+          "title": "画转弯处灌木",
+          "tools": "58",
+          "action": "用小面积青绿宽触概括转弯旁一团灌木，中心略密、外缘留缺口；不新增一排树。",
+          "check": "灌木帮助视线拐弯，而非挡住路口。"
+        },
+        {
+          "title": "近处短穗笔触",
+          "tools": "31、24",
+          "action": "底色干后，在两块密区顺生长方向画长短短触，前方略长，往中景明显减少；留穿插纸白。",
+          "check": "密区之间仍有安静色块，不是一面纹理墙。"
+        },
+        {
+          "title": "少量冷色暗",
+          "tools": "82",
+          "action": "只在近田根部和灌木旁加少量紫色短触，先废纸试暖底与紫色叠合，避免大面积发脏。",
+          "check": "深紫是衬托，不压过金色主调。"
+        },
+        {
+          "title": "路影与田缘",
+          "tools": "75、95",
+          "action": "75薄画几段断续路影，95少量收田缘转折；路上不画与田地同样密的短穗。",
+          "check": "路仍最容易引导视线，地面关系清楚。"
+        },
+        {
+          "title": "控制结束点",
+          "tools": "橡皮",
+          "action": "退远检查前密、中疏、远简。若远景已太碎，下次直接删去那片纹理；本次不再添“最后一点”麦穗。",
+          "check": "复杂度来自空间组织，不来自把每根麦穗画完。"
+        }
+      ],
+      "structure": "路与田块边界先成立，再加前景纹理。两块近田可较密，中景疏、远山平；完整教案允许比效果预览减少一半以上短穗。",
+      "lesson_path": "lessons/scene/048-field-edge.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-025",
+      "stage": "scene",
+      "slot": 7,
+      "slug": "garden-review",
+      "title": "晴日花园一角",
+      "goal": "回看焦点、三层空间与统一光向",
+      "colors": [
+        "67",
+        "172",
+        "44",
+        "41",
+        "95",
+        "25",
+        "75",
+        "58"
+      ],
+      "scene": "A compact sunny garden vignette with a short warm ochre wooden garden seat seen at a slight angle in middle left (clear seat thickness, four grounded legs, simple backrest), a pale beige path crossing diagonally behind it, lavender and muted-teal flowers in foreground right, yellow-olive low shrubs in distance. Small pale-cyan sky patch, pale green ground. No large tree, daisy carpet or original bench-under-tree composition. Clear three layers, one sunny shadow direction lower left. Moderate 8-color study, not intricate full garden.",
+      "decision": "自己先安排焦点和三层，再以示意检查；优先删去无关物件",
+      "teaching_mode": "supported",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A compact sunny garden vignette with a short warm ochre wooden garden seat seen at a slight angle in middle left (clear seat thickness, four grounded legs, simple backrest), a pale beige path crossing diagonally behind it, lavender and muted-teal flowers in foreground right, yellow-olive low shrubs in distance. Small pale-cyan sky patch, pale green ground. No large tree, daisy carpet or original bench-under-tree composition. Clear three layers, one sunny shadow direction lower left. Moderate 8-color study, not intricate full garden. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige; 75 pale lavender; 58 muted teal. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/scene/049-garden-review/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/scene/S002-025/README.md",
+      "operations": [
+        {
+          "title": "先画三层小稿",
+          "tools": "铅笔",
+          "action": "前景花、中央座椅、后方弯路与灌木三层先各用一块灰形规划；座椅偏左，花群偏右。",
+          "check": "主物相互留空，不把座椅塞满画幅。"
+        },
+        {
+          "title": "校座椅支撑",
+          "tools": "铅笔",
+          "action": "先画坐面四边形和窄厚边，再画靠背、扶手和能看见的腿；后腿可以遮挡，但至少看得出合理支撑。",
+          "check": "坐面是一个面，扶手接柱，椅腿落地。"
+        },
+        {
+          "title": "标统一光向",
+          "tools": "铅笔",
+          "action": "定右上来光，椅子与花的影都朝左下；地面光影先归为两三块，不描每根栏条的影。",
+          "check": "座椅暗侧与影方向不打架。"
+        },
+        {
+          "title": "先远后近铺浅色",
+          "tools": "67、172、25",
+          "action": "67小片天空绕白云，172草地，25弯路；椅与前花位置先空着。",
+          "check": "路径穿过后景，未穿透椅腿。"
+        },
+        {
+          "title": "搭后方叶簇",
+          "tools": "44",
+          "action": "少量宽触概括后方灌木，边缘有高低；远处保持比前花少的笔触。",
+          "check": "后景不与椅子争清晰度。"
+        },
+        {
+          "title": "铺椅木与厚边",
+          "tools": "95",
+          "action": "单层铺椅的各面，坐面与扶手上缘留窄亮边；干后同色压下沿和背光侧，不急着画木纹。",
+          "check": "坐面、靠背和腿彼此连接且厚度合理。"
+        },
+        {
+          "title": "搭前花浅紫",
+          "tools": "75",
+          "action": "把右前方花分为三团，每团只标少量主穗，浅紫短触从上到下成组；余下小花省去。",
+          "check": "前花是框景，不成为一堵遮满座椅的墙。"
+        },
+        {
+          "title": "连接叶与茎",
+          "tools": "58、41",
+          "action": "58画主要长叶与花茎，41少量放根部暗和后灌木背光；不逐叶描边。",
+          "check": "近叶长短可辨，根部不成纯深横带。"
+        },
+        {
+          "title": "地面统一投影",
+          "tools": "41、172",
+          "action": "废纸先试极浅地底上少量41，满意后画椅脚近处的短暗和向左下的分组影；深影保留空隙。",
+          "check": "椅子稳稳落地，四周光向统一。"
+        },
+        {
+          "title": "综合回看与删减",
+          "tools": "橡皮、可选细针管笔",
+          "action": "全干后只补坐面前角或扶手连接处细线。遮住花检查椅，遮住椅检查路径，最后退远看焦点。",
+          "check": "能协调结构、三层空间和植物笔触；以实际成品复盘D3能力。"
+        }
+      ],
+      "structure": "先坐面四边形与厚边，再靠背、扶手、腿；支撑必须可解释，允许遮挡一部分后腿但不能悬空。花叶不是遮错结构的补丁。",
+      "lesson_path": "lessons/scene/049-garden-review.md",
+      "instruction_pages": 2,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-026",
+      "stage": "independent",
+      "slot": 1,
+      "slug": "morning-window-view",
+      "title": "窗外的第一束晴光",
+      "goal": "自主选择取景范围与主要色块",
+      "colors": [
+        "25",
+        "67",
+        "172",
+        "44",
+        "41",
+        "95",
+        "143"
+      ],
+      "scene": "View OUT through an open window, only minimal pale beige bottom sill and one side frame visible, outdoors dominates: a small olive shrub lit by early sun beside a pale gray-green lawn and a slender ochre path, pale cyan sky. Warm-cool balance, white paper sunlit gaps. No indoor props, curtains, furniture or opaque glow. Natural sunny brushstroke landscape, medium detail. Framing is deliberate and composition airy.",
+      "decision": "先自己选择窗框比例与户外主体；成品只作一种解法，不要求复制",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: View OUT through an open window, only minimal pale beige bottom sill and one side frame visible, outdoors dominates: a small olive shrub lit by early sun beside a pale gray-green lawn and a slender ochre path, pale cyan sky. Warm-cool balance, white paper sunlit gaps. No indoor props, curtains, furniture or opaque glow. Natural sunny brushstroke landscape, medium detail. Framing is deliberate and composition airy. Palette: 25 very pale gray-beige; 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 143 extremely pale blue-gray. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/050-morning-window-view/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-026/README.md",
+      "operations": [
+        {
+          "title": "先写自己的取景意图",
+          "tools": "铅笔",
+          "action": "不先看成品，写一句希望窗外哪一处最吸引人，再画窗框占四分之一和占八分之一的两张拇指小稿。",
+          "check": "能说明选哪一张及原因，不照抄示意中的窗比例。"
+        },
+        {
+          "title": "决定主体与留白",
+          "tools": "铅笔",
+          "action": "在选定稿上用三块形表示近叶、草地和远处；窗内不添杯子或窗帘，以免主题转为室内静物。",
+          "check": "主体仍是晴日风景，窗只是取景边界。"
+        },
+        {
+          "title": "校窗台结构",
+          "tools": "铅笔",
+          "action": "确定窗侧框的竖向与窗台平面，内外边缘形成可读厚度；窗台与户外地线不连成一个面。",
+          "check": "能分清窗框立面、窗台顶面和远处地面。"
+        },
+        {
+          "title": "预留亮叶和天光",
+          "tools": "铅笔",
+          "action": "在近叶轮廓内标两三处白隙，在天空留一大片不涂的空气区；这些亮部在铺色前决定。",
+          "check": "纸白不靠白笔补画，自主选择的空隙可解释。"
+        },
+        {
+          "title": "铺空气与远地",
+          "tools": "67、143、172",
+          "action": "67薄铺小片天空，143概括远处灰蓝，172铺浅地；只选必要层，不画每棵远树。",
+          "check": "远景安静，窗外主体不会被远景盖过。"
+        },
+        {
+          "title": "画路径与窗框亮面",
+          "tools": "25",
+          "action": "极浅灰米分别铺路径和窗台，按面停笔留边，不连续横刷把室内外糊在一起。",
+          "check": "窗台比外地结构更清楚，但不更抢眼。"
+        },
+        {
+          "title": "自主组织近叶",
+          "tools": "44、41",
+          "action": "44先搭叶簇大形，等干再用41压几处交叠暗，外缘叶片有缺口；根据自己的取景改变叶量。",
+          "check": "叶量服务构图，不以画满示意为目标。"
+        },
+        {
+          "title": "补枝与框暗",
+          "tools": "95、143",
+          "action": "95连接必要枝条，143薄压框的背光侧和窗台窄影；若图中更深，不强行反复湿叠。",
+          "check": "枝叶有连接，窗框厚度保留，光源方向一致。"
+        },
+        {
+          "title": "按意图删细节",
+          "tools": "铅笔笔记",
+          "action": "比较最初一句意图与现在画面，决定只加一处焦点或完全停笔；远树、碎草可以删到没有。",
+          "check": "能说出一个主动舍弃的细节及理由。"
+        },
+        {
+          "title": "完成自评",
+          "tools": "橡皮",
+          "action": "全干后擦弱定位线，再展开示意作比较，记录一项自己更喜欢的选择和一项下次想改的选择。",
+          "check": "评价构图决定，不比较谁画的叶子更多。"
+        }
+      ],
+      "structure": "窗只是取景框，窗台平面与侧框立面要分开；主体应在窗外。先画自己的两张小稿再看示意，避免被固定构图替代判断。",
+      "lesson_path": "lessons/independent/050-morning-window-view.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-027",
+      "stage": "independent",
+      "slot": 2,
+      "slug": "summer-meadow-design",
+      "title": "夏天的一块草地",
+      "goal": "自主决定疏密与主色分工",
+      "colors": [
+        "37",
+        "44",
+        "58",
+        "9",
+        "11",
+        "172",
+        "67"
+      ],
+      "scene": "An airy summer meadow with an asymmetrical island of pale pink and red wildflower masses at middle left, broad yellow-green sunlit grass and muted-teal shadow groups in lower right, open pale gray-green breathing spaces and small pale cyan sky. No trees, fences, path or people. Flower brushwork simplified broad clusters. Keep square composition spacious, not more detailed than D3.",
+      "decision": "自己确定花丛占比与空地形状；主色、背景、点缀各有分工",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: An airy summer meadow with an asymmetrical island of pale pink and red wildflower masses at middle left, broad yellow-green sunlit grass and muted-teal shadow groups in lower right, open pale gray-green breathing spaces and small pale cyan sky. No trees, fences, path or people. Flower brushwork simplified broad clusters. Keep square composition spacious, not more detailed than D3. Palette: 37 yellow-green; 44 yellow olive; 58 muted teal; 9 pale pink; 11 red; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/051-summer-meadow-design/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-027/README.md",
+      "operations": [
+        {
+          "title": "定草地主题",
+          "tools": "铅笔",
+          "action": "先写希望表现风、花或阳光中的哪一项，每次只选一个主要目标；画花群占三分之一与占六分之一两稿。",
+          "check": "主题足够具体，花群大小是自己的选择。"
+        },
+        {
+          "title": "画疏密地图",
+          "tools": "铅笔",
+          "action": "用圈标密花区、长草区和安静留白区，不画单朵花；主密区只保留一处，其他地方明显更疏。",
+          "check": "至少三分之一地面可保持安静。"
+        },
+        {
+          "title": "选主辅色",
+          "tools": "37、44、58、9、11",
+          "action": "在废纸排主绿、辅青绿、粉红点缀；点缀总面积先控制小于主色，不为用齐颜色硬加花。",
+          "check": "能指出主色、背景和点缀各是谁。"
+        },
+        {
+          "title": "预留花与天",
+          "tools": "铅笔",
+          "action": "圈出浅粉花的关键位置，天空白云或大片纸白留空；地色不先刷过未来的浅花。",
+          "check": "浅色位置在深绿铺前已安排。"
+        },
+        {
+          "title": "铺远景与浅地",
+          "tools": "67、172",
+          "action": "67薄铺少量天空，172铺远处浅地，地平线柔和简略；不用深绿铺满画幅。",
+          "check": "晴日空气感与大色块先成立。"
+        },
+        {
+          "title": "组织受光草面",
+          "tools": "37、44",
+          "action": "37铺主草面，44只在中层做几个长短不同的色群；方向可根据风的主题改变，不机械统一。",
+          "check": "草面有明亮大形，不全是细线。"
+        },
+        {
+          "title": "做花的主次",
+          "tools": "9、11",
+          "action": "先9成团，干后仅在最想突出的两三处加11；远花只用浅粉少量点，不画同大小红点阵。",
+          "check": "花群有主次，点缀没有取代主体。"
+        },
+        {
+          "title": "安排青绿暗组",
+          "tools": "58",
+          "action": "等草底干，58集中在一两块背光草组中，用长叶或宽短触表示，保留受光纸白缝。",
+          "check": "暗色成组而不平均散满画面。"
+        },
+        {
+          "title": "调整视线通道",
+          "tools": "37、44",
+          "action": "只在确实中断的草形边补一两笔，使视线从近草到花群再到远地；过密处选择停笔。",
+          "check": "能沿一个清楚路线看完画面。"
+        },
+        {
+          "title": "说明自主选择",
+          "tools": "笔记、橡皮",
+          "action": "全干后再对照示意，记下花占比、疏密、冷暖三项自己的决定，不把示意叶数当评分。",
+          "check": "作品保持风格，也有自己的布局。"
+        }
+      ],
+      "structure": "大草面与密花区要有面积差；最深青绿集中成组，花色作小面积点缀。主动留一块安静区域比填满纹理更重要。",
+      "lesson_path": "lessons/independent/051-summer-meadow-design.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-028",
+      "stage": "independent",
+      "slot": 3,
+      "slug": "autumn-slope-design",
+      "title": "赭黄山坡的晴天",
+      "goal": "迁移同一风格到暖色季节配色",
+      "colors": [
+        "31",
+        "24",
+        "95",
+        "92",
+        "75",
+        "82",
+        "25"
+      ],
+      "scene": "A bright ochre-yellow hillside with a single small rust-ochre deciduous tree near upper right; a broad pale beige zig-zag footpath cuts lower slope; distant pale lavender ridge and deeper-purple small shadow accents. White sky, no sun disk, not sunset. Limited dark brown branching, selective short foliage strokes, large untextured sunny masses. No cottage or bench. A restrained original autumn landscape.",
+      "decision": "自行设计暖色面积和冷色衬托；保持晴日空气感，不照抄此前秋日田野",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: A bright ochre-yellow hillside with a single small rust-ochre deciduous tree near upper right; a broad pale beige zig-zag footpath cuts lower slope; distant pale lavender ridge and deeper-purple small shadow accents. White sky, no sun disk, not sunset. Limited dark brown branching, selective short foliage strokes, large untextured sunny masses. No cottage or bench. A restrained original autumn landscape. Palette: 31 mustard yellow; 24 amber orange ochre; 95 ochre brown; 92 dark brown; 75 pale lavender; 82 deeper purple; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/052-autumn-slope-design/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-028/README.md",
+      "operations": [
+        {
+          "title": "选秋日主题与小稿",
+          "tools": "铅笔",
+          "action": "不先看图，选“树在坡上”或“路穿暖坡”为主，画两稿改变树和路的位置，选择一稿。",
+          "check": "主题和焦点只有一个主要方向。"
+        },
+        {
+          "title": "规划暖冷面积",
+          "tools": "31、24、75",
+          "action": "废纸先试暖黄为主、浅紫为辅的面积关系；冷色只衬空间，不让整张成为黄紫均匀拼图。",
+          "check": "主色比辅色面积明显更大。"
+        },
+        {
+          "title": "定光向与树结构",
+          "tools": "铅笔",
+          "action": "先标来光箭头，再画树干主分叉、坡线与路；投影朝反向下地，不画悬空树。",
+          "check": "树根、坡面与光向关系明确。"
+        },
+        {
+          "title": "留路与树亮边",
+          "tools": "铅笔",
+          "action": "近路比远路宽，最亮路段保留纸白；树冠上侧留几处白隙，深色还未出现前完成规划。",
+          "check": "亮路连续，白隙可与暖色分开。"
+        },
+        {
+          "title": "铺浅山与路",
+          "tools": "75、25",
+          "action": "75平涂低远山，25铺路与浅土；山的外形自己决定，不必复制示意中的山脊。",
+          "check": "远山少笔触，路面安静。"
+        },
+        {
+          "title": "铺暖坡大形",
+          "tools": "31、24",
+          "action": "31先铺受光坡，24在几块中层田面或树冠加暖群；每块一遍，留出先前亮路。",
+          "check": "暖坡明亮，大色块压得住细节。"
+        },
+        {
+          "title": "画树与背光叶",
+          "tools": "95、92",
+          "action": "95做树干、主枝和暖叶，92只放树干小暗侧与少数分叉；不把全部叶簇压成深棕。",
+          "check": "树冠有空气，最暗集中而非均匀。"
+        },
+        {
+          "title": "冷影顺坡落",
+          "tools": "82、75",
+          "action": "先废纸试暖底上的浅紫，满意后75薄画坡影，82只压接地最暗处。若叠色变脏就缩小暗区。",
+          "check": "投影贴坡，冷影没有侵占亮路。"
+        },
+        {
+          "title": "按层次加笔触",
+          "tools": "24、95",
+          "action": "前景只挑两块补短草触，中景疏，远坡不添逐叶细节；树冠可以保留概括的大团。",
+          "check": "近密远简，仍有安静受光色块。"
+        },
+        {
+          "title": "复盘换季是否成功",
+          "tools": "笔记、橡皮",
+          "action": "全干后说明即使不用蓝天绿草，仍靠什么保持晴日风格；记录一项自己选择的暖冷关系。",
+          "check": "风格来自表达方式，不是固定一套色号。"
+        }
+      ],
+      "structure": "暖色坡配冷色远山仍是晴日风景；光感由明暗与纸白产生，不需要画太阳。树根落坡，投影顺坡。",
+      "lesson_path": "lessons/independent/052-autumn-slope-design.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-029",
+      "stage": "independent",
+      "slot": 4,
+      "slug": "cool-shore-design",
+      "title": "清蓝岸边的一天",
+      "goal": "在冷色主调中自主保留阳光感",
+      "colors": [
+        "67",
+        "65",
+        "63",
+        "143",
+        "58",
+        "25",
+        "95"
+      ],
+      "scene": "A pale blue lake viewed from a small stony shore, one broad light beige rock platform enters from bottom left, dark ochre narrow side plane, muted-teal reed clump at right, pale blue-gray far bank. Cyan and blue-green limited horizontal water strokes, generous white sparkling reserved gaps, no boat, bridge, people or mountains. Cool palette but sunny. Moderate simple brushstroke illustration with broad color masses.",
+      "decision": "先选岸线走向和光向；白色水光须在铺色前设计",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: A pale blue lake viewed from a small stony shore, one broad light beige rock platform enters from bottom left, dark ochre narrow side plane, muted-teal reed clump at right, pale blue-gray far bank. Cyan and blue-green limited horizontal water strokes, generous white sparkling reserved gaps, no boat, bridge, people or mountains. Cool palette but sunny. Moderate simple brushstroke illustration with broad color masses. Palette: 67 pale cyan; 65 blue-green; 63 bright cyan blue; 143 extremely pale blue-gray; 58 muted teal; 25 very pale gray-beige; 95 ochre brown. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/053-cool-shore-design/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-029/README.md",
+      "operations": [
+        {
+          "title": "选择岸线取景",
+          "tools": "铅笔",
+          "action": "先画石岸从左下进入与从右下进入两种小稿，再选一张；用一个大形表示水面，不先画水纹。",
+          "check": "岸线是自主决定，画幅留得下大块水。"
+        },
+        {
+          "title": "确定冷色层次",
+          "tools": "67、65、63、143",
+          "action": "废纸排浅水、中水、少量深水与远岸，选出实际能分清的层级；不因示意漂亮就混用蓝色号。",
+          "check": "浅到深可辨，远岸比近水更简。"
+        },
+        {
+          "title": "留水光地图",
+          "tools": "铅笔",
+          "action": "用短横线标一条断续主反光带，其余水光少量散开；不画满竖向白痕。",
+          "check": "主亮带有聚有散，纸白在铺水前已保留。"
+        },
+        {
+          "title": "校石岸厚度",
+          "tools": "铅笔",
+          "action": "石岸顶面用大斜面，朝水侧留一条窄侧面；几处分块即可，不先描碎裂纹。",
+          "check": "石岸像可站立的平台，不是贴在水上的纸片。"
+        },
+        {
+          "title": "铺远岸和浅水",
+          "tools": "143、67",
+          "action": "143简画远岸，67横向铺浅水并跳过水光；远处不必有逐棵树的倒影。",
+          "check": "水平感清楚，主反光保留完整。"
+        },
+        {
+          "title": "铺岸面暖亮",
+          "tools": "25、95",
+          "action": "25铺岸顶面，95只铺朝水窄侧和少量接触暗；不给整个岩面统一深棕。",
+          "check": "岸顶比侧面浅，冷水得到暖色衬托。"
+        },
+        {
+          "title": "组织中深水纹",
+          "tools": "65、63",
+          "action": "浅水干后65画中水成组短横纹，63少量放近水或主暗带；纹路近长远短，避开白带。",
+          "check": "不是三种蓝平均撒满每一处水面。"
+        },
+        {
+          "title": "自然岸草",
+          "tools": "58",
+          "action": "在一侧用少量长叶组生出草丛，根部密、尖端疏；遇水光跳开，不画满整片岸线。",
+          "check": "草的位置衬取景，不堵住主亮带。"
+        },
+        {
+          "title": "接触与反光收尾",
+          "tools": "95、65",
+          "action": "石岸贴水处少量窄暗，65在其外侧点几条破碎水纹；不逐叶复制镜像。",
+          "check": "岸稳、水平，亮部仍是纸白。"
+        },
+        {
+          "title": "评价冷色晴感",
+          "tools": "笔记、橡皮",
+          "action": "全干后再看示意，说明画面靠白隙、明暗和暖岸中哪两项保留阳光感，记录下一张想改的岸线。",
+          "check": "不把更深更满误当更有水感。"
+        }
+      ],
+      "structure": "冷色水面靠水平笔触与预留反光保持明亮；暖石岸只需顶侧两面，岩缝不是主要目标。",
+      "lesson_path": "lessons/independent/053-cool-shore-design.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-030",
+      "stage": "independent",
+      "slot": 5,
+      "slug": "same-place-noon",
+      "title": "同一角落·正午",
+      "goal": "为小系列建立一致取景与物件关系",
+      "colors": [
+        "25",
+        "95",
+        "44",
+        "41",
+        "172",
+        "67"
+      ],
+      "scene": "Series location A, noon: ONE low ochre stone garden wall from lower left to middle right, with ONE small round yellow-olive shrub behind its right end and a pale beige narrow dirt lane in front. Pale gray-green ground, little pale-cyan sky, no flowers or buildings. Short dark-olive shadow close to wall on lower right. View level slightly above wall, fixed square composition, moderate simple marker style. This is a small personal series exemplar, no text.",
+      "decision": "先自定一个角落的草图；本幅与下一幅保持取景与物件位置一致",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: Series location A, noon: ONE low ochre stone garden wall from lower left to middle right, with ONE small round yellow-olive shrub behind its right end and a pale beige narrow dirt lane in front. Pale gray-green ground, little pale-cyan sky, no flowers or buildings. Short dark-olive shadow close to wall on lower right. View level slightly above wall, fixed square composition, moderate simple marker style. This is a small personal series exemplar, no text. Palette: 25 very pale gray-beige; 95 ochre brown; 44 yellow olive; 41 dark olive; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/054-same-place-noon/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-030/README.md",
+      "operations": [
+        {
+          "title": "建立系列母稿",
+          "tools": "铅笔",
+          "action": "先选一个自己能画清的角落，限定低墙、灌木、土路三种大物件；画两稿选一稿作为两张作品共用母稿。",
+          "check": "下一幅沿用此稿，不能临时换构图。"
+        },
+        {
+          "title": "固定地平线和四个锚点",
+          "tools": "铅笔",
+          "action": "记下地平线、墙前角、墙远端、灌木顶四个相对位置；可在废纸上做小缩略图保存。",
+          "check": "四个点能在两张纸上大致重现。"
+        },
+        {
+          "title": "画墙顶与立面",
+          "tools": "铅笔",
+          "action": "墙由一个窄顶面和一个较大立面组成，前端较大、远端略小；砖缝只标3～5处。",
+          "check": "墙有厚度与连续长度，不是满纸随机石块。"
+        },
+        {
+          "title": "设正午光影",
+          "tools": "铅笔",
+          "action": "定较高光源，墙脚与灌木影保持较短；在母稿中只轻标影范围，不改主体轮廓。",
+          "check": "正午版本的变化来自影短、亮面多。"
+        },
+        {
+          "title": "铺空气与地面",
+          "tools": "67、172、25",
+          "action": "67少量天空，172地面，25土路和墙顶亮面；灌木和墙立面留空。",
+          "check": "天空与地面轻，墙顶亮面清楚。"
+        },
+        {
+          "title": "搭灌木与墙色",
+          "tools": "44、95",
+          "action": "44做不规则灌木大形，95单层铺墙立面；石块仅用少量方向变化区分，不逐块勾线。",
+          "check": "植物与石墙笔触不同，墙的整块体积保留。"
+        },
+        {
+          "title": "干后压窄暗面",
+          "tools": "95、41",
+          "action": "95叠一遍墙侧与少量石缝，41放灌木交叠和墙脚少量暗；暗部范围保持窄。",
+          "check": "正午影不意外变成长斜带。"
+        },
+        {
+          "title": "少量草与墙边",
+          "tools": "41、44",
+          "action": "在两三处墙脚补短草，远端更少；墙顶保持断续亮边，不把边缘描成白线装饰。",
+          "check": "墙接地，土路可通，不增加新物件。"
+        },
+        {
+          "title": "保存配色和锚点",
+          "tools": "笔记",
+          "action": "记录这张的主色、影长与来光方向，画一张极简缩略图供下一张核对；不要只靠记忆找位置。",
+          "check": "系列有可复用的构图依据。"
+        },
+        {
+          "title": "先自评再看示意",
+          "tools": "橡皮",
+          "action": "全干后对比母稿四个锚点，允许石块细节不同但主体关系一致；最后再打开成品参考。",
+          "check": "评价系列设定，而非是否复制AI石头形状。"
+        }
+      ],
+      "structure": "两幅系列共用四个锚点与一张母稿，石块细节可简化；正午短影是受控变化，主体数量固定。",
+      "lesson_path": "lessons/independent/054-same-place-noon.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-031",
+      "stage": "independent",
+      "slot": 6,
+      "slug": "same-place-late",
+      "title": "同一角落·午后",
+      "goal": "同构图中自主改变光色与投影",
+      "colors": [
+        "25",
+        "95",
+        "31",
+        "41",
+        "75",
+        "172"
+      ],
+      "scene": "Series location A, afternoon: ONE low ochre stone garden wall from lower left to middle right, ONE small rounded olive-and-mustard shrub behind its right end, pale beige narrow dirt lane in front. Pale gray-green ground, white sky. Warm afternoon light from upper right creates LONG muted lavender flat cast shadow extending lower left along lane. Fixed view slightly above wall, same subject layout as a noon companion. No flowers, houses or extra objects. Moderate brushstroke landscape, broad masses.",
+      "decision": "沿用上一幅自定草图，只改光向、色彩与投影；不把增加物件当成系列变化",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: Series location A, afternoon: ONE low ochre stone garden wall from lower left to middle right, ONE small rounded olive-and-mustard shrub behind its right end, pale beige narrow dirt lane in front. Pale gray-green ground, white sky. Warm afternoon light from upper right creates LONG muted lavender flat cast shadow extending lower left along lane. Fixed view slightly above wall, same subject layout as a noon companion. No flowers, houses or extra objects. Moderate brushstroke landscape, broad masses. Palette: 25 very pale gray-beige; 95 ochre brown; 31 mustard yellow; 41 dark olive; 75 pale lavender; 172 extremely pale gray-green. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。 正午与午后AI示意的石块与取景细节存在变化，不是精确同构图对照；实际任务应沿用同一张自定小稿。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/055-same-place-late/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-031/README.md",
+      "operations": [
+        {
+          "title": "沿用上一张母稿",
+          "tools": "铅笔",
+          "action": "拿出正午作品的缩略图，先复位地平线、墙前角、墙远端、灌木顶四点；不新增树、房子或路岔。",
+          "check": "四个锚点与上张一致，物件没有漂移。"
+        },
+        {
+          "title": "只改光色方案",
+          "tools": "31、75、95",
+          "action": "废纸试暖黄受光与浅紫投影的搭配，写明与正午版相比只改变光向、光色和影长。",
+          "check": "变化不依靠增加细节或更换地点。"
+        },
+        {
+          "title": "标长影与来光",
+          "tools": "铅笔",
+          "action": "把光设在右上较低处，墙脚影向左下拉长；让影顺地面走，不跨越墙顶发出。",
+          "check": "投影从墙脚接出，长影与母稿道路相容。"
+        },
+        {
+          "title": "规划亮边与影区",
+          "tools": "铅笔",
+          "action": "墙顶和灌木受光边提前留浅，长影内可留少量地面断口，但不画一堆叶形小洞。",
+          "check": "亮部和影区在铺色前已经分开。"
+        },
+        {
+          "title": "铺浅地与墙顶",
+          "tools": "172、25",
+          "action": "172浅地、25路和墙顶；若天空想留白，可全部不涂，不为凑齐色号硬加颜色。",
+          "check": "与正午版取景相同，画面更暖但不更脏。"
+        },
+        {
+          "title": "铺暖墙和叶群",
+          "tools": "95、31",
+          "action": "95单层墙面，31少量搭灌木受光叶和暖地色；在同纸试色中31是芥末黄，不是荧光亮黄。",
+          "check": "暖色成组，墙顶窄亮边仍清楚。"
+        },
+        {
+          "title": "画长浅紫影",
+          "tools": "75",
+          "action": "前层全干后，沿地面用浅紫平涂长影，接墙处略窄深、远端边界简；每段只刷一遍。",
+          "check": "影长明显不同于上张，且全片统一光向。"
+        },
+        {
+          "title": "收墙缝与叶暗",
+          "tools": "95、41",
+          "action": "95少量加墙侧暗，41在灌木背光处点小组，不把全部植物压暗；远石缝继续省略。",
+          "check": "暖亮、冷影、叶暗三组能分开。"
+        },
+        {
+          "title": "并排比较两张",
+          "tools": "笔记",
+          "action": "把正午与午后并排，检查四锚点、影长、暖冷和主体数量；若构图漂移，记录下次先固定哪一点。",
+          "check": "能把时间变化与构图变化区分开。"
+        },
+        {
+          "title": "系列复盘",
+          "tools": "橡皮、笔记",
+          "action": "全干后各写一句两张的光线特点。AI两张石块有细节变化，不作为精确描摹标准；以自己的同一母稿为准。",
+          "check": "系列有明确共同点与受控变量。"
+        }
+      ],
+      "structure": "沿用上幅母稿，只改光色与影长；AI预览有细小取景差异，实际练习不能随之移动主体。",
+      "lesson_path": "lessons/independent/055-same-place-late.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    },
+    {
+      "material_id": "S002-032",
+      "stage": "independent",
+      "slot": 7,
+      "slug": "own-sunny-place",
+      "title": "我想留下的晴日",
+      "goal": "独立完成主题、构图与取舍并复盘",
+      "colors": [
+        "67",
+        "172",
+        "44",
+        "41",
+        "95",
+        "25",
+        "75",
+        "58"
+      ],
+      "scene": "A personal sunny landscape exemplar, view from a grassy rise towards a small pale-cyan pond at center-left, a simple beige winding trail curves around pond towards upper right, two unequal olive shrub clusters near far bank, a SMALL lavender flower patch in lower right. White clouds reserved in a small cyan sky patch. Sunny upper-left light, broad grouped shadow masses, foreground selective strokes and simple distant shapes. No buildings, bench, large foreground tree or highly detailed scenery. Beautiful through purposeful composition rather than intricacy, complexity similar D3. This is only one possible independent project result.",
+      "decision": "先从自己的主题出发画两张构图小稿并选一张，独立选色和顺序；完成后再看示意比较，不按图复制",
+      "teaching_mode": "independent",
+      "status": "lesson_ready",
+      "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: A personal sunny landscape exemplar, view from a grassy rise towards a small pale-cyan pond at center-left, a simple beige winding trail curves around pond towards upper right, two unequal olive shrub clusters near far bank, a SMALL lavender flower patch in lower right. White clouds reserved in a small cyan sky patch. Sunny upper-left light, broad grouped shadow masses, foreground selective strokes and simple distant shapes. No buildings, bench, large foreground tree or highly detailed scenery. Beautiful through purposeful composition rather than intricacy, complexity similar D3. This is only one possible independent project result. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige; 75 pale lavender; 58 muted teal. Keep relative hue character, these are planning labels not calibrated exact colors.",
+      "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+      "version": 1,
+      "kind": "finished_reference",
+      "course_role": "mainline",
+      "course_plan_only": false,
+      "image_path": "entries/independent/056-own-sunny-place/reference/finished-v1.png",
+      "readiness": "ready",
+      "color_review": {
+        "status": "reviewed",
+        "based_on_tools_profile": "touchmark-student-36-v3",
+        "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+        "reviewed_on": "2026-11-02",
+        "colorimetric_calibrated": false
+      },
+      "practice": {
+        "status": "pending",
+        "completed_on": null
+      },
+      "preview_path": "materials/S002/independent/S002-032/README.md",
+      "operations": [
+        {
+          "title": "从自己的晴日主题开始",
+          "tools": "笔记",
+          "action": "先写想留下的地点感觉，例如安静、开阔或有风，不先展开成品；从中选一个主要目标。",
+          "check": "主题能转为画面决定，而不是只写“画漂亮”。"
+        },
+        {
+          "title": "画两张不同小稿",
+          "tools": "铅笔",
+          "action": "每稿只用水面或空地、路径、植物三种大形，至少改变一次焦点位置；选稿时说明为什么舍弃另一张。",
+          "check": "自主构图有真实选择，不是成品缩描。"
+        },
+        {
+          "title": "制定工具内配色",
+          "tools": "67、172、44、41、95、25、75、58",
+          "action": "从这些实物色号里选5～8色，不必用齐；列主色、地面、点缀、暗色各自区域，浅部留纸。",
+          "check": "每支颜色有用途，未用色可删除。"
+        },
+        {
+          "title": "检查结构和留白",
+          "tools": "铅笔",
+          "action": "确定路径近宽远窄，水面水平，植物根部落地；标出纸白云或水光，物体之间留视线通道。",
+          "check": "三个大形互相支持，不各自挤成孤岛。"
+        },
+        {
+          "title": "先铺最浅远景",
+          "tools": "67、172、25",
+          "action": "按自己的区域表铺小片天空、浅地、路径；绕开浅花和主要水光，不连续刷满所有区域。",
+          "check": "画面整体明暗已可读，留白仍完整。"
+        },
+        {
+          "title": "搭主体大色块",
+          "tools": "44、58",
+          "action": "44搭受光植物，58选少量背光或近草形；先做整团，再在外缘放少量有方向的叶触。",
+          "check": "大形先成立，不边画边无止境增加枝叶。"
+        },
+        {
+          "title": "选择水与空间处理",
+          "tools": "67、58",
+          "action": "若有池塘，用67水平铺水，干后58只点少量近岸破碎暗纹；若无水，用同样步骤处理空地与近远对比。",
+          "check": "技法服从自选主题，不强迫每张都有池塘。"
+        },
+        {
+          "title": "点缀与最暗控制",
+          "tools": "75、41、95",
+          "action": "75可做一小片花，41只压必要叶暗，95画少量枝干或土侧；最暗集中一两处，不平均撒满。",
+          "check": "焦点比次要区域更清楚，点缀面积受控。"
+        },
+        {
+          "title": "按检查点主动删减",
+          "tools": "笔记",
+          "action": "退远看焦点、光向、近远三项，只选一项修正。不能用浅盖深删掉的错误留待下一版，不继续增加物件掩盖。",
+          "check": "能指出哪一处决定停止，而不是永远“再加一点”。"
+        },
+        {
+          "title": "独立阶段回看",
+          "tools": "笔记、橡皮",
+          "action": "全干后才展开示意比较，写出一项构图理由、一项配色理由和下一张改进点；依据实际作品决定继续原创或补专项。",
+          "check": "有自己的主题、取舍和调整依据，图片生成不代表完成D4。"
+        }
+      ],
+      "structure": "用自选主题与两张小稿作起点；示意不是标准答案。结构与技法可从D1～D3迁移，必要时回到一项专项，不靠堆物件体现D4。",
+      "lesson_path": "lessons/independent/056-own-sunny-place.md",
+      "instruction_pages": 1,
+      "color_review_status": "reviewed"
+    }
+  ]
+}

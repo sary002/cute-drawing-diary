@@ -1,0 +1,41 @@
+{
+  "material_id": "S002-027",
+  "stage": "independent",
+  "slot": 2,
+  "slug": "summer-meadow-design",
+  "title": "夏天的一块草地",
+  "goal": "自主决定疏密与主色分工",
+  "colors": [
+    "37",
+    "44",
+    "58",
+    "9",
+    "11",
+    "172",
+    "67"
+  ],
+  "scene": "An airy summer meadow with an asymmetrical island of pale pink and red wildflower masses at middle left, broad yellow-green sunlit grass and muted-teal shadow groups in lower right, open pale gray-green breathing spaces and small pale cyan sky. No trees, fences, path or people. Flower brushwork simplified broad clusters. Keep square composition spacious, not more detailed than D3.",
+  "decision": "自己确定花丛占比与空地形状；主色、背景、点缀各有分工",
+  "teaching_mode": "independent",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: An airy summer meadow with an asymmetrical island of pale pink and red wildflower masses at middle left, broad yellow-green sunlit grass and muted-teal shadow groups in lower right, open pale gray-green breathing spaces and small pale cyan sky. No trees, fences, path or people. Flower brushwork simplified broad clusters. Keep square composition spacious, not more detailed than D3. Palette: 37 yellow-green; 44 yellow olive; 58 muted teal; 9 pale pink; 11 red; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/independent/051-summer-meadow-design.md"
+}

@@ -1,0 +1,38 @@
+{
+  "material_id": "S002-013",
+  "stage": "intermediate",
+  "slot": 2,
+  "slug": "grass-rhythm",
+  "title": "坡脚的长短草",
+  "goal": "控制长短笔触与疏密节奏",
+  "colors": [
+    "31",
+    "44",
+    "58",
+    "172"
+  ],
+  "scene": "Low ground-level view of THREE tufts of grass, tall on left, short at center, medium on right. Sparse long muted-teal blade strokes and mustard seed-head dashes, pale gray-green shallow sloping ground, blank white sky. Grass growth directions vary naturally but groups remain distinct. No water, tree or other objects. About 18 main blades total, restrained details.",
+  "decision": "自行决定三组草的间距；保持长短和疏密差异",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Edit this three-tuft grass study: keep tall tuft left, small center and medium right with ample white ground. Preserve simple D2 level but replace repetitive symmetrical strap leaves and capsule seed heads with loose irregular naturally tapering blade strokes, varied curvature and spacing; about 6-9 leaves per tuft, each a single broad-to-fine marker gesture. Five mustard31 seed heads each made of 4-6 small irregular staggered dashes along a thin stem, not solid capsules. Muted teal58 and yellow-olive44 leaves; pale gray-green172 patch of ground. Light sunny air, subtle grouped density, three distinct unequal tufts, no added objects or dense landscape. Transparent student alcohol marker, no gradients, no black contour, no printed words or numbers.",
+  "review_note": "自然叶形、间隙和不规则笔触修订；旧版保留，不改变素材号。",
+  "version": 2,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v2.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/intermediate/037-grass-rhythm.md"
+}

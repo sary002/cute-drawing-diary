@@ -1,0 +1,31 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A SMALL shallow creek enters bottom center broad, bends left and narrows into upper third, pale cyan water with a few blue-green horizontal dashes and white highlights reserved. Two warm beige banks, one ochre stone at near left, sparse muted-teal grasses at right, pale gray-green distant bank and olive shrub. No bridge, waterfall, mountains or reflections of complex objects. Bright open sky mainly white. Moderate sunny depth study. Palette: 67 pale cyan; 65 blue-green; 58 muted teal; 172 extremely pale gray-green; 95 ochre brown; 25 very pale gray-beige; 41 dark olive. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "instruction_pages": [
+    {
+      "key": "S002-020-p1",
+      "material_id": "S002-020",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 1/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-020 小溪拐了个弯 · 关键过程 1. Top tool codes: 67,65,58,172,95,25,41. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 67 浅青蓝（照片观察）; 65 蓝绿色，非很浅冰蓝（照片观察）; 58 灰调青绿，非浅薄荷绿（照片观察）; 172 极浅灰绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）; 41 较深橄榄绿（照片观察）. Panel instructions: 1 先画溪流轮廓 — Pencil outline only, no final colors. 铅笔: 从下方画宽水面，向左拐入中景后明显收窄；画左右岸两条不同曲线，不画等距管道。 Check: 近端水宽至少约远端三倍，弯处连贯。 2 定位三类岸物 — Pencil outline only, no final colors. 铅笔: 近左放一块主石，右侧一簇长草，远处两团低灌木；先不画碎石和水纹。 Check: 近石、岸草、远灌木分别占位，水道仍通。 4 薄铺远景与岸土 — Cumulative state AFTER operation 4, earlier marks preserved, later-operation colors and marks absent. 172、25: 172轻铺远岸和低坡，25铺近岸土色；靠水的边界断续有变化，草与石位留空。 Check: 土不横穿水道，远处更简略。 5 铺浅水底 — Cumulative state AFTER operation 5, earlier marks preserved, later-operation colors and marks absent. 67: 从远到近用水平接笔铺水面，绕过白色水光；不要用斜笔沿溪流轮廓一圈圈填。 Check: 水面平，弯曲靠两岸形状表现而非扭曲水纹。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    },
+    {
+      "key": "S002-020-p2",
+      "material_id": "S002-020",
+      "page": 2,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 2/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-020 小溪拐了个弯 · 关键过程 2. Top tool codes: 67,65,58,172,95,25,41. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 67 浅青蓝（照片观察）; 65 蓝绿色，非很浅冰蓝（照片观察）; 58 灰调青绿，非浅薄荷绿（照片观察）; 172 极浅灰绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）; 41 较深橄榄绿（照片观察）. Panel instructions: 6 画主石分面 — Cumulative state AFTER operation 6, earlier marks preserved, later-operation colors and marks absent. 25、95: 25铺石头上部，95铺右下侧与贴水的窄面，预留上缘浅亮；不画细密裂纹。 Check: 石头落在岸上且一部分贴水，没有整块漂浮。 7 画岸草与远灌木 — Cumulative state AFTER operation 7, earlier marks preserved, later-operation colors and marks absent. 58、41: 58用长叶触做右岸草，41少量短触做远灌木暗处；远树不刻画叶子，近草保留白隙。 Check: 两岸没有同密度的一圈植物边。 8 等水底干后添水纹 — Cumulative state AFTER operation 8, earlier marks preserved, later-operation colors and marks absent. 65: 只在近水与弯处加8～12条不同长度短横纹，中远景数量减半，白带不补满。 Check: 水纹始终水平，远处更细更少。 10 综合收尾与删减 — Cumulative state AFTER operation 10, earlier marks preserved, later-operation colors and marks absent. 67、橡皮: 干后检查一米外溪流能否自然带视线到远处。图中细碎石子可全部省略；若近岸太密，下一小稿减量，不浅盖深。 Check: 近宽远窄、横向水纹、两岸层次同时成立。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已核对溪流近宽远窄、两岸、浅水留白",
+      "correction_prompt": null
+    },
+    {
+      "page": 2,
+      "review": "已核对分面、近岸草、水平水纹及接触关系",
+      "correction_prompt": null
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

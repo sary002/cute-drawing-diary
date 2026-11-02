@@ -1,0 +1,31 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: Simple sunny garden corner with a low TWO-panel wooden rail fence turning gently into distance, ochre posts with realistic connected rails and ground contact. A yellow-olive shrub partly overlaps fence at lower left, a pale gray-green lawn behind, small pale-cyan sky patch. Beige bare ground in foreground, sparse olive grass dabs. Three readable depth layers. No house, gate hardware, flowers or fine wood grain. Square marker illustration, moderate detail. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "instruction_pages": [
+    {
+      "key": "S002-019-p1",
+      "material_id": "S002-019",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 1/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-019 木栅栏边的晴光 · 关键过程 1. Top tool codes: 67,172,44,41,95,25. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 67 浅青蓝（照片观察）; 172 极浅灰绿（照片观察）; 44 偏黄的橄榄绿（照片观察）; 41 较深橄榄绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）. Panel instructions: 1 定位三层与焦点 — Pencil outline only, no final colors. 铅笔: 画幅约12厘米，先标近处灌木、中间栅栏、远处草地三层；栅栏最高处不过画面上三分之二。 Check: 主体是栅栏与灌木，不让远树抢焦点。 2 校正柱与横杆 — Pencil outline only, no final colors. 铅笔: 标两根主柱的上、下端，再画两条横杆；每根杆必须接到柱上，远端略短、略窄，不凭空结束在草里。 Check: 杆与柱连接明确，柱底在同一坡面。 4 铺远天空和草地 — Cumulative state AFTER operation 4, earlier marks preserved, later-operation colors and marks absent. 67、172: 67只铺上方小片天空，云留纸白；172铺远草地，栅栏与灌木区域暂不涂。 Check: 远景比近景轻，天空不压满整张纸。 5 搭远树浅色 — Cumulative state AFTER operation 5, earlier marks preserved, later-operation colors and marks absent. 44: 用少量大短触概括远树和低灌木，边缘软而不碎；近灌木只先铺浅形，不急着每叶加深。 Check: 远树笔触比近叶更少、更小。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    },
+    {
+      "key": "S002-019-p2",
+      "material_id": "S002-019",
+      "page": 2,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 2/2. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-019 木栅栏边的晴光 · 关键过程 2. Top tool codes: 67,172,44,41,95,25. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 67 浅青蓝（照片观察）; 172 极浅灰绿（照片观察）; 44 偏黄的橄榄绿（照片观察）; 41 较深橄榄绿（照片观察）; 95 赭棕、黄棕（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）. Panel instructions: 6 铺土与木头亮面 — Cumulative state AFTER operation 6, earlier marks preserved, later-operation colors and marks absent. 25、95: 25薄铺近地，95单层画柱和杆的正面，顶部窄边提前留浅；不另加图外的深棕色号。 Check: 杆有厚度但不靠黑线包边，浅亮边是预留。 7 干后建立木头暗侧 — Cumulative state AFTER operation 7, earlier marks preserved, later-operation colors and marks absent. 95: 用同一95第二遍只压柱侧、杆下沿和连接处的小窄面。一次画完一条暗侧，别湿叠来回刷。 Check: 暗侧方向一致，横杆不会变成漂浮线条。 8 丰富近灌木笔触 — Cumulative state AFTER operation 8, earlier marks preserved, later-operation colors and marks absent. 44、41: 近叶以44宽触和41少量背光触形成不规则边；让几片叶挡住栏杆，暗色集中在根部和重叠处。 Check: 近密远疏，栏杆仍是可读的大形。 10 处理草与结构线 — Cumulative state AFTER operation 10, earlier marks preserved, later-operation colors and marks absent. 41、95、可选0.15针管笔: 土边只添三五组草。全干后若连接处仍不清楚，仅补一段细结构线，不勾整张风景。 Check: 杆接柱、柱接地，最后删除心中想加的无关小物。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已核对栅栏连接、先远后近浅色与纸白",
+      "correction_prompt": null
+    },
+    {
+      "page": 2,
+      "review": "已核对木头明暗、近叶遮挡与接地",
+      "correction_prompt": null
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

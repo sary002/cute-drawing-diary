@@ -1,0 +1,20 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Edit this three-tuft grass study: keep tall tuft left, small center and medium right with ample white ground. Preserve simple D2 level but replace repetitive symmetrical strap leaves and capsule seed heads with loose irregular naturally tapering blade strokes, varied curvature and spacing; about 6-9 leaves per tuft, each a single broad-to-fine marker gesture. Five mustard31 seed heads each made of 4-6 small irregular staggered dashes along a thin stem, not solid capsules. Muted teal58 and yellow-olive44 leaves; pale gray-green172 patch of ground. Light sunny air, subtle grouped density, three distinct unequal tufts, no added objects or dense landscape. Transparent student alcohol marker, no gradients, no black contour, no printed words or numbers.",
+  "instruction_pages": [
+    {
+      "key": "S002-013-p1",
+      "material_id": "S002-013",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. CUMULATIVE key-state instruction sheet, SAME scene composition, positions, viewpoint and scale in every panel. Page 1/1. Panel numbers match detailed text operation numbers, do not renumber. Tiny incidental strokes may be simplified, actual structural connections must remain correct.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-013 坡脚的长短草 · 关键过程 1. Top tool codes: 31,44,58,172. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 31 偏芥末的黄色（照片观察）; 44 偏黄的橄榄绿（照片观察）; 58 灰调青绿，非浅薄荷绿（照片观察）; 172 极浅灰绿（照片观察）. Panel instructions: 1 定位三组草 — Pencil outline only, no final colors. 铅笔: 画一条斜坡脚，左高、中低、右中等，三组根部留出约1厘米空隙。只画各组最高的生长弧线，不逐片描轮廓。 Check: 三组高度和间距不机械相同。 3 浅铺坡脚 — Cumulative state AFTER operation 3, earlier marks preserved, later-operation colors and marks absent. 172: 顺坡面横向轻扫一层，三组根部附近略连通，中间留断笔。让画面大部分仍是纸白。 Check: 地面浅，根部有落点，不是一整片深底。 6 点自然穗头 — Cumulative state AFTER operation 6, earlier marks preserved, later-operation colors and marks absent. 31: 在约5条高茎顶端，用4～6个错开的短点形成渐尖小穗；点与点之间留缝，不画实心胶囊。 Check: 穗头大小不同但朝向有联系。 8 比较长短节奏 — Cumulative state AFTER operation 8, earlier marks preserved, later-operation colors and marks absent. 橡皮: 干后擦弱可见铅笔，检查高—低—中的节奏。任选一组在废纸再画一个更疏的版本，对比哪种更清楚。 Check: 能说明长叶、短叶和空隙分别承担什么作用。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已核对修订后的累计色层、上色顺序与本课结构；系列复用母稿已校正",
+      "correction_prompt": "Edit this instructional page, keep all four panels, page title, colors and labels unchanged except targeted corrections. Panel labeled 6 点自然穗头 is INCORRECT because previous steps have vanished. Replace ONLY its drawing with cumulative state: same three tufts and pale172 ground, ALL yellow-olive44 and muted-teal58 grass blades and stems already fully colored, PLUS five mustard31 seed heads. It should look nearly the same as panel8, just retaining faint pencil guide lines and without the final cleanup. No pencil-only leaves in panel6. Keep panel1 pencil-only and panel3 ground-only. Also REMOVE the entire English instruction sentence at bottom-right; leave only Chinese footer AI教学示意 · 详细操作见正文. Never erase completed previous colors from cumulative later panels. Do not add subjects or change composition."
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

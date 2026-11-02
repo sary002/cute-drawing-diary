@@ -1,0 +1,20 @@
+{
+  "source": "OpenAI built-in image_gen",
+  "finished_prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: A bright ochre-yellow hillside with a single small rust-ochre deciduous tree near upper right; a broad pale beige zig-zag footpath cuts lower slope; distant pale lavender ridge and deeper-purple small shadow accents. White sky, no sun disk, not sunset. Limited dark brown branching, selective short foliage strokes, large untextured sunny masses. No cottage or bench. A restrained original autumn landscape. Palette: 31 mustard yellow; 24 amber orange ochre; 95 ochre brown; 92 dark brown; 75 pale lavender; 82 deeper purple; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "instruction_pages": [
+    {
+      "key": "S002-028-p1",
+      "material_id": "S002-028",
+      "page": 1,
+      "prompt": "Use case: scientific-educational. Create one large legible teaching page, 2x2 grid FOUR LARGE panels. D4 autonomous composition helper, not a copy-along finished picture. Panels are thumbnail choices, large masses, structure, palette/order. Each diagram is only one possible solution.  Attached artwork is composition and palette reference, NEVER copy finished colors into early stages. S002 sunlit natural brushstroke marker style, broad masses, irregular organic plant strokes and white gaps, no circular leaf blobs or dot borders. Title exact Chinese: S002-028 赭黄山坡的晴天 · 构思与结构. Top tool codes: 31,24,95,92,75,82,25. Each panel has given numbered Chinese title and ONLY ONE SHORT readable Chinese instruction hint, not the entire paragraph below; drawings occupy most panel area. White page, thin gray dividers, generous margins. The full instructions below constrain what to illustrate, not all to print. Palette: 31 偏芥末的黄色（照片观察）; 24 偏赭的金橙、琥珀色（照片观察）; 95 赭棕、黄棕（照片观察）; 92 深棕（照片观察）; 75 浅薰衣草紫（照片观察）; 82 较深紫色（照片观察）; 25 很浅的灰米色、灰肤色（照片观察）. Panel instructions: 1 两种小稿 — Show TWO small pencil thumbnails with different focal placement or framing for this same subject, mark A and B, genuinely different possible layouts, no final colors. 2 三组大形 — Chosen-example thumbnail only; show pale flat masses for main subject, support and reserved white; add small light-source arrow and focal dot. 3 结构与留白 — Large pencil STRUCTURE STUDY: 暖色坡配冷色远山仍是晴日风景；光感由明暗与纸白产生，不需要画太阳。树根落坡，投影顺坡。 Show critical connections and white gaps, no dense foliage. 4 配色与顺序 — Separated numeric color swatches using ONLY 31,24,95,92,75,82,25 and a SIMPLE chosen-example block-in, NOT final rendering. Printed note: 先构思，再按需看示意。. Footer exact: AI教学示意 · 详细操作见正文. Transparent student alcohol/oil markers on 16.5cm paper, light-to-dark, reserve white before color. No opaque white over dark, no smooth digital gradients, no thick black outline. No extra subjects."
+    }
+  ],
+  "image_review": [
+    {
+      "page": 1,
+      "review": "已逐张检查构图连续性、关键结构、色号文字与留白；允许非关键笔触概括差异",
+      "correction_prompt": null
+    }
+  ],
+  "purpose": "原创AI教学示意，不计实际手绘完成"
+}

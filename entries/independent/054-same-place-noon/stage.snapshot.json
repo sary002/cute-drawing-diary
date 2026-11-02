@@ -1,0 +1,27 @@
+{
+  "id": "independent",
+  "level": "D4",
+  "name": "自主创作",
+  "focus": [
+    "根据主题或观察设计原创构图",
+    "自主选择配色与操作顺序",
+    "通过系列作品稳定个人表达"
+  ],
+  "lesson_limits": {
+    "marker_colors_max": 10
+  },
+  "exit_criteria": [
+    "能从主题或观察出发设计画面",
+    "能说明关键构图与配色选择",
+    "能在不同作品中保持风格并自行调整"
+  ],
+  "status": "defined",
+  "tools_profile": null,
+  "review_after_completed_entries": 7,
+  "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+  "core_lessons_per_style": 7,
+  "optional_consolidation_lessons": [
+    2,
+    3
+  ]
+}

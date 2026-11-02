@@ -1,0 +1,27 @@
+{
+  "id": "beginner",
+  "level": "D1",
+  "name": "基础大形",
+  "focus": [
+    "概括主要形状与位置",
+    "区分主要色块并控制边界",
+    "规划纸白与简单遮挡"
+  ],
+  "lesson_limits": {
+    "marker_colors_max": 5
+  },
+  "exit_criteria": [
+    "能独立概括主要形状并定位",
+    "主要色块和遮挡关系清楚",
+    "能保留所选风格的一项核心视觉特征"
+  ],
+  "status": "defined",
+  "tools_profile": null,
+  "review_after_completed_entries": 7,
+  "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+  "core_lessons_per_style": 7,
+  "optional_consolidation_lessons": [
+    2,
+    3
+  ]
+}

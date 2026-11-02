@@ -1,0 +1,41 @@
+{
+  "material_id": "S002-026",
+  "stage": "independent",
+  "slot": 1,
+  "slug": "morning-window-view",
+  "title": "窗外的第一束晴光",
+  "goal": "自主选择取景范围与主要色块",
+  "colors": [
+    "25",
+    "67",
+    "172",
+    "44",
+    "41",
+    "95",
+    "143"
+  ],
+  "scene": "View OUT through an open window, only minimal pale beige bottom sill and one side frame visible, outdoors dominates: a small olive shrub lit by early sun beside a pale gray-green lawn and a slender ochre path, pale cyan sky. Warm-cool balance, white paper sunlit gaps. No indoor props, curtains, furniture or opaque glow. Natural sunny brushstroke landscape, medium detail. Framing is deliberate and composition airy.",
+  "decision": "先自己选择窗框比例与户外主体；成品只作一种解法，不要求复制",
+  "teaching_mode": "independent",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: View OUT through an open window, only minimal pale beige bottom sill and one side frame visible, outdoors dominates: a small olive shrub lit by early sun beside a pale gray-green lawn and a slender ochre path, pale cyan sky. Warm-cool balance, white paper sunlit gaps. No indoor props, curtains, furniture or opaque glow. Natural sunny brushstroke landscape, medium detail. Framing is deliberate and composition airy. Palette: 25 very pale gray-beige; 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 143 extremely pale blue-gray. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/independent/050-morning-window-view.md"
+}

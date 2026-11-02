@@ -1,0 +1,120 @@
+[
+  {
+    "material_id": "S002-019",
+    "slug": "fence-corner",
+    "title": "木栅栏边的晴光",
+    "goal": "用前后遮挡建立三层小景",
+    "colors": [
+      "67",
+      "172",
+      "44",
+      "41",
+      "95",
+      "25"
+    ],
+    "lesson_path": "lessons/scene/043-fence-corner.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-020",
+    "slug": "stream-turn",
+    "title": "小溪拐了个弯",
+    "goal": "用近宽远窄的水面组织纵深",
+    "colors": [
+      "67",
+      "65",
+      "58",
+      "172",
+      "95",
+      "25",
+      "41"
+    ],
+    "lesson_path": "lessons/scene/044-stream-turn.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-021",
+    "slug": "gate-through-flowers",
+    "title": "花丛后的园门",
+    "goal": "安排一个焦点并降低次要细节",
+    "colors": [
+      "9",
+      "11",
+      "58",
+      "44",
+      "95",
+      "25",
+      "143"
+    ],
+    "lesson_path": "lessons/scene/045-gate-through-flowers.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-022",
+    "slug": "orchard-rest",
+    "title": "果园里的空木箱",
+    "goal": "协调植物大形与箱体结构",
+    "colors": [
+      "37",
+      "41",
+      "95",
+      "92",
+      "25",
+      "172",
+      "67"
+    ],
+    "lesson_path": "lessons/scene/046-orchard-rest.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-023",
+    "slug": "steps-and-shadow",
+    "title": "台阶上的树影",
+    "goal": "统一地面转折与投影关系",
+    "colors": [
+      "25",
+      "WG5",
+      "WG7",
+      "44",
+      "41",
+      "95"
+    ],
+    "lesson_path": "lessons/scene/047-steps-and-shadow.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-024",
+    "slug": "field-edge",
+    "title": "金色田边的转弯",
+    "goal": "用近密远疏安排空间与节奏",
+    "colors": [
+      "31",
+      "24",
+      "95",
+      "75",
+      "82",
+      "25",
+      "58"
+    ],
+    "lesson_path": "lessons/scene/048-field-edge.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-025",
+    "slug": "garden-review",
+    "title": "晴日花园一角",
+    "goal": "回看焦点、三层空间与统一光向",
+    "colors": [
+      "67",
+      "172",
+      "44",
+      "41",
+      "95",
+      "25",
+      "75",
+      "58"
+    ],
+    "lesson_path": "lessons/scene/049-garden-review.md",
+    "color_review_status": "reviewed"
+  }
+]

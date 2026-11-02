@@ -1,0 +1,42 @@
+{
+  "material_id": "S002-032",
+  "stage": "independent",
+  "slot": 7,
+  "slug": "own-sunny-place",
+  "title": "我想留下的晴日",
+  "goal": "独立完成主题、构图与取舍并复盘",
+  "colors": [
+    "67",
+    "172",
+    "44",
+    "41",
+    "95",
+    "25",
+    "75",
+    "58"
+  ],
+  "scene": "A personal sunny landscape exemplar, view from a grassy rise towards a small pale-cyan pond at center-left, a simple beige winding trail curves around pond towards upper right, two unequal olive shrub clusters near far bank, a SMALL lavender flower patch in lower right. White clouds reserved in a small cyan sky patch. Sunny upper-left light, broad grouped shadow masses, foreground selective strokes and simple distant shapes. No buildings, bench, large foreground tree or highly detailed scenery. Beautiful through purposeful composition rather than intricacy, complexity similar D3. This is only one possible independent project result.",
+  "decision": "先从自己的主题出发画两张构图小稿并选一张，独立选色和顺序；完成后再看示意比较，不按图复制",
+  "teaching_mode": "independent",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D4 independent project exemplar, composition and decisions matter, not necessarily more details than D3. Scene: A personal sunny landscape exemplar, view from a grassy rise towards a small pale-cyan pond at center-left, a simple beige winding trail curves around pond towards upper right, two unequal olive shrub clusters near far bank, a SMALL lavender flower patch in lower right. White clouds reserved in a small cyan sky patch. Sunny upper-left light, broad grouped shadow masses, foreground selective strokes and simple distant shapes. No buildings, bench, large foreground tree or highly detailed scenery. Beautiful through purposeful composition rather than intricacy, complexity similar D3. This is only one possible independent project result. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige; 75 pale lavender; 58 muted teal. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "自主或专项示意；阶段为目标规划，实际能力需通过练习反馈复盘。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/independent/056-own-sunny-place.md"
+}

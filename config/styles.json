@@ -42,6 +42,38 @@
       },
       "historical_topic_pool": "curriculum/beginner.json",
       "course_status": "ready"
+    },
+    {
+      "id": "S002",
+      "slug": "sunlit-brushstroke-landscape",
+      "name": "晴日笔触风景",
+      "profile_path": "styles/002-sunlit-brushstroke-landscape.md",
+      "directions": [
+        "自然草木与可见短笔触",
+        "晴日光影与远近层次"
+      ],
+      "example_entries": [
+        "sunny-round-tree",
+        "cloud-over-grass",
+        "three-sunny-shrubs"
+      ],
+      "curriculum_paths": {
+        "beginner": "curriculum/S002/beginner.json",
+        "intermediate": "curriculum/S002/intermediate.json",
+        "scene": "curriculum/S002/scene.json",
+        "independent": "curriculum/S002/independent.json"
+      },
+      "preview_path": "styles/previews/S002-28-2026-11-02/README.md",
+      "course_status": "ready",
+      "course_preview_manifest": "styles/previews/S002-28-2026-11-02/manifest.json",
+      "course_preview_counts": {
+        "total": 28,
+        "new": 28,
+        "reused": 0,
+        "per_stage": 7,
+        "full_lessons_ready": 28,
+        "finished_previews_only": 0
+      }
     }
   ],
   "extension_policy": "追加编号并保留旧风格；临时换风格不改变默认值；默认值仅在明确要求时切换",

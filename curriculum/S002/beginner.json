@@ -1,0 +1,99 @@
+[
+  {
+    "material_id": "S002-005",
+    "slug": "sunny-round-tree",
+    "title": "晴光里的圆树",
+    "goal": "用树冠与树干两个大形定位主体",
+    "colors": [
+      "37",
+      "41",
+      "95",
+      "172"
+    ],
+    "lesson_path": "lessons/beginner/029-sunny-round-tree.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-006",
+    "slug": "cloud-over-grass",
+    "title": "白云经过草坡",
+    "goal": "在天空色块中提前保留完整白云",
+    "colors": [
+      "67",
+      "172",
+      "44"
+    ],
+    "lesson_path": "lessons/beginner/030-cloud-over-grass.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-007",
+    "slug": "three-sunny-shrubs",
+    "title": "路边三团灌木",
+    "goal": "用大小与前后遮挡组织植物大形",
+    "colors": [
+      "44",
+      "58",
+      "41",
+      "25"
+    ],
+    "lesson_path": "lessons/beginner/031-three-sunny-shrubs.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-008",
+    "slug": "three-purple-flowers",
+    "title": "晴日三枝紫花",
+    "goal": "把花头概括为大色团并保留间隙",
+    "colors": [
+      "75",
+      "82",
+      "58",
+      "25"
+    ],
+    "lesson_path": "lessons/beginner/032-three-purple-flowers.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-009",
+    "slug": "five-windy-grasses",
+    "title": "风往右边吹",
+    "goal": "用一致方向的长短笔触表现草叶",
+    "colors": [
+      "31",
+      "58",
+      "172"
+    ],
+    "lesson_path": "lessons/beginner/033-five-windy-grasses.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-010",
+    "slug": "sunlit-ochre-stone",
+    "title": "草地上的暖石头",
+    "goal": "用两块平涂区分受光面与暗面",
+    "colors": [
+      "25",
+      "95",
+      "172",
+      "41"
+    ],
+    "lesson_path": "lessons/beginner/034-sunlit-ochre-stone.md",
+    "color_review_status": "reviewed"
+  },
+  {
+    "material_id": "S002-011",
+    "slug": "path-to-sunny-shrub",
+    "title": "小路通向晴光",
+    "goal": "回看大形、留白与简单遮挡的组合",
+    "colors": [
+      "67",
+      "172",
+      "44",
+      "41",
+      "25"
+    ],
+    "lesson_path": "lessons/beginner/035-path-to-sunny-shrub.md",
+    "color_review_status": "reviewed"
+  }
+]

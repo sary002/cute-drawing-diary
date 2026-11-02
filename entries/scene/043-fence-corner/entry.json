@@ -1,0 +1,62 @@
+{
+  "number": 43,
+  "slug": "fence-corner",
+  "title": "木栅栏边的晴光",
+  "stage": "scene",
+  "style_id": "S002",
+  "teaching_mode": "supported",
+  "material_id": "S002-019",
+  "course_slot": 1,
+  "course_role": "mainline",
+  "goal": "用前后遮挡建立三层小景",
+  "marker_colors": [
+    "67",
+    "172",
+    "44",
+    "41",
+    "95",
+    "25"
+  ],
+  "tools_profile": "touchmark-student-36-v3",
+  "target_minutes": 90,
+  "lesson_path": "lessons/scene/043-fence-corner.md",
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen；原创晴日笔触风景教学示意"
+    },
+    {
+      "path": "reference/key-states-p1-v1.png",
+      "origin": "ai_generated",
+      "method": "内置imagegen；同构图关键过程示意"
+    },
+    {
+      "path": "reference/key-states-p2-v1.png",
+      "origin": "ai_generated",
+      "method": "内置imagegen；同构图关键过程示意"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "material_id": "S002-017",
+  "stage": "intermediate",
+  "slot": 6,
+  "slug": "reed-patch",
+  "title": "一小片芦苇",
+  "goal": "组合长叶与短穗笔触并控制留白",
+  "colors": [
+    "31",
+    "95",
+    "58",
+    "65",
+    "143",
+    "172"
+  ],
+  "scene": "Sparse small reed cluster along a narrow strip of pale blue-gray water at bottom. About NINE stems in two unequal clumps, mustard seed-head dashes, ochre thin stems, muted-teal long leaves gently leaning left. Limited blue-green water dashes, white paper reflection gaps, pale ground. No full lake panorama, far hills, buildings or dense reed curtain. Main emphasis stroke direction and white gaps.",
+  "decision": "决定两簇之间的距离；反光留纸白，控制水纹数量",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D2 specialized control, ONE primary skill, sparse simple scene. Scene: Sparse small reed cluster along a narrow strip of pale blue-gray water at bottom. About NINE stems in two unequal clumps, mustard seed-head dashes, ochre thin stems, muted-teal long leaves gently leaning left. Limited blue-green water dashes, white paper reflection gaps, pale ground. No full lake panorama, far hills, buildings or dense reed curtain. Main emphasis stroke direction and white gaps. Palette: 31 mustard yellow; 95 ochre brown; 58 muted teal; 65 blue-green; 143 extremely pale blue-gray; 172 extremely pale gray-green. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前成品笔触与枝叶比专项课目标偏密；正式D2教案需减至少量植物组、减少细节，或分次练习。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/intermediate/041-reed-patch.md"
+}

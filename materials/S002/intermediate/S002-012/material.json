@@ -1,0 +1,39 @@
+{
+  "material_id": "S002-012",
+  "stage": "intermediate",
+  "slot": 1,
+  "slug": "leaf-clusters",
+  "title": "枝头的叶影",
+  "goal": "用同向短笔触组成疏密有别的叶簇",
+  "colors": [
+    "37",
+    "44",
+    "41",
+    "95",
+    "172"
+  ],
+  "scene": "Close outdoor vignette of ONE overhanging branching bough entering from upper left, THREE separate clusters of broad yellow-green leaves, lit gaps of paper-white between clusters, small pale ground area. No whole tree, bench, cloud or distant scenery. Sparse repeated diagonal short dabs concentrated at leaf-cluster lower edges; clear light upper masses. Moderate simple study, not dense realistic foliage.",
+  "decision": "选择叶簇间空隙的位置；保留三团叶簇的疏密对比",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Edit this S002 alcohol-marker leaf study, preserving ONE ochre branch entering upper-left and THREE separate leaf clusters and generous white background. Replace the three round geometric blobs with three IRREGULAR open sprays of individual BROAD LEAF STROKES, roughly 12-18 leaves per spray, 3-5mm strokes at 16.5cm paper scale. Clusters different sizes, irregular jagged edges, gaps between leaves, stems visibly connect leaves, yellow-green37 and yellow-olive44 sunlit upper leaves, dark-olive41 leaf shadows placed asymmetrically INSIDE and beneath clusters, never rows of dots. Keep simple D2 learnable level but natural sunny botanical character, no dense realism, no perfect circles, no rectangles, no decorative dotted outline. Ochre95 branch, tiny very pale gray-green172 ground optional. Real transparent marker direction, light-to-dark, no opaque overlay. No text, panels, labels, face or outlines.",
+  "review_note": "自然叶形、间隙和不规则笔触修订；旧版保留，不改变素材号。",
+  "version": 2,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v2.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/intermediate/036-leaf-clusters.md"
+}

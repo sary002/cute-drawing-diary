@@ -1,0 +1,41 @@
+{
+  "material_id": "S002-022",
+  "stage": "scene",
+  "slot": 4,
+  "slug": "orchard-rest",
+  "title": "果园里的空木箱",
+  "goal": "协调植物大形与箱体结构",
+  "colors": [
+    "37",
+    "41",
+    "95",
+    "92",
+    "25",
+    "172",
+    "67"
+  ],
+  "scene": "One compact fruit-tree canopy at left upper half, no individually counted fruit, one small EMPTY wooden harvest crate on ground at right front. Crate visible top opening, inner dark-brown base and ochre side planes, consistent perspective, no false filled-in lid. Pale beige path between, pale gray-green ground, tiny pale-cyan sky patch. Sunny tree shadow limited to one grouped shape. No bench or flowers. Simplified sunny orchard scene.",
+  "decision": "箱口、内底和侧面可读；树冠不刻画每片叶",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: One compact fruit-tree canopy at left upper half, no individually counted fruit, one small EMPTY wooden harvest crate on ground at right front. Crate visible top opening, inner dark-brown base and ochre side planes, consistent perspective, no false filled-in lid. Pale beige path between, pale gray-green ground, tiny pale-cyan sky patch. Sunny tree shadow limited to one grouped shape. No bench or flowers. Simplified sunny orchard scene. Palette: 37 yellow-green; 41 dark olive; 95 ochre brown; 92 dark brown; 25 very pale gray-beige; 172 extremely pale gray-green; 67 pale cyan. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/scene/046-orchard-rest.md"
+}

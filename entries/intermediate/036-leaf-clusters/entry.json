@@ -1,0 +1,56 @@
+{
+  "number": 36,
+  "slug": "leaf-clusters",
+  "title": "枝头的叶影",
+  "stage": "intermediate",
+  "style_id": "S002",
+  "teaching_mode": "supported",
+  "material_id": "S002-012",
+  "course_slot": 1,
+  "course_role": "mainline",
+  "goal": "用同向短笔触组成疏密有别的叶簇",
+  "marker_colors": [
+    "37",
+    "44",
+    "41",
+    "95",
+    "172"
+  ],
+  "tools_profile": "touchmark-student-36-v3",
+  "target_minutes": 55,
+  "lesson_path": "lessons/intermediate/036-leaf-clusters.md",
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished-v2.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen；原创晴日笔触风景教学示意"
+    },
+    {
+      "path": "reference/key-states-p1-v1.png",
+      "origin": "ai_generated",
+      "method": "内置imagegen；同构图关键过程示意"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  }
+}

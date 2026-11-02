@@ -1,0 +1,40 @@
+{
+  "material_id": "S002-019",
+  "stage": "scene",
+  "slot": 1,
+  "slug": "fence-corner",
+  "title": "木栅栏边的晴光",
+  "goal": "用前后遮挡建立三层小景",
+  "colors": [
+    "67",
+    "172",
+    "44",
+    "41",
+    "95",
+    "25"
+  ],
+  "scene": "Simple sunny garden corner with a low TWO-panel wooden rail fence turning gently into distance, ochre posts with realistic connected rails and ground contact. A yellow-olive shrub partly overlaps fence at lower left, a pale gray-green lawn behind, small pale-cyan sky patch. Beige bare ground in foreground, sparse olive grass dabs. Three readable depth layers. No house, gate hardware, flowers or fine wood grain. Square marker illustration, moderate detail.",
+  "decision": "前景灌木挡住一部分栅栏；检查栅栏连接而非孤立悬杆",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: Simple sunny garden corner with a low TWO-panel wooden rail fence turning gently into distance, ochre posts with realistic connected rails and ground contact. A yellow-olive shrub partly overlaps fence at lower left, a pale gray-green lawn behind, small pale-cyan sky patch. Beige bare ground in foreground, sparse olive grass dabs. Three readable depth layers. No house, gate hardware, flowers or fine wood grain. Square marker illustration, moderate detail. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/scene/043-fence-corner.md"
+}

@@ -1,0 +1,42 @@
+{
+  "material_id": "S002-025",
+  "stage": "scene",
+  "slot": 7,
+  "slug": "garden-review",
+  "title": "晴日花园一角",
+  "goal": "回看焦点、三层空间与统一光向",
+  "colors": [
+    "67",
+    "172",
+    "44",
+    "41",
+    "95",
+    "25",
+    "75",
+    "58"
+  ],
+  "scene": "A compact sunny garden vignette with a short warm ochre wooden garden seat seen at a slight angle in middle left (clear seat thickness, four grounded legs, simple backrest), a pale beige path crossing diagonally behind it, lavender and muted-teal flowers in foreground right, yellow-olive low shrubs in distance. Small pale-cyan sky patch, pale green ground. No large tree, daisy carpet or original bench-under-tree composition. Clear three layers, one sunny shadow direction lower left. Moderate 8-color study, not intricate full garden.",
+  "decision": "自己先安排焦点和三层，再以示意检查；优先删去无关物件",
+  "teaching_mode": "supported",
+  "status": "lesson_ready",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original S002 sunlit brushstroke landscape artwork on white marker paper. Transparent oil/alcohol student-marker aesthetic, broad readable color masses and selective natural short plant strokes, sunny light and shadow groups, airy white paper, NO thick black outlines, NO cute faces. No printed words, numbers, panels, color swatches, watermarks or tools. Use only stated approximate hue families, slight same-marker overlap allowed; no smooth digital gradients, opaque impasto or pale strokes painted over dark. Reserve white shapes BEFORE color. No unnecessary microdetail or dense all-over texture. Narrow natural white margins. Composition must be distinct from other scenes. Intended for 16.5cm square marker paper. Stage: D3 integrated composition, 2-3 layers, moderate detail. Scene: A compact sunny garden vignette with a short warm ochre wooden garden seat seen at a slight angle in middle left (clear seat thickness, four grounded legs, simple backrest), a pale beige path crossing diagonally behind it, lavender and muted-teal flowers in foreground right, yellow-olive low shrubs in distance. Small pale-cyan sky patch, pale green ground. No large tree, daisy carpet or original bench-under-tree composition. Clear three layers, one sunny shadow direction lower left. Moderate 8-color study, not intricate full garden. Palette: 67 pale cyan; 172 extremely pale gray-green; 44 yellow olive; 41 dark olive; 95 ochre brown; 25 very pale gray-beige; 75 pale lavender; 58 muted teal. Keep relative hue character, these are planning labels not calibrated exact colors.",
+  "review_note": "当前为综合场景效果预览；正式备课需核对物件结构、统一光向和16.5厘米纸上的纹理可执行性。",
+  "version": 1,
+  "kind": "practice_lesson",
+  "course_role": "mainline",
+  "course_plan_only": false,
+  "image_path": "finished-v1.png",
+  "readiness": "ready",
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "工具档案相对色系、区域分工、成品与关键图文字交叉核对；非精确色度与实笔验证",
+    "reviewed_on": "2026-11-02",
+    "colorimetric_calibrated": false
+  },
+  "practice": {
+    "status": "pending",
+    "completed_on": null
+  },
+  "lesson_path": "lessons/scene/049-garden-review.md"
+}

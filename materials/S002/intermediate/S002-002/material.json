@@ -1,0 +1,18 @@
+{
+  "material_id": "S002-002",
+  "style_id": "S002",
+  "stage": "intermediate",
+  "kind": "finished_reference",
+  "course_role": "supplemental",
+  "title": "坡上的一株树",
+  "version": 1,
+  "image_path": "finished-v1.png",
+  "status": "candidate_preview",
+  "source": "AI-generated with built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original artwork, no panels, no text, no labels, no watermark. S002 sunlit brushstroke landscape style: visible alcohol-marker strokes on white marker paper, broad simplified color masses with selective short plant strokes, clear sunny light and shadow groups, natural landscape, no thick black outline, no cute faces. Looks achievable with transparent oil/alcohol student markers on 16.5cm paper: flat distinct color families, light-to-dark layering, white highlights reserved untouched paper, NO opaque pale-over-dark strokes, no paint impasto, no digital smooth gradients. Palette numbers describe approximate physical hues only, do not print them. Narrow irregular white paper margin. Fresh original composition unlike a large foreground tree and bench with white daisies. Title concept: A tree on a slope. Deliberately simple beginner-scale finished study, beautiful through strong large shapes, NOT highly detailed. One small rounded olive tree slightly right of center on a sloping pale gray-green field, forked short ochre trunk, one clear diagonal cast shadow to lower left, sky largely paper-white with ONE pale blue horizontal patch near top. Four approximate marker hues: 172 very pale gray-green for ground, 44 yellow olive for crown, 41 darker olive for sparse crown shadow and cast shadow, 95 ochre-brown trunk. Five or fewer discrete large shapes plus sparse grouped crown strokes and just a few foreground grass strokes. Lots of open paper. No flowers, bench, complex distant landscape or miniature details. Main goal big shape placement, simple shadow and reserved white, retain lively sunny outdoor air.",
+  "color_review": {
+    "status": "pending"
+  },
+  "completed": false,
+  "review": "构图简洁，但树冠碎笔触及明暗超过D1预期；目前估计D2，入门教学需再简化。"
+}

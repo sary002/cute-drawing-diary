@@ -1,0 +1,18 @@
+{
+  "material_id": "S002-003",
+  "style_id": "S002",
+  "stage": "scene",
+  "kind": "finished_reference",
+  "course_role": "supplemental",
+  "title": "风吹芦苇岸",
+  "version": 1,
+  "image_path": "finished-v1.png",
+  "status": "candidate_preview",
+  "source": "AI-generated with built-in image_gen",
+  "prompt": "Use case: illustration-story. Create ONE square standalone original artwork, no panels, no text, no labels, no watermark. S002 sunlit brushstroke landscape style: visible alcohol-marker strokes on white marker paper, broad simplified color masses with selective short plant strokes, clear sunny light and shadow groups, natural landscape, no thick black outline, no cute faces. Looks achievable with transparent oil/alcohol student markers on 16.5cm paper: flat distinct color families, light-to-dark layering, white highlights reserved untouched paper, NO opaque pale-over-dark strokes, no paint impasto, no digital smooth gradients. Palette numbers describe approximate physical hues only, do not print them. Narrow irregular white paper margin. Fresh original composition unlike a large foreground tree and bench with white daisies. Title concept: Wind at the reed shore. Moderate skill plant brushstroke study with sparse square landscape composition, not dense realism. A clump of tall reeds occupies the lower left quarter, stems and leaves bend diagonally right; a pale cyan small lake opens across center and right, low distant bank at upper third, much paper-white sky. Palette six approximate hues: 67 pale cyan water, 65 blue-green sparse water strokes, 58 muted teal reed leaves, 31 mustard yellow seed heads and sunny leaves, 95 ochre stems, 143 very pale blue-gray distant bank. Directional short and long marker strokes indicate wind; grouped leaves with white gaps, seed heads simple. Sunlight from upper left. No trees, bench, daisies, birds, boats, buildings or extra props. Restrained texture, broad readable masses, purposeful white areas and limited reflection strokes. Main goal plant stroke direction and density, no photorealistic reflections.",
+  "color_review": {
+    "status": "pending"
+  },
+  "completed": false,
+  "review": "芦苇密度与水面留白比原计划复杂，目前估计D3；专项练习需减少枝叶和水纹。"
+}

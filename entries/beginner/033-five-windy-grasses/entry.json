@@ -1,0 +1,54 @@
+{
+  "number": 33,
+  "slug": "five-windy-grasses",
+  "title": "风往右边吹",
+  "stage": "beginner",
+  "style_id": "S002",
+  "teaching_mode": "guided",
+  "tools_profile": "touchmark-student-36-v3",
+  "goal": "用一致方向的长短笔触表现草叶",
+  "marker_colors": [
+    "31",
+    "58",
+    "172"
+  ],
+  "material_id": "S002-009",
+  "course_slot": 5,
+  "course_role": "mainline",
+  "lesson_path": "lessons/beginner/033-five-windy-grasses.md",
+  "target_minutes": 35,
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen；原创D1教学示意"
+    },
+    {
+      "path": "reference/steps-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI内置imagegen；同构图递进教学示意"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "reviewed_on": "2026-11-02",
+    "method": "按工具档案的相对色系对照成品、步骤图与正文区域；浅色以同纸试色为准",
+    "colorimetric_calibrated": false
+  }
+}
