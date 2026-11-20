@@ -1,0 +1,55 @@
+{
+  "number": 58,
+  "slug": "teal-ceramic-mug",
+  "title": "青绿陶瓷杯",
+  "stage": "intermediate",
+  "style_id": "S001",
+  "teaching_mode": "guided",
+  "material_id": "S001-032",
+  "course_role": "supplemental",
+  "goal": "用双椭圆、杯内暗面和侧面色块表现中空杯身",
+  "marker_colors": [
+    "58",
+    "52",
+    "9",
+    "25",
+    "WG5",
+    "WG7"
+  ],
+  "tools_profile": "touchmark-student-36-v3",
+  "target_minutes": 45,
+  "lesson_path": "lessons/intermediate/058-teal-ceramic-mug.md",
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
+    },
+    {
+      "path": "reference/steps-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "按工具档案相对色系核对区域，需同纸试色",
+    "colorimetric_calibrated": false
+  }
+}

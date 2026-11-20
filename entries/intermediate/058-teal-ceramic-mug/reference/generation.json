@@ -1,0 +1,5 @@
+{
+  "source": "OpenAI 内置 imagegen",
+  "finished_reference": "finished-v1.png",
+  "steps_prompt": "Chinese marker tutorial, 2x2 four cumulative illustrations of the exact attached teal mug composition. Large numbered labels and no other tiny text. 1 铅笔定位: faint uncolored outlines including shadow and reserved white glint. 2 铺浅色: color wall and table and main 58 teal cup, keep dark cavity and right side blank, keep highlights paper white and cast shadow blank. 3 画暗面: add 52 dark teal inside opening and curved right flank and lower handle plus WG5 tabletop cast shadow touching base extending right. 4 干后勾线: match attached finished artwork, add restrained black linework only. Same view, shapes, light direction and scale across all panels. Exact title 青绿陶瓷杯. Footer AI教学示意. No invented steps or extra colors."
+}

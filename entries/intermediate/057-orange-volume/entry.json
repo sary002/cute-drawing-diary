@@ -1,0 +1,55 @@
+{
+  "number": 57,
+  "slug": "orange-volume",
+  "title": "桌上的小橘子",
+  "stage": "intermediate",
+  "style_id": "S001",
+  "teaching_mode": "guided",
+  "material_id": "S001-031",
+  "course_role": "supplemental",
+  "goal": "用弧形暗面和贴地投影画出果实的体积",
+  "marker_colors": [
+    "23",
+    "95",
+    "41",
+    "75",
+    "25",
+    "WG5"
+  ],
+  "tools_profile": "touchmark-student-36-v3",
+  "target_minutes": 45,
+  "lesson_path": "lessons/intermediate/057-orange-volume.md",
+  "lesson_status": "ready",
+  "references": [
+    {
+      "path": "reference/finished-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
+    },
+    {
+      "path": "reference/steps-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
+    }
+  ],
+  "practice": {
+    "status": "pending",
+    "completed_on": null,
+    "actual_minutes": null,
+    "photos": [],
+    "liked": null,
+    "improve": null
+  },
+  "publication": {
+    "status": "draft",
+    "url": null,
+    "published_at": null,
+    "metrics": []
+  },
+  "color_review": {
+    "status": "reviewed",
+    "based_on_tools_profile": "touchmark-student-36-v3",
+    "method": "按工具档案相对色系核对区域，需同纸试色",
+    "colorimetric_calibrated": false
+  }
+}

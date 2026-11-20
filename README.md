@@ -101,3 +101,8 @@ cute-drawing-diary/
 </details>
 
 代码与skill采用[MIT](LICENSE)，原创学习内容采用[CC BY 4.0](LICENSE-CONTENT.md)。AI教学示意与第三方参考的适用范围见[许可与来源](docs/licensing.md)。
+
+## S001 立体感加练
+
+- S001-031 [桌上的小橘子](lessons/intermediate/057-orange-volume.md)
+- S001-032 [青绿陶瓷杯](lessons/intermediate/058-teal-ceramic-mug.md)

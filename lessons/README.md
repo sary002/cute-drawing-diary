@@ -69,3 +69,8 @@ S002-005～011已配套成品、步骤图与完整正文，实际完成独立记
 | S001-026 | [风筝修理船](independent/026-kite-repair-ship.md) | 围绕想象主题自行设计主体、动势与道具关系 | 自主创作 |
 | S001-027 | [夜班种梦员](independent/027-night-dream-gardener.md) | 自主建立视觉母题与有节奏的画面组织 | 自主创作 |
 | S001-028 | [糖纸小城的早班车](independent/028-candy-wrapper-town-bus.md) | 综合主题设定、系列配色、主次与空间取舍 | 自主创作 |
+
+## S001 立体感加练
+
+- S001-031 [桌上的小橘子](intermediate/057-orange-volume.md)
+- S001-032 [青绿陶瓷杯](intermediate/058-teal-ceramic-mug.md)
