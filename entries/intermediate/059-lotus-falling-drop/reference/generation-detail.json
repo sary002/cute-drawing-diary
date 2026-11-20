@@ -1,0 +1,14 @@
+{
+  "source": "OpenAI 内置 imagegen",
+  "reference": "finished-v1.png",
+  "pages": [
+    {
+      "image": "leaf-bead-detail-v1.png",
+      "prompt": "Chinese marker drawing tutorial, title \"叶面水珠｜上色放大图\", FOUR large 2x2 cumulative panels, perfectly identical silhouette and scale, short accurate Chinese labels only. Use attached lotus illustration as style and subject. Closeup of same large round dome drop on green lotus leaf, same background leaf vein in all panels. 1 留纸白: drop interior entirely white with pencil marked top-left oval highlight. 2 37 铺叶色: yellow-green flat fill, preserve white highlight and single-layer green lower-right arc. 3 44 画内暗弧: muted olive short inner arc along upper-left/up rim around white glint, and one gently bent olive vein inside, lower-right arc unchanged. 4 52 补贴叶短影: only add small deep teal shadow OUTSIDE and touching lower-right base, inside unchanged. Each panel must add exactly its specified color; no photoreal gradient, no black ring, clear areas, footnote \"AI教学示意\"."
+    },
+    {
+      "image": "falling-drop-detail-v1.png",
+      "prompt": "Chinese marker drawing tutorial, title \"空中落滴｜上色放大图\", FOUR large 2x2 cumulative panels, perfectly identical silhouette and scale, short accurate Chinese labels only. Use attached lotus illustration as style and subject. Isolate the elongated detached falling droplet against same blue pond, tiny leaf-tip bead above with visible blue gap in all panels, no cast shadow. 1 留纸白: pencil outline, reserve white oblong top-left highlight. 2 67 铺亮边: only pale cyan arc on bottom-right inside edge. 3 68 铺滴心: medium cyan-blue interior, keeping white specular and 67 arc. 4 69 补暗侧: tiny narrow dark indigo inner stroke near upper tip, nothing else changes. Each panel must add exactly its specified color; no photoreal gradient, no black ring, clear areas, footnote \"AI教学示意\"."
+    }
+  ]
+}

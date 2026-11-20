@@ -30,6 +30,16 @@
       "path": "reference/steps-v1.png",
       "origin": "ai_generated",
       "method": "OpenAI 内置 imagegen"
+    },
+    {
+      "path": "reference/leaf-bead-detail-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
+    },
+    {
+      "path": "reference/falling-drop-detail-v1.png",
+      "origin": "ai_generated",
+      "method": "OpenAI 内置 imagegen"
     }
   ],
   "practice": {
