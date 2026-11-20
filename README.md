@@ -106,3 +106,4 @@ cute-drawing-diary/
 
 - S001-031 [桌上的小橘子](lessons/intermediate/057-orange-volume.md)
 - S001-032 [青绿陶瓷杯](lessons/intermediate/058-teal-ceramic-mug.md)
+- S001-033 [荷叶上的水滴](lessons/intermediate/059-lotus-falling-drop.md)

@@ -36,3 +36,4 @@
 
 - S001-031 [桌上的小橘子](057-orange-volume.md)
 - S001-032 [青绿陶瓷杯](058-teal-ceramic-mug.md)
+- S001-033 [荷叶上的水滴](059-lotus-falling-drop.md)

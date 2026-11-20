@@ -74,3 +74,4 @@ S002-005～011已配套成品、步骤图与完整正文，实际完成独立记
 
 - S001-031 [桌上的小橘子](intermediate/057-orange-volume.md)
 - S001-032 [青绿陶瓷杯](intermediate/058-teal-ceramic-mug.md)
+- S001-033 [荷叶上的水滴](intermediate/059-lotus-falling-drop.md)

@@ -6,7 +6,7 @@
   "retirement_policy": "never reuse an assigned number",
   "styles": {
     "S001": {
-      "last_assigned_number": 32,
+      "last_assigned_number": 33,
       "initial_mainline_count": 28,
       "assigned_material_manifest": "styles/previews/S001-2026-11-01/manifest.json",
       "retired_numbers": []

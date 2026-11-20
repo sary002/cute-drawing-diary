@@ -1,0 +1,27 @@
+{
+  "id": "intermediate",
+  "level": "D2",
+  "name": "专项控制",
+  "focus": [
+    "围绕一种风格技法反复练习",
+    "控制线条、笔触、色彩或形状关系",
+    "把新技能用于不同题材"
+  ],
+  "lesson_limits": {
+    "marker_colors_max": 6
+  },
+  "exit_criteria": [
+    "能在两种不同题材中使用本阶段技法",
+    "关键操作不必逐笔依赖示意",
+    "画面保持该风格的视觉特点"
+  ],
+  "status": "defined",
+  "tools_profile": null,
+  "review_after_completed_entries": 7,
+  "tool_changes": "沿用实际工具配置；按风格与技法适配，不以购买新工具作为晋级条件",
+  "core_lessons_per_style": 7,
+  "optional_consolidation_lessons": [
+    2,
+    3
+  ]
+}

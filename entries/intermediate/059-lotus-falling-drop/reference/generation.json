@@ -1,0 +1,5 @@
+{
+  "source": "OpenAI 内置 imagegen",
+  "finished_reference": "finished-v1.png",
+  "steps_prompt": "Make a Chinese 2x2 cumulative four-step marker tutorial for the exact attached approved lotus leaf and falling droplet. Title 荷叶上的水滴. 1 铅笔定位: same composition in light pencil, leaf curl, large bead and detached falling drop, reserve white. 2 铺底色: flat medium blue pond and yellow green leaf, bead interiors and white glints reserved, no black. 3 刻画卷边: dark teal underside, olive folds and radial veins stopping at the large bead, water stays undisturbed directly below falling drop except faint ripples. 4 完成水滴: match reference with green transparent bead on leaf, tiny bead at tip and fully detached clear falling drop aligned beneath with visible blue gap, highlights and short contact shadows. Preserve exact placement, perspective and colors. Footer AI教学示意. No other text or swatches. Marker flat color."
+}
